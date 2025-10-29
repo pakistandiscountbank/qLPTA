@@ -1,0 +1,462 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>ATPL Question Bank</title>
+<style>
+  :root{
+    --bg:#0a0a0a; --bg-soft:#141414; --card:#111315; --text:#ffffff;
+    --muted:#9ca3af; --border:#262626; --accent:#3f3f46;
+    --ok:#22c55e; --bad:#ef4444; --flag:#f59e0b;
+    --qbox-bg:#e3f2f8; --qbox-text:#0a0a0a;
+    --answered-exam:#6b7280;
+  }
+  body.light{
+    --bg:#f6f7f9; --bg-soft:#ffffff; --card:#ffffff; --text:#0a0a0a;
+    --muted:#4b5563; --border:#e5e7eb; --accent:#9ca3af;
+    --ok:#16a34a; --bad:#dc2626; --flag:#d97706;
+    --qbox-bg:#e9f6fb; --qbox-text:#0a0a0a;
+    --answered-exam:#9ca3af;
+  }
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}
+  .container{max-width:1280px;margin:0 auto;padding:16px 24px}
+  .topbar{position:sticky;top:0;z-index:10;background:color-mix(in oklab, var(--bg) 85%, transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--border)}
+  .header{display:flex;justify-content:space-between;align-items:center;gap:12px}
+  .hstack{display:flex;align-items:center;gap:12px}
+  .vstack{display:flex;flex-direction:column;gap:12px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px;box-shadow:0 10px 24px rgba(0,0,0,.06)}
+  .badge{display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid var(--border);border-radius:999px;background:var(--bg-soft);color:var(--muted);font-size:12px}
+  .small{color:var(--muted);font-size:12px}
+  .select,.input,.button{padding:10px 12px;border-radius:12px;border:1px solid var(--border);background:var(--bg-soft);color:var(--text)}
+  .button{cursor:pointer;transition:background .2s,border .2s,transform .1s}
+  .button.primary{background:linear-gradient(135deg,#3f3f46,#52525b);border:none;color:#fff}
+  .button.ghost{background:transparent}
+  .button:active{transform:scale(.98)}
+  .button:disabled{opacity:.6;cursor:not-allowed}
+  .theme-toggle{position:fixed;right:14px;top:14px;z-index:1000}
+  .mode-buttons{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:6px}
+  .mode-btn{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;border:2px solid var(--border);border-radius:14px;cursor:pointer;background:var(--bg-soft);transition:border .2s,background .2s,transform .1s}
+  .mode-btn:hover{border-color:var(--accent)}
+  .mode-btn.active{border-color:#22c55e;background:color-mix(in oklab, var(--bg) 88%, #000 0%)}
+  .mode-btn span{font-size:14px;color:var(--muted)}
+  .mode-btn strong{font-size:18px;margin-bottom:6px}
+  .grid{display:grid;gap:16px}
+  .grid-2{grid-template-columns:1fr 1fr}
+  .grid-3{grid-template-columns:240px 1fr 320px}
+  @media (max-width: 1024px){.grid-3{grid-template-columns:1fr}.mode-buttons{grid-template-columns:1fr}}
+  .question-box{background:var(--qbox-bg);border-radius:10px;padding:24px;color:var(--qbox-text);line-height:1.5}
+  .question-text{margin:0 0 16px 0;font-size:16px}
+  .option-list{list-style:none;padding:0;margin:0}
+  .option-list li{display:flex;align-items:center;gap:10px;margin:8px 0;font-size:15px}
+  .option-list input[type=radio]{accent-color:#0a4d73;width:18px;height:18px;cursor:pointer}
+  .grid-pager{display:grid;grid-template-columns:repeat(auto-fill,minmax(36px,1fr));gap:8px}
+  .pager-btn{padding:8px;border:1px solid var(--border);border-radius:8px;background:var(--bg-soft);color:var(--text);cursor:pointer;text-align:center;font-size:12px}
+  .pager-btn.active{outline:2px solid #888}
+  /* Test mode correctness colors */
+  .pager-btn.correct{ border-color: var(--ok); }
+  .pager-btn.incorrect{ border-color: var(--bad); }
+  /* Exam mode answered-neutral */
+  .pager-btn.answered-exam{ border-color: var(--answered-exam); color: var(--answered-exam); }
+  /* Flagged styling (both modes) */
+  .pager-btn.flagged{ box-shadow: 0 0 0 2px color-mix(in oklab, var(--flag) 60%, transparent); border-color: var(--flag); }
+
+  .hidden{display:none!important}
+  .demo{border:1px dashed var(--border);padding:8px 12px;border-radius:10px;background:var(--bg-soft)}
+
+  /* Feedback styling */
+  .feedback-inline{margin-top:12px;padding:10px 12px;border-radius:10px;background:rgba(34,197,94,.12);color:#22c55e;}
+  .feedback-inline.bad{background:rgba(239,68,68,.12);color:#ef4444;}
+  .feedback-inline .explanation{display:block;margin-top:6px;font-size:12px;color:inherit;opacity:.9;}
+
+  /* Results stats (simplified) */
+  .result-stats { display:grid; gap:8px; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); }
+  .stat { display:flex; align-items:center; gap:8px; padding:10px 12px; border:1px solid var(--border); border-radius:10px; background:var(--bg-soft); color:var(--text); }
+  .stat .label { color: var(--muted); font-size:12px; }
+  .stat .value { font-weight:600; }
+
+  /* Preset buttons */
+  .preset-row{display:flex;flex-wrap:wrap;gap:8px}
+  .chip{padding:6px 10px;border:1px solid var(--border);border-radius:999px;background:var(--bg-soft);cursor:pointer;font-size:12px;color:var(--text)}
+  .chip:hover{border-color:var(--accent)}
+</style>
+</head>
+<body>
+<div class="theme-toggle"><button id="themeBtn" class="button">🌙 Dark</button></div>
+<div id="menu" class="container">
+  <div class="vstack" style="max-width:980px;margin:36px auto">
+    <h1 style="margin:0">ATPL Question Bank</h1>
+    <div class="demo small">Version <strong>v1.6-test</strong> — Adds question flagging.</div>
+    <div class="grid grid-2" style="margin-top:12px">
+      <section class="card vstack">
+        <h3 style="margin:0">Setup</h3>
+        <label class="small">Subject</label>
+        <select class="select" id="mSubject"><option selected disabled>Loading…</option></select>
+        <div class="hstack small" id="mSubjectInfo"></div>
+
+        <!-- Moved shuffle directly under subject -->
+        <label class="hstack small" style="margin-top:4px"><input type="checkbox" id="mShuffle" checked> Shuffle questions</label>
+
+        <div class="vstack" style="margin-top:8px">
+          <label class="small">Number of questions</label>
+          <div class="preset-row" style="margin-bottom:6px">
+            <span class="chip" data-q="10">10 Q</span>
+            <span class="chip" data-q="25">25 Q</span>
+            <span class="chip" data-q="all">All</span>
+          </div>
+          <input class="input" id="mCount" type="number" min="1" value="50" />
+        </div>
+
+        <div class="vstack" style="margin-top:8px">
+          <label class="small">Duration</label>
+          <div class="preset-row" style="margin-bottom:6px">
+            <span class="chip" data-min="15">15m</span>
+            <span class="chip" data-min="30">30m</span>
+            <span class="chip" data-min="60">60m</span>
+            <span class="chip" data-min="0">No timer</span>
+          </div>
+          <input class="input" id="mMinutes" type="number" min="0" value="60" />
+        </div>
+
+        <div class="vstack" style="margin-top:8px">
+          <label class="small">Auto-advance (Test mode)</label>
+          <select class="select" id="mAdvance">
+            <option value="0">Off</option>
+            <option value="600" selected>Normal (600 ms)</option>
+            <option value="250">Fast (250 ms)</option>
+          </select>
+        </div>
+
+        <div class="vstack" style="margin-top:8px">
+          <label class="small">Mode</label>
+          <div class="mode-buttons">
+            <div class="mode-btn active" id="btnTest"><strong>Test Mode</strong><span>Instant feedback</span></div>
+            <div class="mode-btn" id="btnExam"><strong>Exam Mode</strong><span>Results at the end</span></div>
+          </div>
+        </div>
+
+        <div class="hstack" style="gap:12px">
+          <button class="button primary" id="mStart">Start quiz</button>
+        </div>
+      </section>
+
+      <section class="card vstack">
+        <h3 style="margin:0">Notes</h3>
+        <div class="small">• Flag questions while answering to review them later.</div>
+        <div class="small">• Exam mode: pager shows neutral grey for answered; flags still highlighted.</div>
+        <div class="small">• Test mode: green/red correctness; feedback persists; answers lock.</div>
+        <div class="small">• Dark/Light toggle in top-right.</div>
+      </section>
+    </div>
+  </div>
+</div>
+
+<div id="quiz" class="hidden">
+  <div class="topbar">
+    <div class="container">
+      <div class="header">
+        <div class="hstack"><button class="button" id="qBack">Menu</button><h2 style="margin:0;font-size:18px">ATPL – <span id="qSubject">Subject</span></h2></div>
+        <div class="hstack"><span class="badge" id="qScoreLive">Score 0/0</span><span class="badge" id="qTimer">--:--</span><span class="badge" id="qProgress">0 / 0</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container grid grid-3" style="margin-top:16px">
+    <aside class="vstack"><div class="card vstack"><h3 style="margin:0">Question <span id="qNumber">—</span></h3><div class="small">Status: <strong id="qStatus">—</strong></div></div></aside>
+    <main class="vstack">
+      <section class="card">
+        <div class="question-box" id="qBox">
+          <p class="question-text" id="qText">Select a subject to begin.</p>
+          <ul class="option-list" id="qOptions"></ul>
+        </div>
+      </section>
+      <div class="hstack" style="justify-content:space-between">
+        <button class="button" id="qPrev" disabled>Previous</button>
+        <div class="hstack">
+          <button class="button ghost" id="qFlagBtn" aria-pressed="false">🚩 Flag</button>
+          <button class="button" id="qNext" disabled>Next</button>
+          <button class="button primary" id="qFinish" disabled>Finish</button>
+        </div>
+      </div>
+      <section class="card vstack hidden" id="qResults">
+        <h3 style="margin:0">Results</h3>
+        <div class="result-stats">
+          <div class="stat"><div class="label">Accuracy (answered)</div><div class="value" id="qAccuracy">0% (0/0)</div></div>
+          <div class="stat"><div class="label">Time used</div><div class="value" id="qTimeUsed">00:00</div></div>
+        </div>
+        <div class="vstack small" id="qBreakdown" style="margin-top:8px"></div>
+        <div class="vstack small hidden" id="qFlaggedWrap" style="margin-top:8px">
+          <h4 style="margin:8px 0 0 0">Flagged questions</h4>
+          <div id="qFlaggedList"></div>
+        </div>
+      </section>
+    </main>
+    <aside class="vstack"><div class="card vstack"><h3 style="margin:0">Navigation</h3><div class="grid-pager" id="qPager"></div></div></aside>
+  </div>
+</div>
+
+<script>
+// Theme
+const themeBtn=document.getElementById('themeBtn');
+function applyTheme(light){document.body.classList.toggle('light',light);themeBtn.textContent=light?'☀️ Light':'🌙 Dark';}
+themeBtn.onclick=()=>applyTheme(!document.body.classList.contains('light'));applyTheme(false);
+
+// Elements
+const menu=document.getElementById('menu'),quiz=document.getElementById('quiz');
+const mSubject=document.getElementById('mSubject'),mSubjectInfo=document.getElementById('mSubjectInfo');
+const mCount=document.getElementById('mCount'),mMinutes=document.getElementById('mMinutes'),mShuffle=document.getElementById('mShuffle'),mAdvance=document.getElementById('mAdvance');
+const btnTest=document.getElementById('btnTest'),btnExam=document.getElementById('btnExam'),mStart=document.getElementById('mStart');
+const qBack=document.getElementById('qBack'),qSubject=document.getElementById('qSubject'),qTimer=document.getElementById('qTimer'),qProgress=document.getElementById('qProgress'),qScoreLive=document.getElementById('qScoreLive');
+const qNumber=document.getElementById('qNumber'),qStatus=document.getElementById('qStatus'),qText=document.getElementById('qText'),qOptions=document.getElementById('qOptions');
+const qPrev=document.getElementById('qPrev'),qNext=document.getElementById('qNext'),qFinish=document.getElementById('qFinish'),qPager=document.getElementById('qPager');
+const qResults=document.getElementById('qResults'),qBreakdown=document.getElementById('qBreakdown');
+const qAccuracy=document.getElementById('qAccuracy'), qTimeUsed=document.getElementById('qTimeUsed');
+const qFlagBtn=document.getElementById('qFlagBtn'), qFlaggedWrap=document.getElementById('qFlaggedWrap'), qFlaggedList=document.getElementById('qFlaggedList');
+
+// State
+let RAW=null,SUBJECT='',POOL=[],QUESTIONS=[],INDEX=0,ANSWERS=[],MODE='test',TIMER_END=null;
+let SCORE_CORRECT=0,QUESTIONS_ANSWERED=0;
+let START_TS=null;
+let FLAGGED=[];
+
+// Utils
+function normalize(q){const o=q.choices||q.answers||[];const c=(q.answer!==undefined)?q.answer:q.correct_answer;return{text:q.question,options:o,correct:String(c),explanation:q.explanation||null};}
+function fyShuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+function isCorrect(i){const q=QUESTIONS[i],sel=ANSWERS[i];return sel!=null&&String(q.options[sel])===String(q.correct);}
+function fmt(ms){const s=Math.max(0,Math.floor(ms/1000));const m=Math.floor(s/60),r=s%60;return`${String(m).padStart(2,'0')}:${String(r).padStart(2,'0')}`;}
+function fmtDur(ms){const s=Math.max(0,Math.floor(ms/1000));const h=Math.floor(s/3600);const m=Math.floor((s%3600)/60);const r=s%60;return h>0?`${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}:${String(r).padStart(2,'0')}`:`${String(m).padStart(2,'0')}:${String(r).padStart(2,'0')}`;}
+
+// Feedback utility
+function showFeedback(ok,correctText,explanation){
+  const old=document.querySelector('.feedback-inline');if(old)old.remove();
+  const fb=document.createElement('div');fb.className='feedback-inline'+(ok?'':' bad');
+  fb.textContent=ok?'Correct!':`Incorrect — correct answer: ${correctText}`;
+  if(!ok&&explanation){const ex=document.createElement('span');ex.className='explanation';ex.textContent=explanation;fb.appendChild(ex);}
+  document.getElementById('qBox').appendChild(fb);
+}
+
+// Pager with mode-specific coloring + flagged
+function rebuildPager(){
+  qPager.innerHTML='';
+  QUESTIONS.forEach((_,i)=>{
+    let cls='pager-btn';
+    if(i===INDEX) cls+=' active';
+    if(ANSWERS[i]!=null){
+      if(MODE==='test'){
+        cls+= isCorrect(i)?' correct':' incorrect';
+      }else{
+        cls+=' answered-exam'; // neutral in exam mode
+      }
+    }
+    if(FLAGGED[i]) cls+=' flagged';
+    const b=document.createElement('button');
+    b.className=cls; b.textContent=i+1;
+    b.onclick=()=>{ INDEX=i; render(); };
+    qPager.appendChild(b);
+  });
+}
+
+// Render: persist feedback + lock radios after answering in TEST mode
+function render(){
+  const total=QUESTIONS.length;
+  qProgress.textContent=`${Math.min(INDEX+1,total)} / ${total}`;
+  qNumber.textContent= total? INDEX+1 : '—';
+  qStatus.textContent=(ANSWERS[INDEX]==null?'Not answered':'Answered');
+  qPrev.disabled=INDEX===0; qNext.disabled=INDEX>=total-1; qFinish.disabled=total===0;
+
+  const q=QUESTIONS[INDEX];
+  qText.textContent= q? q.text : 'No questions';
+
+  // Flag button state
+  const isFlagged = FLAGGED[INDEX]===true;
+  qFlagBtn.setAttribute('aria-pressed', String(isFlagged));
+  qFlagBtn.textContent = isFlagged ? '🚩 Unflag' : '🚩 Flag';
+
+  // rebuild options
+  qOptions.innerHTML='';
+  if(q){
+    q.options.forEach((opt,i)=>{
+      const li=document.createElement('li');
+      const input=document.createElement('input');
+      input.type='radio'; input.name='q'; input.checked=(ANSWERS[INDEX]===i);
+      input.onclick=()=>onSelect(i);
+      const label=document.createElement('span'); label.textContent=' '+opt;
+      li.appendChild(input); li.appendChild(label); qOptions.appendChild(li);
+    });
+  }
+
+  // Feedback + lock in TEST mode if answered
+  const oldFb=document.querySelector('.feedback-inline');
+  const answered = ANSWERS[INDEX]!=null;
+  if(!answered){
+    if(oldFb) oldFb.remove();
+  } else if(MODE==='test'){
+    const ok=isCorrect(INDEX);
+    if(oldFb) oldFb.remove();
+    showFeedback(ok, q.correct, q.explanation);
+    // lock radios
+    [...qOptions.querySelectorAll('input[type="radio"]')].forEach(inp=>inp.disabled=true);
+  } else if (MODE==='exam'){
+    // ensure no feedback in exam mode
+    if(oldFb) oldFb.remove();
+  }
+
+  rebuildPager();
+}
+
+// Selection
+function onSelect(i){
+  ANSWERS[INDEX]=i;
+  if(MODE==='test'){
+    const ok=isCorrect(INDEX);
+    // lock immediately
+    [...qOptions.querySelectorAll('input[type="radio"]')].forEach(inp=>inp.disabled=true);
+    // update live score
+    QUESTIONS_ANSWERED++; if(ok) SCORE_CORRECT++;
+    qScoreLive.textContent=`Score ${SCORE_CORRECT}/${QUESTIONS_ANSWERED}`;
+    // feedback
+    const q=QUESTIONS[INDEX]; showFeedback(ok, q.correct, q.explanation);
+    // auto-advance based on mAdvance
+    const delay=parseInt(document.getElementById('mAdvance').value,10)||0;
+    if(delay>0){
+      setTimeout(()=>{ if(INDEX<QUESTIONS.length-1){ INDEX++; render(); } else { finish(); } }, delay);
+    }
+  } else {
+    // Exam mode: simply mark as answered, no feedback
+    render();
+  }
+}
+
+// Toggle flag
+qFlagBtn.addEventListener('click', ()=>{
+  if(!QUESTIONS.length) return;
+  FLAGGED[INDEX] = !FLAGGED[INDEX];
+  render();
+});
+
+// Finish
+function finish(){
+  const total=QUESTIONS.length; let correct=0; let answered=0; qBreakdown.innerHTML='';
+  const flaggedIdx=[];
+  QUESTIONS.forEach((q,i)=>{
+    const has=ANSWERS[i]!=null; const ok=isCorrect(i);
+    if(FLAGGED[i]) flaggedIdx.push(i);
+    if(has){ answered++; if(ok) correct++; }
+    const row=document.createElement('div');
+    row.innerHTML=`${ok?'<span style="color:#22c55e">✔</span>':(has?'<span style="color:#ef4444">✖</span>':'<span style="color:#9ca3af">•</span>')} <strong>${i+1}.</strong> ${q.text}`+(q.explanation?`<div class="small" style="margin-left:24px">${q.explanation}</div>`:''); 
+    qBreakdown.appendChild(row);
+  });
+  // Accuracy (answered only)
+  const accPct= answered? Math.round(100*correct/answered):0;
+  qAccuracy.textContent=`${accPct}% (${correct}/${answered})`;
+  // Time used
+  const usedMs=Math.max(0, Date.now() - (START_TS || Date.now()));
+  qTimeUsed.textContent=fmtDur(usedMs);
+  // Flagged list
+  if(flaggedIdx.length){
+    qFlaggedWrap.classList.remove('hidden');
+    qFlaggedList.innerHTML='';
+    flaggedIdx.forEach(i=>{
+      const li=document.createElement('div');
+      li.innerHTML = `<strong>#${i+1}</strong> — ${QUESTIONS[i].text}`;
+      qFlaggedList.appendChild(li);
+    });
+  }else{
+    qFlaggedWrap.classList.add('hidden');
+  }
+  qResults.classList.remove('hidden');
+}
+
+// Session
+function beginSession(subject){
+  SUBJECT=subject; qSubject.textContent=SUBJECT;
+  POOL=(RAW[SUBJECT]||[]).map(normalize);
+  const n=Math.max(1,Math.min(parseInt(mCount.value||'50',10),POOL.length||1));
+  const arr=mShuffle.checked? fyShuffle([...POOL]) : [...POOL];
+  QUESTIONS=arr.slice(0,n); INDEX=0; ANSWERS=Array(QUESTIONS.length).fill(null);
+  FLAGGED=Array(QUESTIONS.length).fill(false);
+  const mins=parseInt(mMinutes.value||'0',10); TIMER_END=Number.isFinite(mins)&&mins>0 ? Date.now()+mins*60*1000 : null;
+  MODE= btnTest.classList.contains('active')? 'test' : 'exam';
+  SCORE_CORRECT=0; QUESTIONS_ANSWERED=0; qScoreLive.textContent='Score 0/0';
+  START_TS=Date.now();
+  qResults.classList.add('hidden');
+  quiz.classList.remove('hidden'); menu.classList.add('hidden'); render();
+}
+
+// Controls
+btnTest.onclick=()=>{btnTest.classList.add('active');btnExam.classList.remove('active');};
+btnExam.onclick=()=>{btnExam.classList.add('active');btnTest.classList.remove('active');};
+qPrev.onclick=()=>{ if(INDEX>0){ INDEX--; render(); } };
+qNext.onclick=()=>{ if(INDEX<QUESTIONS.length-1){ INDEX++; render(); } };
+qFinish.onclick=finish;
+qBack.onclick=()=>{ quiz.classList.add('hidden'); menu.classList.remove('hidden'); };
+
+// Subject presets
+document.querySelectorAll('.chip[data-q]').forEach(el=>{
+  el.addEventListener('click', ()=>{
+    const v=el.getAttribute('data-q');
+    if(v==='all' && SUBJECT){
+      const len=(RAW[SUBJECT]||[]).length||1;
+      mCount.value=len;
+    } else if (v==='all'){
+      mCount.value=9999; // clamped at beginSession
+    } else {
+      mCount.value=parseInt(v,10);
+    }
+  });
+});
+document.querySelectorAll('.chip[data-min]').forEach(el=>{
+  el.addEventListener('click', ()=>{
+    mMinutes.value=parseInt(el.getAttribute('data-min'),10);
+  });
+});
+
+// Load Questions.json + populate subjects with counts
+function populateSubjects(){
+  mSubject.innerHTML='<option selected disabled>Choose a subject</option>';
+  Object.keys(RAW).forEach(s=>{
+    const count=(RAW[s]||[]).length||0;
+    const opt=document.createElement('option');
+    opt.value=s; opt.textContent=`${s} (${count})`;
+    mSubject.appendChild(opt);
+  });
+  mSubject.addEventListener('change', ()=>{
+    SUBJECT=mSubject.value; // value is the raw key
+    if (mCount.value && parseInt(mCount.value,10) > (RAW[SUBJECT]||[]).length){
+      mCount.value=(RAW[SUBJECT]||[]).length;
+    }
+    mSubjectInfo.textContent = (RAW[SUBJECT]||[]).length + ' questions available';
+  });
+}
+
+fetch('./Questions.json').then(r=>r.json()).then(json=>{
+  RAW=json;
+  populateSubjects();
+}).catch(err=>{
+  console.error('Failed to load Questions.json', err);
+  mSubject.innerHTML='<option selected disabled>Failed to load Questions.json</option>';
+});
+
+// Start
+mStart.onclick=()=>{
+  const sel = mSubject.options[mSubject.selectedIndex];
+  if(!sel || sel.disabled){ alert('Choose a subject first.'); return; }
+  SUBJECT = sel.value;
+  beginSession(SUBJECT);
+};
+
+// Keyboard
+document.addEventListener('keydown',(e)=>{
+  if(quiz.classList.contains('hidden')) return;
+  const k=e.key;
+  if(k>='1'&&k<='9'){ const idx=parseInt(k,10)-1; if(QUESTIONS[INDEX] && QUESTIONS[INDEX].options[idx]!=null){ onSelect(idx);} }
+  else if(k==='f' || k==='F'){ qFlagBtn.click(); }
+  else if(k==='ArrowLeft'){ qPrev.click(); }
+  else if(k==='ArrowRight'){ qNext.click(); }
+  else if(k==='Enter'){ /* In exam mode, Enter won't auto-advance; in test mode, use mAdvance */ }
+});
+</script>
+</body>
+</html>
