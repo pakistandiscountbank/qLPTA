@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "version": "v1.8.8.11",
+      "date": "2025-11-07",
+      "title": "Changelog panel",
+      "changes": [
+        "Replaced Notes with read-only Changelog card on the main menu",
+        "Changelog loads from external changelog.json"
+      ]
+    },
+    {
+      "version": "v1.8.8.10",
+      "date": "2025-11-07",
+      "title": "Notes restored",
+      "changes": [
+        "Restored Notes panel to right column in main menu grid",
+        "Added localStorage auto-save for notes"
+      ]
+    },
+    {
+      "version": "v1.8.8.8",
+      "date": "2025-11-07",
+      "title": "Header search button",
+      "changes": [
+        "Moved 'Search for a question' button into the title row (flush right)",
+        "Updated version label"
+      ]
+    },
+    {
+      "version": "v1.8.8.5\u20131.8.8.7",
+      "date": "2025-11-06",
+      "title": "Search feature iterations",
+      "changes": [
+        "Added dedicated Search page accessible from main menu button",
+        "Status line + 'Build index now' + simple fallback search",
+        "UI placement refinements"
+      ]
+    }
+  ]
+}
