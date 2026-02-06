@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "version": "v1.8.8.12",
+      "date": "2026-02-06",
+      "title": "General update / fixes",
+      "changes": [
+        "Edited the question DB, updated some typos in the questions"
+      ]
+    },
+    {
       "version": "v1.8.8.11",
       "date": "2025-11-07",
       "title": "Changelog panel",
