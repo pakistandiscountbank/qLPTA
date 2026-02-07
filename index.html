@@ -289,7 +289,7 @@
 
 <script>
 /*** LOGIN ***/
-const PASSWORD_HASH = "d6d2cdd503133e8a5101ae7692216afb2b617d07661da596a6610c7bb224ac76"; // sha256("flysafe")
+const PASSWORD_HASH = "f2ce392fcb7402fe220c6a43edd74c29f992a324d3162a5eb56d4c1e9981dbfa"; // sha256("The MET password")
 const AUTH_KEY = 'atpl_authenticated_v1';
 async function sha256hex(str){const enc=new TextEncoder();const data=enc.encode(str);const hash=await crypto.subtle.digest('SHA-256',data);return Array.from(new Uint8Array(hash)).map(b=>b.toString(16).padStart(2,'0')).join('');}
 async function tryLogin(){const val=document.getElementById('loginInput').value||'';const d=await sha256hex(val);if(d===PASSWORD_HASH){sessionStorage.setItem(AUTH_KEY,'1');hideLogin();}else{const e=document.getElementById('loginError');e.style.display='block';e.textContent='Incorrect password. Try again.';}}
