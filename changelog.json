@@ -1,5 +1,13 @@
 {
   "entries": [
+        {
+      "version": "v1.9.1",
+      "date": "2026-02-08",
+      "title": "OPS Update",
+      "changes": [
+        "Updated OPS DB"
+      ]
+    },
     {
       "version": "v1.9.0",
       "date": "2026-02-06",
