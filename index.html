@@ -1793,53 +1793,68 @@ document.addEventListener('keydown',(e)=>{
         data = Object.fromEntries(entries);
         window.__SEARCH_FALLBACK_JSON = data;
       }
+
       const tokens = query.split(/\s+/).map(norm).filter(Boolean);
       const results = [];
+
       for (const subj of Object.keys(data||{})){
         if(subject && subj !== subject) continue;
         const arr = Array.isArray(data[subj]) ? data[subj] : [];
-        if(!sres.ok) throw new Error(sres.status + ' ' + sres.statusText);
-        const subjects = await sres.json();
-        const entries = await Promise.all(subjects.map(async (entry) => {
-          const r = await fetch(entry.file);
-          if(!r.ok) throw new Error('Failed to load ' + entry.file + ': ' + r.status + ' ' + r.statusText);
-          return [entry.name, await r.json()];
-        }));
-        data = Object.fromEntries(entries);
-        window.__SEARCH_FALLBACK_JSON = data;
-      }
-      const tokens = query.split(/\s+/).map(norm).filter(Boolean);
-      const results = [];
-      for (const subj of Object.keys(data||{})){
-        if(subject && subj !== subject) continue;
-        const arr = Array.isArray(data[subj]) ? data[subj] : [];
-        for (let i=0;i<arr.length;i++){
-          const q=arr[i];
+
+        for (let i=0; i<arr.length; i++){
+          const q = arr[i];
           const text = String(q.text || q.question || '');
           const hay = norm(text);
+
           if(tokens.every(t => hay.indexOf(t)!==-1)){
             const rawOptions = q.options || q.choices || q.answers || q.alternatives || [];
-            let options = Array.isArray(rawOptions) ? rawOptions.map(o=> (typeof o==='object'&&o? (o.text||o.label||o.value||'') : String(o))) : [];
+            let options = Array.isArray(rawOptions)
+              ? rawOptions.map(o => (typeof o==='object' && o ? (o.text || o.label || o.value || '') : String(o)))
+              : [];
+
             let correctTexts = [];
             let corr = (q.answer !== undefined) ? q.answer : (q.correct_answers || q.correct_answer);
+
             if (Array.isArray(corr)){
-              corr.forEach(c=>{
+              corr.forEach(c => {
                 if (typeof c==='number' && options[c]!=null) correctTexts.push(String(options[c]));
-                else if (typeof c==='string' && /^[A-Za-z]$/.test(c)){ const idx=c.toUpperCase().charCodeAt(0)-65; if (options[idx]!=null) correctTexts.push(String(options[idx])); else correctTexts.push(String(c)); }
-                else if (c!=null) correctTexts.push(String(c));
+                else if (typeof c==='string' && /^[A-Za-z]$/.test(c)){
+                  const idx = c.toUpperCase().charCodeAt(0) - 65;
+                  if (options[idx] != null) correctTexts.push(String(options[idx]));
+                  else correctTexts.push(String(c));
+                } else if (c != null) {
+                  correctTexts.push(String(c));
+                }
               });
-            } else if (corr!=null){
+            } else if (corr != null) {
               if (typeof corr==='number' && options[corr]!=null) correctTexts.push(String(options[corr]));
-              else if (typeof corr==='string' && /^[A-Za-z]$/.test(corr)){ const idx=corr.toUpperCase().charCodeAt(0)-65; if (options[idx]!=null) correctTexts.push(String(options[idx])); else correctTexts.push(String(corr)); }
-              else correctTexts.push(String(corr));
+              else if (typeof corr==='string' && /^[A-Za-z]$/.test(corr)){
+                const idx = corr.toUpperCase().charCodeAt(0) - 65;
+                if (options[idx] != null) correctTexts.push(String(options[idx]));
+                else correctTexts.push(String(corr));
+              } else {
+                correctTexts.push(String(corr));
+              }
             }
-            const rec = { subject:subj, idx:i, text, options, correctSet:new Set(correctTexts), multi:(correctTexts.length>1), explanation:q.explanation||null };
+
+            const rec = {
+              subject: subj,
+              idx: i,
+              text,
+              options,
+              correctSet: new Set(correctTexts),
+              multi: (correctTexts.length > 1),
+              explanation: q.explanation || null
+            };
+
             results.push(rec);
-            if (results.length>300) break;
+            if (results.length > 300) break;
           }
         }
-        if (results.length>300) break;
+
+        if (results.length > 300) break;
       }
+
       const list = document.getElementById('mSearchResults');
       if(list){
         list.innerHTML = results.map((r,idx)=>{
