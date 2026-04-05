@@ -1,9 +1,17 @@
 {
   "entries": [
+        {
+      "version": "v2.2",
+      "date": "2026-04-05",
+      "title": "Technical update",
+      "changes": [
+        "Added a subject for Cessna Technical Course, this will cointan questions regarding SOP's, POH, Checklist's and more"
+      ]
+    },
     {
       "version": "v2.1",
       "date": "2026-04-05",
-      "title": "Infrastructure update ",
+      "title": "Infrastructure update",
       "changes": [
         "Split the large question database into one JSON file per subject",
         "Added subjects.json index for easier editing and maintenance",
