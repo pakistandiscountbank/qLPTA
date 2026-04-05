@@ -1,0 +1,5156 @@
+[
+  {
+    "question": "What are the typical climatic characteristics of a coastal area situated in the mid-latitude (disturbed temperate) climatic zone?",
+    "choices": [
+      "Small amounts of precipitation.",
+      "Stable weather.",
+      "Chilly summer and mild winter.",
+      "Warm summer and cold winter."
+    ],
+    "answer": "Chilly summer and mild winter."
+  },
+  {
+    "question": "When, if at all, is a tropical revolving storm most likely to affect Darwin, on the central north coast of Australia?",
+    "choices": [
+      "May to July.",
+      "August to October.",
+      "Not experienced at Darwin.",
+      "December to April."
+    ],
+    "answer": "December to April."
+  },
+  {
+    "question": "The horizontal visibility given for VFR flight planning by a MET Office is:",
+    "choices": [
+      "Meteorological visibility at an average altitude of 500 meters.",
+      "The average flight visibility for the planned flight.",
+      "Vertical visibility.",
+      "Meteorological visibility on ground."
+    ],
+    "answer": "Meteorological visibility on ground."
+  },
+  {
+    "question": "During the approach to Mumbai (19° N 73° E ) on the west coast of India, you are listening to the ATIS on 15th of July at 0700 LT. Which of the following reports is most likely?",
+    "choices": [
+      "30 012KT 9 999 SCT030 SCT200 20/16 Q1025 BECMG 4 000 BR=",
+      "25 014KT 4 500 SHRA SCT015 BKN025CB 25/24 Q1006 NOSIG=",
+      "2 005KT CAVOK 24/09 Q1030 NOSIG=",
+      "5 013KT 3 500 MIFG SCT003 BKN005 19/14 Q1012 BECMG 8 000="
+    ],
+    "answer": "25 014KT 4 500 SHRA SCT015 BKN025CB 25/24 Q1006 NOSIG="
+  },
+  {
+    "question": "What can be said if you encounter +FZRA during flight?",
+    "choices": [
+      "Only light rime ice is to be expected.",
+      "Freezing rain consists of water droplets which supercool to below-freezing temperatures on impact.",
+      "There is no significant icing to expect.",
+      "Icing will most probably occur."
+    ],
+    "answer": "Icing will most probably occur."
+  },
+  {
+    "question": "A pilot wants to select airport for arrival with a runway where RVR is at least 550 metres. Considering the following METARs, valid for the arrival time, choose the appropriate airport (assume all other criteria for landing to each airport).\nEGKK 191050Z 09002KT 0200 FZFG R0BR/0350 R0BL/0500 VV001 M03/M02 Q100B WS RWY08R.\nEGLF 191050Z 07003KT 0200 FZFG R06/0700D VV001 M03/M03 Q1008.\nEGGW 191050Z 08004KT 0200 FZFG R0B/0300U VV001 M02/M02 Q1007.\nEGLL 191050Z 09002KT 0100 FZFG R09L/0300U R09R/0500U VV001 M02/M02 Q1008.",
+    "choices": [
+      "EGLF",
+      "EGKK",
+      "EGGW",
+      "EGLL"
+    ],
+    "answer": "EGLF"
+  },
+  {
+    "question": "171020Z 21005KT 9000 FEW030TCU FEW033CB SCT040 BKN100 19/18 Q1005 TEMPO 25015G25KT 3000 TSRA SCT005 BKN015CB.\nWhat is the conclusion for a pilot flying in the weather mentioned in the message above?",
+    "choices": [
+      "Caution is needed for rain showers developing in the next three hours.",
+      "Passage under the thunderstorms with this base is safe.",
+      "The CB clouds are in the vicinity and do not require action by the pilot.",
+      "There are thunderstorms present that should be avoided."
+    ],
+    "answer": "There are thunderstorms present that should be avoided."
+  },
+  {
+    "question": "Which conditions are the best to create ice crystal icing?",
+    "choices": [
+      "Convective cloud with high vertical extent such as a Cumulonimbus containing a high cloud ice water content.",
+      "The most hazardous Ice Crystal Icing conditions can be found ln Nimbostratus clouds.",
+      "Ice Crystal Icing is very dangerous when flying in large Cirrostratus clouds as they are entirely made of ice crystals.",
+      "Ice Crystal Icing conditions can be found anywhere, even at lower levels, as long as the cloud temperature is below the freezing level."
+    ],
+    "answer": "Convective cloud with high vertical extent such as a Cumulonimbus containing a high cloud ice water content."
+  },
+  {
+    "question": "What is the definition of \"ice water content\" (IWC)?",
+    "choices": [
+      "Ice volume per unit volume of air.",
+      "Ice mass per unit mass of air.",
+      "Ratio of air quantity and volume of ice present in the air.",
+      "Ice mass per unit volume of air."
+    ],
+    "answer": "Ice mass per unit volume of air."
+  },
+  {
+    "question": "Which of the following describes the Ice Water Content (IWC) of a cloud?",
+    "choices": [
+      "As altitude increases within a convective cloud the IWC decreases, with the lowest values found in the anvil.",
+      "IWC is defined as the cloud ice volume per unit mass of the atmosphere and the highest densities are found within Cirrus clouds.",
+      "The IWC is a ratio of the liquid water to ice water within clouds and it increases with temperature.",
+      "The IWC is measured in g/m3 and it reaches maximum values in the upper levels of the core of convective systems."
+    ],
+    "answer": "The IWC is measured in g/m3 and it reaches maximum values in the upper levels of the core of convective systems."
+  },
+  {
+    "question": "What weather situation leads to the formation of a downburst?",
+    "choices": [
+      "Cold air descending down from a mature cumulonimbus.",
+      "A sudden change in wind direction at the passage of a front.",
+      "Turbulence formation in a stable air mass over mountainous terrain.",
+      "The presence of a growing thermal bubble above a desert in summer time."
+    ],
+    "answer": "Cold air descending down from a mature cumulonimbus."
+  },
+  {
+    "question": "A thin coating of Hoar frost on the airfoil surface:",
+    "choices": [
+      "Affects the aspect ratio of the wing.",
+      "Has significant negative effects on the lift of the wing.",
+      "Does not affect take-off performance.",
+      "Only affects stability."
+    ],
+    "answer": "Has significant negative effects on the lift of the wing."
+  },
+  {
+    "question": "State the approximate dimensions of a typical, full developed tropical revolving storm (TRS):",
+    "choices": [
+      "Diameter of the eye: 100 - 150 NM Diameter of the whole TRS: 1200 NM",
+      "Diameter of the eye: 30 - 70 NM Diameter of the whole TRS: 800 NM",
+      "Diameter of the eye: 1 - 3 NM Diameter of the whole TRS: 80 NM",
+      "Diameter of the eye: 10 - 20 NM Diameter of the whole TRS: 270 NM"
+    ],
+    "answer": "Diameter of the eye: 10 - 20 NM Diameter of the whole TRS: 270 NM"
+  },
+  {
+    "question": "What is included in a METAR regarding runway condition?\n1 - Runway designator.\n2 - Airport designator.\n3 - Extent of contamination.\n4 - Depth of deposits.\n5 - Breaking coefficient.\n6 - Prediction/trend.",
+    "choices": [
+      "1, 2, 3, 4, 5, 6",
+      "1, 2, 3, 4, 6",
+      "1, 2, 3, 4, 5",
+      "1, 3, 4, 5"
+    ],
+    "answer": "1, 3, 4, 5"
+  },
+  {
+    "question": "A pilot must be very careful when planning a flight near a Tropical Revolving Storm (TRS) over the North Atlantic that is moving westwards and approaching the Caribbean islands. Why is that?",
+    "choices": [
+      "Because the direction of the wind around the storm is very difficult to predict.",
+      "Because the precipitation after the TRS makes landfall is much heavier than when it is above the ocean.",
+      "Because it is very difficult to accurately forecast the exact path of the TRS.",
+      "Due to the low air pressure the altimeter can become unreliable."
+    ],
+    "answer": "Because it is very difficult to accurately forecast the exact path of the TRS."
+  },
+  {
+    "question": "What is the reason for the seasonal movement of the Intertropical Convergence Zone (ITCZ)?",
+    "choices": [
+      "Radiation from the Earth's surface.",
+      "Changes in the daylight hours.",
+      "The yearly movement of Earth around the Sun.",
+      "The yearly change of the monsoon winds."
+    ],
+    "answer": "The yearly movement of Earth around the Sun."
+  },
+  {
+    "question": "What is the correct statement regarding cold air drops?",
+    "choices": [
+      "Are best identified by looking the isobars on a surface chart.",
+      "They can be identified by looking at the upper wind and temperature situation.",
+      "They are represented as a high pressure area aloft (e.g. on the 500 hPa chart).",
+      "A cold air drop may only be recognized on the surface chart as a low pressure area."
+    ],
+    "answer": "They can be identified by looking at the upper wind and temperature situation."
+  },
+  {
+    "question": "What does a Radiosonde measure?",
+    "choices": [
+      "Wind, Pressure & temperature",
+      "Pressure, Temperature & Humidity.",
+      "Humidity, Dew point, and Pressure",
+      "Detects precipitation levels in the air."
+    ],
+    "answer": "Pressure, Temperature & Humidity."
+  },
+  {
+    "question": "Which of these statements about weather satellites are correct or incorrect?\n1. The pictures from geostationary weather satellites are generally of higher resolution than the pictures from satellites in a polar orbit.\n2. Satellites in a polar orbit are closer to the earth than geostationary satellites.",
+    "choices": [
+      "1 is correct; 2 is incorrect.",
+      "1 and 2 are incorrect.",
+      "1 and 2 are correct.",
+      "1 is incorrect; 2 is correct"
+    ],
+    "answer": "1 is incorrect; 2 is correct"
+  },
+  {
+    "question": "When a front crosses a mountain range, its activity:",
+    "choices": [
+      "Is not disturbed by the mountains.",
+      "Strengthens \"upwind\" of the mountains.",
+      "Decreases when it reaches the mountains.",
+      "Ceases immediately."
+    ],
+    "answer": "Strengthens \"upwind\" of the mountains."
+  },
+  {
+    "question": "Over the Indian ocean and the Bay of Bengal tropical cyclones are:",
+    "choices": [
+      "rare, on average one every two years.",
+      "occasionally observed, on average 12 per year.",
+      "never observed.",
+      "frequently observed, on average 15 per year over the Indian Ocean, but never over the Bay of Bengal."
+    ],
+    "answer": "occasionally observed, on average 12 per year."
+  },
+  {
+    "question": "Which of the following best describes the intertropical convergence zone?",
+    "choices": [
+      "The zone where the Harmattan meets the north-easterly trade winds over Africa.",
+      "The zone where the trade winds of the northern hemisphere meet those of the southern hemisphere.",
+      "The zone where the west winds meet the subtropical high pressure belt.",
+      "The zone where cold fronts form in the tropics."
+    ],
+    "answer": "The zone where the trade winds of the northern hemisphere meet those of the southern hemisphere."
+  },
+  {
+    "question": "In a region where the transition altitude is 3000 feet, the QNH is reported as 980 hPa. What is the approximate reading expected on the altimeter when the pilot changes the subscale setting during a climb through the transition altitude? (Assume 27 ft per 1 hPa)",
+    "choices": [
+      "3890 ft",
+      "2110 ft",
+      "3990 ft",
+      "3620 ft"
+    ],
+    "answer": "3890 ft"
+  },
+  {
+    "question": "Which of the following statements are conditions that must be in place in order for mountain waves to form?\n1. The wind blows within 30° of a right angle to the mountain range.\n2. The wind speed abeam the top of the mountain exceeds 20 kt.\n3. The wind speed decreases with altitude but the direction remains fairly constant.\n4. The atmosphere is unstable on the windward side of the mountain top.",
+    "choices": [
+      "3 and 4.",
+      "1 and 3.",
+      "1 and 2.",
+      "2 and 4."
+    ],
+    "answer": "1 and 2."
+  },
+  {
+    "question": "You intend to overfly a mountain range. The recommended minimum flight altitude is, according to the aviation chart, 15 000 ft AMSL. The air mass that you will fly through is on average 15°C warmer than the standard atmosphere. The altimeter is set to 1023 hPa (QNH of a nearby airport at nearly sea level). At what altimeter reading will you effectively be at the recommended minimum flight altitude?",
+    "choices": [
+      "14 100 ft",
+      "13 830 ft",
+      "15 900 ft",
+      "14 370 ft"
+    ],
+    "answer": "14 100 ft"
+  },
+  {
+    "question": "If the ELR lies between the DALR and SALR then the atmosphere is __________ stable.",
+    "choices": [
+      "unconditionally",
+      "completely",
+      "conditionally",
+      "absolutely"
+    ],
+    "answer": "conditionally"
+  },
+  {
+    "question": "ln relation to the wind speed and direction at the top of the friction layer, which change in wind will a pilot normally experience during descent to the surface over land in the northern hemisphere?",
+    "choices": [
+      "Backing approx. 10 degrees, speed is reduced by approx. 30%.",
+      "Backing approx. 30 degrees, speed is reduced by approx. 50%.",
+      "Veering approx. 30 degrees, speed is reduced by approx. 50%.",
+      "Veering approx. 10 degrees, speed is reduced by approx. 30%."
+    ],
+    "answer": "Backing approx. 30 degrees, speed is reduced by approx. 50%."
+  },
+  {
+    "question": "A flight crew who faces an emergency at cruise level decides to turn back to the departure aerodrome. Due to the dynamic situation, the crew forgets to set local QNH. What will be the altitude after landing? (Assume 1 hPa = 27 ft, Transition level: FL190, Transition altitude: 18 000 ft, Airfield elevation: 323 ft, QNH 1023 hPa)",
+    "choices": [
+      "593 ft",
+      "53 ft",
+      "393 ft",
+      "270 ft"
+    ],
+    "answer": "53 ft"
+  },
+  {
+    "question": "What are typical systems in the northern winter season between 50°N and 60°N?",
+    "choices": [
+      "Warm anticyclones alternating with frontal depressions.",
+      "Troughs of low pressure and cold air pools at low levels.",
+      "Cold anticyclones on the continents and depressions at sea.",
+      "Anticyclones interspersed by ridges of high pressure."
+    ],
+    "answer": "Cold anticyclones on the continents and depressions at sea."
+  },
+  {
+    "question": "Different reports of the surface wind at an aerodrome are listed below. Which of the statements best explains the variability in the reported surface wind?",
+    "choices": [
+      "All aerodromes report the surface wind obtained from an anemometer at a height of 4 ft above ground level, but METAR surface wind are averaged over 10 minutes and ATIS and aerodrome controller surface winds are averaged over 1 minute.",
+      "All aerodromes average their reported surface wind over 2 minutes, but it is measured by an anemometer at 10 m above ground level for METARs and 6 m above ground level for the ATIS and aerodrome controller.",
+      "The METAR surface wind is measured by an anemometer at a height of 10 m and averaged over 10 minutes, but for the ATIS aerodrome controller the wind is measured at a height of 33 m and averaged over 5 minutes.",
+      "At larger aerodromes, the reported surface wind is measured by an anemometer at a height of 10 m and averaged over 2 minutes for the ATIS and the aerodrome controller, but averaged over 10 minutes for the METAR."
+    ],
+    "answer": "At larger aerodromes, the reported surface wind is measured by an anemometer at a height of 10 m and averaged over 2 minutes for the ATIS and the aerodrome controller, but averaged over 10 minutes for the METAR."
+  },
+  {
+    "question": "In the disturbed temperate regions:",
+    "choices": [
+      "The prevailing surface winds are moderate easterlies.",
+      "Winters are generally mild.",
+      "The weather is mainly governed by the traveling frontal depressions.",
+      "The wet season is normally from May to September."
+    ],
+    "answer": "The weather is mainly governed by the traveling frontal depressions."
+  },
+  {
+    "question": "What weather is prevalent in the zone of easterly waves?",
+    "choices": [
+      "Continuous rain.",
+      "Clear skies.",
+      "Thunderstorms and rain.",
+      "Frontal weather."
+    ],
+    "answer": "Thunderstorms and rain."
+  },
+  {
+    "question": "What is the main source of energy in a thunderstorm?",
+    "choices": [
+      "Condensation",
+      "Static",
+      "Wind",
+      "Electrical"
+    ],
+    "answer": "Condensation"
+  },
+  {
+    "question": "An area where rain ice is likely to be encountered must be avoided. An example of such area would be when flying:",
+    "choices": [
+      "In a polar maritime airstream behind a cold front.",
+      "Ahead of a warm front with the OAT gauge reading -5°C.",
+      "Through an active cold front.",
+      "In the warm sector of a frontal depression during winter."
+    ],
+    "answer": "Ahead of a warm front with the OAT gauge reading -5°C."
+  },
+  {
+    "question": "The 'sea breeze' is a wind from the sea:",
+    "choices": [
+      "Occurring only in mid-latitudes and in daytime.",
+      "Blowing at night in mid-latitudes.",
+      "Occurring only in the lower layers of the atmosphere in daytime.",
+      "That reaches up to the tropopause in daytime."
+    ],
+    "answer": "Occurring only in the lower layers of the atmosphere in daytime."
+  },
+  {
+    "question": "Which of the following correctly describes how area forecasts of upper-air meteorological phenomena, for pre-flight planning purposes, are produced?",
+    "choices": [
+      "Every ICAO Region has its own Weather Area Flight Centre, which provides forecasts for all aircraft departing from the Region.",
+      "Every State has its own Weather Area Flight Commission, which provides forecasts for all aircraft registered in that State.",
+      "The responsible World Area Forecast Centre provides gridded data of forecast upper-air phenomena including winds, icing, and turbulence.",
+      "Each State's Meteorological Office gathers information independently and produces upper-air gridded forecasts for departing aircraft."
+    ],
+    "answer": "The responsible World Area Forecast Centre provides gridded data of forecast upper-air phenomena including winds, icing, and turbulence."
+  },
+  {
+    "question": "Foehn-effects in mountainous areas occur:",
+    "choices": [
+      "on the lee-side of the mountain range when precipitation is falling on the upwind side of the mountain range.",
+      "when a dry and warm wind blows on the upwind side of the mountain range.",
+      "any time when a strong airflow exists perpendicular to the orientation of the mountain range.",
+      "when orographic cloud forms over the mountain range."
+    ],
+    "answer": "on the lee-side of the mountain range when precipitation is falling on the upwind side of the mountain range."
+  },
+  {
+    "question": "When do cold occlusions occur most frequently in Europe?",
+    "choices": [
+      "Winter and spring",
+      "Autumn and winter",
+      "Winter",
+      "Summer"
+    ],
+    "answer": "Summer"
+  },
+  {
+    "question": "An aircraft is operating over the plains of Tanzania in summer at low level, where the ITCZ is situated. What conditions are most likely to be experienced?",
+    "choices": [
+      "Altimeter errors due to low pressure.",
+      "Thunderstorms with heavy rain particularly at midday.",
+      "Strong winds blowing out from the ITCZ.",
+      "Thunderstorms with heavy rain particularly at dawn and dusk."
+    ],
+    "answer": "Thunderstorms with heavy rain particularly at midday."
+  },
+  {
+    "question": "The following changes are observed when a front has passed in the Northern Hemisphere:\nWind: Sharp veer.\nClouds: Embedded CBs.\nPressure: Stops decreasing at the lowest value.\nVisibility: Very poor.\nWhat kind of front and airmass is it?",
+    "choices": [
+      "Warm front with stable airmass.",
+      "Cold front with stable airmass.",
+      "Cold front with unstable airmass.",
+      "Warm front with unstable airmass."
+    ],
+    "answer": "Warm front with unstable airmass."
+  },
+  {
+    "question": "The most frequent wind direction in a valley near the ground, caused by thermal effects is towards the:",
+    "choices": [
+      "Mountain at night.",
+      "Valley during daylight hours.",
+      "Valley during daylight as much as at night.",
+      "Mountain during daylight hours."
+    ],
+    "answer": "Mountain during daylight hours."
+  },
+  {
+    "question": "Fog comprising mostly ice crystals is known as __________ fog.",
+    "choices": [
+      "freezing",
+      "ice",
+      "haze",
+      "sea smoke"
+    ],
+    "answer": "ice"
+  },
+  {
+    "question": "A strong inversion in the middle section of the troposphere would ___ the vertical development of a Cumulonimbus cloud?",
+    "choices": [
+      "slightly increase.",
+      "not change.",
+      "completely stop.",
+      "slightly decrease."
+    ],
+    "answer": "completely stop."
+  },
+  {
+    "question": "In a situation with a high relative humidity, the cloud base is located relatively ___ and its top is situated where the____ meets the____.",
+    "choices": [
+      "low; SALR; DALR",
+      "high; SALR; ELR",
+      "high; ELR; DALR",
+      "low; SALR; ELR"
+    ],
+    "answer": "low; SALR; ELR"
+  },
+  {
+    "question": "With which meteorological phenomena are windshear conditions mostly associated?",
+    "choices": [
+      "Gust fronts; low level temperature inversions; frontal surfaces.",
+      "Thunderstorms; drizzle; conditional instability.",
+      "Gust fronts; sea breeze fronts; high stratiform clouds.",
+      "Strong surface winds coupled with local topography; anticyclones; light precipitation."
+    ],
+    "answer": "Gust fronts; low level temperature inversions; frontal surfaces."
+  },
+  {
+    "question": "A temperature of 15°C is recorded at an altitude of 500 metres above sea level. If the vertical temperature gradient is that of a standard atmosphere, what will the temperature be at the summit of a mountain, 2500 metres above sea level?",
+    "choices": [
+      "-2°C",
+      "0°C",
+      "+4°C",
+      "+2°C"
+    ],
+    "answer": "+2°C"
+  },
+  {
+    "question": "As altitude increases, the weight of the atmosphere above you will:",
+    "choices": [
+      "Remain the same.",
+      "Increase by 1.5 kg/m² per 1 000 ft.",
+      "Decrease.",
+      "Increase."
+    ],
+    "answer": "Decrease."
+  },
+  {
+    "question": "Which of the following is typical for the snow (tundra) climate?",
+    "choices": [
+      "Temperatures generally between +5 and +18°C throughout the whole year.",
+      "High pressure weather dominates in winter, with the sub-soil being frozen.",
+      "High pressure weather dominates in summer.",
+      "Travelling depressions during winter time."
+    ],
+    "answer": "High pressure weather dominates in winter, with the sub-soil being frozen."
+  },
+  {
+    "question": "The west to east passage of waves of weather associated with polar front depressions or mid-latitude lows. This is a description of __________.",
+    "choices": [
+      "divergence",
+      "westerly waves",
+      "convergence"
+    ],
+    "answer": "westerly waves"
+  },
+  {
+    "question": "By use of Doppler techniques, modern airborne weather radar can detect turbulence in:",
+    "choices": [
+      "stratiform clouds.",
+      "the tropopause.",
+      "clear air.",
+      "thunderstorms."
+    ],
+    "answer": "thunderstorms."
+  },
+  {
+    "question": "Thunderstorms are often preceded by:",
+    "choices": [
+      "Altostratus.",
+      "Altocumulus.",
+      "Altocumulus castellanus.",
+      "Nimbostratus."
+    ],
+    "answer": "Altocumulus castellanus."
+  },
+  {
+    "question": "A SIGMET:",
+    "choices": [
+      "Reports the actual weather of an airport every 30 minutes.",
+      "is added as a short-term forecast to the actual weather report of an airport.",
+      "Is a warning of meteorological hazards in the FIR for all aircraft.",
+      "Is a route forecast, issued several times during the day by the Met Offices."
+    ],
+    "answer": "Is a warning of meteorological hazards in the FIR for all aircraft."
+  },
+  {
+    "question": "Frontal fog will dissipate when the:",
+    "choices": [
+      "warm front has passed.",
+      "cold front has passed.",
+      "cold front turns into an occlusion.",
+      "polar air substitutes the warm air."
+    ],
+    "answer": "warm front has passed."
+  },
+  {
+    "question": "A cold air drop can be best identified by means of:",
+    "choices": [
+      "A GAMET report.",
+      "The CAT areas on a significant weather chart.",
+      "The isohypses on an upper air chart.",
+      "The isobars on a surface chart."
+    ],
+    "answer": "The isohypses on an upper air chart."
+  },
+  {
+    "question": "White, hard ice with rough edges which protrudes both forwards and backwards on a leading edge. Its formation requires small and large SCWD, therefore a temperature between 0° and -20°C, in cloud with strong vertical support. This is a description of __________ ice.",
+    "choices": [
+      "clear",
+      "hoar",
+      "mixed",
+      "rime"
+    ],
+    "answer": "mixed"
+  },
+  {
+    "question": "Assessed from a point directly below the aircraft to the furthest viewable object on the surface. May be more or less than the ground visibility. Is a description of __________ visibility.",
+    "choices": [
+      "diagonal",
+      "oblique",
+      "air to ground"
+    ],
+    "answer": "oblique"
+  },
+  {
+    "question": "Prolonged exposure to rime ice conditions __________.",
+    "choices": [
+      "is relatively benign",
+      "is very dangerous"
+    ],
+    "answer": "is very dangerous"
+  },
+  {
+    "question": "Only forms at night and over land. Requires a weak or slack pressure gradient. Has a depth of a few 100 feet (but sometimes fills the entire friction layer). Can be dissipated either by solar radiation or by an increase in wind speed. This is a description of __________ fog.",
+    "choices": [
+      "radiation",
+      "steam",
+      "advection"
+    ],
+    "answer": "radiation"
+  },
+  {
+    "question": "An aircraft is flying at 3000 ft in a layer of strato-cumulus cloud and experiences light icing.This icing intensifies as the aircraft crosses a mountain barrier whilst still in the cloud. This may be explained by:",
+    "choices": [
+      "Orographic intensification as water vapour is added to the air from the Earth`s surface in mountainous areas.",
+      "Orographic intensification as the air is forced to rise over the mountain barrier.",
+      "The mixing of dry and moist air by turbulence or rotors at a low level, upwind of the mountain barrier.",
+      "The condensation of water vapour on the leeward side parallel to the upper part of the ridge."
+    ],
+    "answer": "Orographic intensification as the air is forced to rise over the mountain barrier."
+  },
+  {
+    "question": "Two aircraft, one with a sharp wing profile (S), and the other with a thick profile (T), are flying through the same cloud with the same true airspeed. The cloud consists of small supercooled droplets. Which of the following statements is most correct concerning ice accretion?",
+    "choices": [
+      "Aircraft S experiences more icing than T.",
+      "Neither of the aircraft accumulate ice due to the small size of droplets.",
+      "Aircraft T experiences more icing than S.",
+      "Aircraft S and T experience the same amount of icing."
+    ],
+    "answer": "Aircraft S experiences more icing than T."
+  },
+  {
+    "question": "Downbursts can create severe turbulence and __________ windshear.",
+    "choices": [
+      "positive",
+      "positive and negative",
+      "negative"
+    ],
+    "answer": "positive and negative"
+  },
+  {
+    "question": "Assign the description to an icing intensity category: The rate of accumulation is slightly greater than rate of sublimation. It’s not hazardous unless encountered for more than 1 hour. De-icing/anti-icing is not normally required.",
+    "choices": [
+      "Severe",
+      "Moderate",
+      "Trace",
+      "Light"
+    ],
+    "answer": "Trace"
+  },
+  {
+    "question": "__________ is a suspension of small dust particles in the air reducing visibility to less than 5000 m.",
+    "choices": [
+      "Sea smoke",
+      "Mist",
+      "Fog",
+      "Haze"
+    ],
+    "answer": "Haze"
+  },
+  {
+    "question": "High clouds are above __________ ft.",
+    "choices": [
+      "20 000",
+      "14 500",
+      "16 500",
+      "18 500"
+    ],
+    "answer": "16 500"
+  },
+  {
+    "question": "What type of cloud is being described? A generally grey cloud layer with fairly uniform base and uniform appearance, which may give drizzle or snow grains. When the sun is visible through the cloud, the outline is clearly discernible. Sometimes it appears in the form of ragged patches.",
+    "choices": [
+      "Cirrostratus",
+      "Stratus",
+      "Altostratus",
+      "Nimbostratus"
+    ],
+    "answer": "Stratus"
+  },
+  {
+    "question": "What is a polar depression?",
+    "choices": [
+      "Large depression over the south pole with wintery shower precipitation.",
+      "Large depression over the sea with clear weather.",
+      "Small depression over the sea with wintery showery precipitation.",
+      "Small depression over the north pole with wintery shower precipitation."
+    ],
+    "answer": "Small depression over the sea with wintery showery precipitation."
+  },
+  {
+    "question": "The typical duration of the dissipating stage of a thunderstorm is __________.",
+    "choices": [
+      "30 to 45 mins",
+      "15-30 mins",
+      "1 to 3 hours",
+      "1.5 to 2.5 hours"
+    ],
+    "answer": "1.5 to 2.5 hours"
+  },
+  {
+    "question": "What is likely to happen in a valley?",
+    "choices": [
+      "Valley winds.",
+      "Advection fog.",
+      "Mountain obstruction.",
+      "Valley Inversion."
+    ],
+    "answer": "Valley Inversion."
+  },
+  {
+    "question": "The RVR mid-point measurement is normally taken between _____ along the runway.",
+    "choices": [
+      "300 m and 1500 m",
+      "300 m and 2000 m",
+      "1000 m and 1500 m",
+      "1000 m and 2000 m"
+    ],
+    "answer": "1000 m and 1500 m"
+  },
+  {
+    "question": "Recognising that a flight into cumulonimbus (CB) clouds is very hazardous, a CB should be avoided visually and cleared by a minimum of (1) ___ ft vertically and (2) ___ NM laterally to minimise the risk of encountering severe turbulence. Which values should be inserted?",
+    "choices": [
+      "1. 5000 ft 2. 10 NM",
+      "1. 4000 ft 2. 1 5 NM",
+      "1. 6000 ft 2. 5 NM",
+      "1. 3000 ft 2. 25 NM"
+    ],
+    "answer": "1. 5000 ft 2. 10 NM"
+  },
+  {
+    "question": "What is “Surface wind”?",
+    "choices": [
+      "It is the wind that results when the pressure gradient in the layer of air near to the surface is reduced by the effect of friction.",
+      "It is the airflow near to the surface that is reduced in strength by the effect of friction.",
+      "It is the wind that experiences an increase in the Coriolis effect brought about by the increase in friction near to the surface.",
+      "It is the airflow near to the surface that slows down due to the effect of an increase in air density."
+    ],
+    "answer": "It is the airflow near to the surface that is reduced in strength by the effect of friction."
+  },
+  {
+    "question": "In stable atmospheric conditions, a rising parcel of air cools __________ than its surrounds. Because it's now colder than its surroundings, it will tend to __________.",
+    "choices": [
+      "faster; rise further",
+      "slower; sink back down",
+      "slower; rise further",
+      "faster; sink back down"
+    ],
+    "answer": "faster; sink back down"
+  },
+  {
+    "question": "What is the most likely cause of a lack of clouds at higher levels in a stationary high?",
+    "choices": [
+      "Sinking air",
+      "Divergence at higher levels",
+      "Instability",
+      "Rising air"
+    ],
+    "answer": "Sinking air"
+  },
+  {
+    "question": "A METAR states that the wind direction is 130° , wind velocity is 5 kts, visibility is 8 km, clouds are scattered at 25 000 ft, temperature is 12° C, due point is -8° C and QNH is 1028 hPa. Which of the following weather conditions would result in a change of the current broadcast METAR (ATIS), meaning a publication of a new ATIS?",
+    "choices": [
+      "1850Z 20020KT 8 000 SCT250 12/m08 Q1028 NOSIG =",
+      "1850Z 13005KT 6 000 SCT250 13/m08 Q1028 NOSIG =",
+      "1850Z 10010KT 7 000 SCT150 11/m08 Q1038 NOSIG =",
+      "1850Z 15010KT 8 000 SCT250 12/m08 Q1018 NOSIG ="
+    ],
+    "answer": "1850Z 20020KT 8 000 SCT250 12/m08 Q1028 NOSIG ="
+  },
+  {
+    "question": "During which months is the Hurricane season in the Caribbean?",
+    "choices": [
+      "April until July.",
+      "January until April.",
+      "October until January.",
+      "July until November."
+    ],
+    "answer": "July until November."
+  },
+  {
+    "question": "Associate the facility with the service it provides: Provides upper air gridded forecasts of upper winds; upper-air temperature humidity; direction, speed and flight level of maximum wind; flight level etc.",
+    "choices": [
+      "TCACs",
+      "WMO",
+      "WAFC",
+      "VAACs",
+      "MWO"
+    ],
+    "answer": "WAFC"
+  },
+  {
+    "question": "How does a pilot react to heavy freezing rain at 2000 ft/AGL, when he is unable to de-ice, nor land?",
+    "choices": [
+      "He continues to fly at the same altitude.",
+      "He descends to the warm air layer below.",
+      "He turns back before the aircraft loses manoeuvrability.",
+      "He ascends to the cold air layer above."
+    ],
+    "answer": "He turns back before the aircraft loses manoeuvrability."
+  },
+  {
+    "question": "The stages of supercell thunderstorm development are (in chronological order):",
+    "choices": [
+      "Supercell, tornado and dissipating.",
+      "Initial, supercell, tornado and dissipating.",
+      "Initial, mature, supercell, tornado and dissipating.",
+      "Initial, tornado, supercell, and dissipating."
+    ],
+    "answer": "Initial, supercell, tornado and dissipating."
+  },
+  {
+    "question": "Clouds in patches, sheets or grey or whitish layers made up of elements resembling large pebbles or rollers, together or not, and always clear of the ground are:",
+    "choices": [
+      "Nimbostratus",
+      "Stratus.",
+      "Stratocumulus",
+      "Altostratus"
+    ],
+    "answer": "Stratocumulus"
+  },
+  {
+    "question": "In light winds it may form from the evaporation of raindrops saturating air near the ground. It may also result from low frontal cloud descending to the surface. It occurs in a wide band up to 200 nm ahead of a front, it moves with the front and is only ever associated with the front. It usually dissipates after the front has passed. This is a description of __________ fog.",
+    "choices": [
+      "radiation",
+      "frontal",
+      "arctic",
+      "advection"
+    ],
+    "answer": "frontal"
+  },
+  {
+    "question": "A zone of strong convection currents is encountered during a flight. In spite of moderate turbulence you decide to continue the flight. What are your precautionary measures?",
+    "choices": [
+      "Increase the speed / try to descend below the zone of convective currents.",
+      "Decrease the speed / try to climb above the zone of convective currents if aircraft performance parameters allow.",
+      "Decrease the speed / try to descend below the zone of convective currents.",
+      "Increase the speed / try to climb above the zone of convective currents if aircraft performance parameters allow."
+    ],
+    "answer": "Decrease the speed / try to climb above the zone of convective currents if aircraft performance parameters allow."
+  },
+  {
+    "question": "The forms of visible water which reduce visibility in the atmosphere are:",
+    "choices": [
+      "Cloud, fog, mist, spray or precipitation.",
+      "Fog, spray, cloud and hail (but only for short periods).",
+      "Cloud, fog, mist, spray or smog.",
+      "Cloud, fog, smog, spray or precipitation."
+    ],
+    "answer": "Cloud, fog, mist, spray or precipitation."
+  },
+  {
+    "question": "Which of these statements about rain ice and the rain ice triangle is NOT correct? Rain ice:",
+    "choices": [
+      "Is a relatively moderate in-flight risk because it quickly melts off the airframe.",
+      "Requires a deep cold layer under a warm layer.",
+      "Requires a warm layer (> 0°C) to be producing precipitation above a very cold layer (< 0°C).",
+      "Is most commonly associated with NS cloud along a warm front over a very cold land surface in winter."
+    ],
+    "answer": "Is a relatively moderate in-flight risk because it quickly melts off the airframe."
+  },
+  {
+    "question": "Regarding stratus (ST) and nimbostratus (NS):",
+    "choices": [
+      "ST does cause drizzle and NS rain showers.",
+      "ST does cause rain showers and NS drizzle.",
+      "Neither causes precipitation.",
+      "ST does cause drizzle and NS rain."
+    ],
+    "answer": "ST does cause drizzle and NS rain."
+  },
+  {
+    "question": "An average tornado typically has a diameter of about 250 __________.",
+    "choices": [
+      "ft",
+      "kilometres",
+      "metres",
+      "yards"
+    ],
+    "answer": "metres"
+  },
+  {
+    "question": "According to ICAO, haze (HZ) or smoke (FU), is reduced visibility due to the presence of solid particles (lithometeors) in the atmosphere to a value of:",
+    "choices": [
+      "<=5000 m",
+      "< 5000 m",
+      "10 000 m",
+      "> 5000 m"
+    ],
+    "answer": "<=5000 m"
+  },
+  {
+    "question": "Concerning standing waves, where would the area of most severe turbulence be located?",
+    "choices": [
+      "Roll cloud area.",
+      "In the rough of the standing wave.",
+      "30-50 nm down wind up to the stratosphere.",
+      "Just above the cap cloud."
+    ],
+    "answer": "Roll cloud area."
+  },
+  {
+    "question": "The distinction between rain and drizzle is based largely on the size of the water droplet. Rain droplets are greater than __________ mm in diameter.",
+    "choices": [
+      "5",
+      "0.5",
+      "1",
+      "0.1"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "A thin layer of crystalline ice that forms when water vapour sublimates onto the sub-zero surfaces of an aircraft. It usually comprises fine needle shaped ice crystals protruding outward from a thin layer of ice. This is a description of __________.",
+    "choices": [
+      "hoar frost",
+      "rime ice",
+      "clear ice",
+      "mixed ice"
+    ],
+    "answer": "hoar frost"
+  },
+  {
+    "question": "The wind which results from air cooling on the side of a mountain valley is known as:",
+    "choices": [
+      "Foehn breeze.",
+      "Katabatic wind.",
+      "Valley wind.",
+      "Anabatic wind."
+    ],
+    "answer": "Katabatic wind."
+  },
+  {
+    "question": "An operator wants to fly a new route over a mountainous area with the highest nearby obstacle at 12 500 ft. According to a historical report, the average temperature in the region is ISA -25°C. The QNH is 980 hPa, from a station at sea level. What is the lowest usable flight level the operator can select with a clearance margin of 2000 ft?",
+    "choices": [
+      "FL160",
+      "FL170",
+      "FL140",
+      "FL150"
+    ],
+    "answer": "FL170"
+  },
+  {
+    "question": "Choose the correct statement regarding the transfer of heat in the atmosphere:",
+    "choices": [
+      "Turbulent mixing contributes mainly to the transfer of heat in the Earth's atmosphere, in the horizontal plane, but has little effect in the warming or  cooling of the atmosphere in the vertical plane.",
+      "The primary process involved in the transfer of heat upwards from the surface of the Earth into the upper atmosphere is turbulence, which exists throughout the Earth's atmosphere.",
+      "The air at the surface can be cooled or warmed by the process of conduction, which is the molecular transfer of heat between the surface and the air in contact with it.",
+      "The conduction of heat between the surface and the air in contact with it creates turbulent mixing, which is the most significant component in the transfer of heat to or from medium levels in the Earth's atmosphere."
+    ],
+    "answer": "The air at the surface can be cooled or warmed by the process of conduction, which is the molecular transfer of heat between the surface and the air in contact with it."
+  },
+  {
+    "question": "In the ICAO standard atmosphere, which of the following alternatives indicates the correct vertical temperature distribution in the lowest 11 km?",
+    "choices": [
+      "15°C at mean sea level, decreasing at 0.65°C per 100 metres.",
+      "13°C at mean sea level, decreasing at 2°C per 1 000 feet.",
+      "15°C at mean sea level, decreasing at 0.65°C per 100 feet.",
+      "15.2°C at mean sea level, decreasing at 0.65°C per 100 metres."
+    ],
+    "answer": "15°C at mean sea level, decreasing at 0.65°C per 100 metres."
+  },
+  {
+    "question": "In relation to the total mass of the atmosphere, the mass of the atmosphere between mean sea level and a height of 5500 m is:",
+    "choices": [
+      "25%",
+      "99%",
+      "1%",
+      "50%"
+    ],
+    "answer": "50%"
+  },
+  {
+    "question": "A wind speed of 350 kt within a jet stream core should be regarded as:",
+    "choices": [
+      "possible but a rare phenomenon.",
+      "a common occurrence.",
+      "not possible.",
+      "not unusual in polar regions."
+    ],
+    "answer": "possible but a rare phenomenon."
+  },
+  {
+    "question": "What is the interval over which the wind speed is reported for METARs and SPECIs?",
+    "choices": [
+      "10 min",
+      "7 min",
+      "2 min",
+      "4 min"
+    ],
+    "answer": "10 min"
+  },
+  {
+    "question": "Which of the following cloud types is a medium level cloud?",
+    "choices": [
+      "AS",
+      "SC",
+      "ST",
+      "CS"
+    ],
+    "answer": "AS"
+  },
+  {
+    "question": "Which of the following weather conditions favour the formation of radiation fog?",
+    "choices": [
+      "Light wind, extensive cloud, moist air.",
+      "Light wind, little or no cloud, moist air.",
+      "Light wind, extensive cloud, dry air.",
+      "Strong wind, little or no cloud, moist air."
+    ],
+    "answer": "Light wind, little or no cloud, moist air."
+  },
+  {
+    "question": "Which of the following is a cause of stratus forming over flat land?",
+    "choices": [
+      "Radiation during the night from the Earth surface in moderate wind.",
+      "Unstable air.",
+      "The release of latent heat.",
+      "Convection during the day."
+    ],
+    "answer": "Radiation during the night from the Earth surface in moderate wind."
+  },
+  {
+    "question": "Associate the reported cloud amount with the coverage in oktas: 3-4 oktas.",
+    "choices": [
+      "SKC",
+      "BKN",
+      "OVC",
+      "FEW",
+      "SCT"
+    ],
+    "answer": "SCT"
+  },
+  {
+    "question": "A strong low level wind that emanates from beneath convective storms and blows radially in all directions is a generic description of __________.",
+    "choices": [
+      "thunderstorm",
+      "gust",
+      "a downburst",
+      "windshear"
+    ],
+    "answer": "a downburst"
+  },
+  {
+    "question": "__________ thunderstorms are associated with unstable warm fronts and most cold fronts.",
+    "choices": [
+      "Air mass",
+      "Multi-cell",
+      "Frontal"
+    ],
+    "answer": "Frontal"
+  },
+  {
+    "question": "Which one of the following statements most accurately describes the mechanism for hail formation?",
+    "choices": [
+      "Hail forms in the coldest types of stratus, being kept aloft by mechanical turbulence and thus growing until they are heavy enough to fall to the surface.",
+      "Water droplets ascend in updrafts, growing by collision and coalescence, they freeze and grow further as they ascend until they are heavy enough to fall out of the cloud.",
+      "Hail is produced by snowflakes which partially melt and coalesce after they fall out of the cloud.",
+      "Water droplets fall through a cumulus, gathering ice crystals as they fall. Warmer air in the lower regions of the cloud partially melts them to form a type of clear ice."
+    ],
+    "answer": "Water droplets ascend in updrafts, growing by collision and coalescence, they freeze and grow further as they ascend until they are heavy enough to fall out of the cloud."
+  },
+  {
+    "question": "Large SCWD can form in ambient temperatures between 0°C and __________°C.",
+    "choices": [
+      "-5",
+      "-25",
+      "-20",
+      "-15"
+    ],
+    "answer": "-20"
+  },
+  {
+    "question": "What type of clouds can one expect after a cold front has passed?",
+    "choices": [
+      "Cirrostratus clouds.",
+      "Cumulus clouds.",
+      "Cirrus clouds.",
+      "Cumulonimbus clouds."
+    ],
+    "answer": "Cumulus clouds."
+  },
+  {
+    "question": "The saturated air lying immediately above the warm moist surface almost instantly condenses when it comes into contact with the colder air. A marked inversion is required and temperatures are often close to zero. This describes the formation of __________ __________.",
+    "choices": [
+      "sea smoke",
+      "arctic fog",
+      "advection fog",
+      "radiation fog"
+    ],
+    "answer": "sea smoke"
+  },
+  {
+    "question": "A permanent, persistent jet stream created by the temperature difference between the Hadley and Ferrel cells and found between 25° (winter) to 40° (summer) is a description of the __________.",
+    "choices": [
+      "subtropical jet stream",
+      "the easterly jet stream",
+      "polar front jet stream",
+      "arctic front jet stream"
+    ],
+    "answer": "subtropical jet stream"
+  },
+  {
+    "question": "Hazardous hailstones, reaching the ground, are most likely to be experienced below CB clouds situated:",
+    "choices": [
+      "over the sea in mid-latitudes.",
+      "in continental regions near the equator.",
+      "over the sea near the equator.",
+      "in continental regions in mid-latitudes."
+    ],
+    "answer": "in continental regions in mid-latitudes."
+  },
+  {
+    "question": "Which type of cloud is most typical evidence of stable air conditions?",
+    "choices": [
+      "Cumulus",
+      "Altocumulus castellanus",
+      "Cumulonimbus",
+      "Cirrostratus"
+    ],
+    "answer": "Cirrostratus"
+  },
+  {
+    "question": "Associate the type of wind with the appropriate description: Well developed winds in the mid-afternoon cause a general flow of air from the plains and valleys up towards the mountain tops.",
+    "choices": [
+      "Anabatic",
+      "Cold Air",
+      "Katabatic",
+      "Mountain"
+    ],
+    "answer": "Anabatic"
+  },
+  {
+    "question": "Associate the reported cloud amount with the coverage in oktas: 0 oktas.",
+    "choices": [
+      "SKC",
+      "BKN",
+      "SCT",
+      "FEW",
+      "OVC"
+    ],
+    "answer": "SKC"
+  },
+  {
+    "question": "Assign the description to an icing intensity category: The rate of accumulation might create a problem if flight in this environment exceeds 1 hour. Occasional use of de-icing/anti-icing removes and prevents accumulation.",
+    "choices": [
+      "Light",
+      "Trace",
+      "Moderate",
+      "Severe"
+    ],
+    "answer": "Light"
+  },
+  {
+    "question": "Changes in altitude and/or attitude occur, the aircraft remains in positive control at all times and the IAS fluctuates 15-25 kt. (0.5-1.0 g). This is a description of:",
+    "choices": [
+      "Severe turbulence",
+      "Intermittent turbulence.",
+      "Light turbulence.",
+      "Moderate turbulence"
+    ],
+    "answer": "Moderate turbulence"
+  },
+  {
+    "question": "Associate the type of precipitation with the most appropriate description. Transparent or translucent ice particles that cannot be crushed easily and have a diameter < 5 mm. May indicate that, at higher levels, freezing rain is present.",
+    "choices": [
+      "Ice pellets",
+      "Snow grains",
+      "Hail",
+      "Snow pellets"
+    ],
+    "answer": "Ice pellets"
+  },
+  {
+    "question": "The reporting group ‘BR’ indicates that the visibility is less than 5000 m but more than ____.",
+    "choices": [
+      "1000 m",
+      "1500 m",
+      "2500 m",
+      "3000 m"
+    ],
+    "answer": "1000 m"
+  },
+  {
+    "question": "During the day, the land warms faster than the sea. The warmer air overland rises, drawing in air from the sea. This creates a low level wind which peaks at about 15:00L. This is a description of:",
+    "choices": [
+      "A land breeze.",
+      "A sea breeze."
+    ],
+    "answer": "A sea breeze."
+  },
+  {
+    "question": "Before a planned take-off, wind shear is forecast. What is the most advisable course of action?",
+    "choices": [
+      "Delay the take-off.",
+      "Initially climb at a shallow angle.",
+      "Select a lower climb speed.",
+      "Reduce take-off thrust."
+    ],
+    "answer": "Delay the take-off."
+  },
+  {
+    "question": "The reporting group 'BR' indicates that the visibility is less than __________ but more than 1000 m.",
+    "choices": [
+      "3000 m",
+      "1500 m",
+      "5000 m",
+      "2500 m"
+    ],
+    "answer": "5000 m"
+  },
+  {
+    "question": "Potentially the most dangerous form of windshear is:",
+    "choices": [
+      "High level windshear.",
+      "Horizontal windshear.",
+      "Vertical windshear.",
+      "Windshear on the final approach."
+    ],
+    "answer": "Windshear on the final approach."
+  },
+  {
+    "question": "An __________ is a line of equal windspeed.",
+    "choices": [
+      "isotach",
+      "isotherm",
+      "isohypse",
+      "isobar"
+    ],
+    "answer": "isotach"
+  },
+  {
+    "question": "Overland, in the friction layer, the difference in direction between the surface wind and the geostrophic wind is about__________°.",
+    "choices": [
+      "180",
+      "30",
+      "90",
+      "45"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "What is mixed ice/opaque Ice and where can it be found?",
+    "choices": [
+      "Mixed ice consists of clear ice and freezing rain and can be found in CB clouds.",
+      "Mixed ice consists of freezing fog and rime ice and can be found in NS and CB clouds.",
+      "Mixed ice consists of rime ice and hoar frost can be found in CI and AS clouds.",
+      "Mixed ice consists of clear ice and rime ice and can be found ln NS clouds."
+    ],
+    "answer": "Mixed ice consists of clear ice and rime ice and can be found ln NS clouds."
+  },
+  {
+    "question": "The most severe airframe icing is associated with __________ SCWD because, on impact with an airframe, the rate of freezing of the SCWD is __________ by the release of latent heat.",
+    "choices": [
+      "large; slowed",
+      "large; accelerated",
+      "small; accelerated",
+      "small; slowed"
+    ],
+    "answer": "large; slowed"
+  },
+  {
+    "question": "Compared to a microburst, a macroburst:",
+    "choices": [
+      "Affects a larger area.",
+      "Occurs over a shorter time period.",
+      "Is free of rain",
+      "Has an updraft."
+    ],
+    "answer": "Affects a larger area."
+  },
+  {
+    "question": "Mixed clouds comprise __________ and water droplets and are often the middle level clouds.",
+    "choices": [
+      "rain",
+      "snow",
+      "ice crystals"
+    ],
+    "answer": "ice crystals"
+  },
+  {
+    "question": "The primary cause of jet streams is large __________ differences between adjacent air masses.",
+    "choices": [
+      "pressure",
+      "speed",
+      "temperature"
+    ],
+    "answer": "temperature"
+  },
+  {
+    "question": "What do you understand by \"Saint Elmo's Fire\"?",
+    "choices": [
+      "A bright blue glow visible very briefly after a damaging lightning strike.",
+      "A natural light display in the sky, often seen by pilots flying at high altitude in Northern latitudes only.",
+      "A bright blue or violet glow visible around the windscreen and external parts of the aircraft, occasionally seen when flying in the vicinity of thunderstorms.",
+      "A natural light display in the sky, caused by charged particles in the solar wind reacting with particles in the upper atmosphere."
+    ],
+    "answer": "A bright blue or violet glow visible around the windscreen and external parts of the aircraft, occasionally seen when flying in the vicinity of thunderstorms."
+  },
+  {
+    "question": "The Wegener–Bergeron–Findeisen process (also known as the cold-rain process) describes:",
+    "choices": [
+      "How ice crystals grow in mixed cloud at the expense of water droplets.",
+      "How water droplets increase in size as they fall through a cloud.",
+      "How water droplets increase in size in a cloud due to stung updrafts.",
+      "How ice melts to create snow in a cloud."
+    ],
+    "answer": "How ice crystals grow in mixed cloud at the expense of water droplets."
+  },
+  {
+    "question": "Occasional turbulence is defined as turbulence which is experienced for __________ of the time.",
+    "choices": [
+      "less than 1/2",
+      "less than 1/3rd",
+      "less than 2/3rds"
+    ],
+    "answer": "less than 1/3rd"
+  },
+  {
+    "question": "An average tornado typically has a rotational windspeed of about __________ kt.",
+    "choices": [
+      "200",
+      "300",
+      "100",
+      "150"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "Snowflakes __________ in size as the temperature rises towards 0°C.",
+    "choices": [
+      "remain same",
+      "decrease",
+      "increase"
+    ],
+    "answer": "increase"
+  },
+  {
+    "question": "The reporting code 'FG' indicates that the visibility is less than __________.",
+    "choices": [
+      "500 m",
+      "1500 m",
+      "5000 m",
+      "1000 m"
+    ],
+    "answer": "1000 m"
+  },
+  {
+    "question": "__________ are large scale downbursts of 5-20 minutes, more than 4 km in area. Wind speed can exceed 130 kt. They can cause widespread damage similar to tornadoes.",
+    "choices": [
+      "Macrobursts",
+      "Windshear",
+      "Gust",
+      "Microbursts"
+    ],
+    "answer": "Macrobursts"
+  },
+  {
+    "question": "Subsidence is a feature of __________ pressure systems.",
+    "choices": [
+      "low",
+      "mid",
+      "high"
+    ],
+    "answer": "high"
+  },
+  {
+    "question": "The pressure steadily __________ as a warm front approaches.",
+    "choices": [
+      "remains constant",
+      "rises",
+      "falls"
+    ],
+    "answer": "falls"
+  },
+  {
+    "question": "The main icing zone in the ITCZ is located between:",
+    "choices": [
+      "FL 200 – FL 300",
+      "FL 250 – FL 350",
+      "FL 100 – FL 200",
+      "FL 160 – FL 260"
+    ],
+    "answer": "FL 160 – FL 260"
+  },
+  {
+    "question": "Which 1 of the following cloud sequences describes the onset and arrival of a warm front? In order of appearance over an observer on the ground:",
+    "choices": [
+      "Ci, Cs AS, NS, St.",
+      "Cb Ac",
+      "AS, NS, Cb. St",
+      "St, Ci, Cs, NS."
+    ],
+    "answer": "Ci, Cs AS, NS, St."
+  },
+  {
+    "question": "Air masses that travel from warmer to colder locations are cooled from below, this __________ the ELR and __________ stability.",
+    "choices": [
+      "decreases; increases",
+      "increases; increases",
+      "increases; decreases",
+      "decreases; decreases"
+    ],
+    "answer": "decreases; increases"
+  },
+  {
+    "question": "Large, warm high pressures exist between 20° to 35° latitude. This creates a band around the Earth called the sub tropical high pressure belt. It is characterised by clear skies, warm surface conditions and light winds. There is a large diurnal temperature variation over land. This weather pattern occurs at the subsidence areas between the __________ cells.",
+    "choices": [
+      "Hadley and Ferrel",
+      "Hadley and Polar",
+      "Ferrel and Polar"
+    ],
+    "answer": "Hadley and Ferrel"
+  },
+  {
+    "question": "The worst weather in an occluded front occurs __________.",
+    "choices": [
+      "near the apex of the occlusion",
+      "in the warm sector air"
+    ],
+    "answer": "near the apex of the occlusion"
+  },
+  {
+    "question": "Associate the facility with the service it provides: Provides operational information and also implements a global framework for the national met services.",
+    "choices": [
+      "VAACs",
+      "MWO",
+      "WMO",
+      "TCACs",
+      "WAFC"
+    ],
+    "answer": "WMO"
+  },
+  {
+    "question": "A 'sea breeze' blows:",
+    "choices": [
+      "From sea during the night.",
+      "From sea during the day.",
+      "From land during the day.",
+      "From land during the night."
+    ],
+    "answer": "From sea during the day."
+  },
+  {
+    "question": "Pre-recorded, plain language, ground-to-air radio broadcasts of aerodrome reports and forecasts are known as __________.",
+    "choices": [
+      "VOLMET",
+      "ATIS",
+      "TAF",
+      "SPECI"
+    ],
+    "answer": "VOLMET"
+  },
+  {
+    "question": "Tropical revolving storms require energy from a large body of water which must be greater than __________°C.",
+    "choices": [
+      "26",
+      "5",
+      "0",
+      "10"
+    ],
+    "answer": "26"
+  },
+  {
+    "question": "When compared to the geostrophic wind in the northern hemisphere, surface friction will cause the surface wind to:",
+    "choices": [
+      "veer and increase.",
+      "back and increase.",
+      "back and decrease.",
+      "veer and decrease."
+    ],
+    "answer": "back and decrease."
+  },
+  {
+    "question": "Maritime tracks __________ the relative and absolute humidity of an air mass.",
+    "choices": [
+      "decrease",
+      "have no effect on",
+      "increase"
+    ],
+    "answer": "increase"
+  },
+  {
+    "question": "__________ images can reveal wind patterns and jet streams. Darker colours indicate drier air; brighter colours indicate high moisture content, or vice versa.",
+    "choices": [
+      "Water vapour",
+      "Infrared",
+      "Visible"
+    ],
+    "answer": "Water vapour"
+  },
+  {
+    "question": "The volcano alert code used in field E of an ASHTAM is:",
+    "choices": [
+      "A colour code.",
+      "ID number code.",
+      "A number and the ID of the volcano.",
+      "A colour code & ID."
+    ],
+    "answer": "A colour code."
+  },
+  {
+    "question": "The vertical extent of the friction layer depends primarily on:",
+    "choices": [
+      "wind speed, roughness of surface and temperature.",
+      "temperature, local time and environmental lapse rate.",
+      "stability, wind speed, and roughness of surface.",
+      "roughness of surface, temperature and local time."
+    ],
+    "answer": "stability, wind speed, and roughness of surface."
+  },
+  {
+    "question": "An occluded front is formed by __________.",
+    "choices": [
+      "cyclonism",
+      "cyclogenesis",
+      "cyclic uplift"
+    ],
+    "answer": "cyclogenesis"
+  },
+  {
+    "question": "Tropical revolving storms require an unstable, moist atmosphere with little vertical shear and can only begin to generate beyond the latitudes of __________°N/S.",
+    "choices": [
+      "30",
+      "25",
+      "5",
+      "50"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Which option correctly places, in a chronological order, the four stages of a mid-latitude depression life cycle?",
+    "choices": [
+      "Occlusion, Frontolysis, Developed, Cyclogenesis.",
+      "Cyclogenesis, Developed, Occlusion, Frontolysis.",
+      "Cyclogenesis, Frontolysis, Developed, Occlusion.",
+      "Frontolysis, Cyclogenesis, Developed, Occlusion."
+    ],
+    "answer": "Cyclogenesis, Developed, Occlusion, Frontolysis."
+  },
+  {
+    "question": "The 3 main air masses that affect Europe are:",
+    "choices": [
+      "Polar Maritime, Tropical Maritime and Tropical Maritime.",
+      "Polar Maritime, Arctic Maritime and Tropical Maritime.",
+      "Polar Maritime, Polar Continental and Arctic Maritime.",
+      "Polar Maritime, Tropical Maritime and Tropical Continental."
+    ],
+    "answer": "Polar Maritime, Tropical Maritime and Tropical Continental."
+  },
+  {
+    "question": "Surface wind measurements contained in METAR and SPECI reports are referenced to __________ North and are averaged over the previous __________ minutes.",
+    "choices": [
+      "True; 10",
+      "True; 30",
+      "Magnetic; 10",
+      "Magnetic; 30"
+    ],
+    "answer": "True; 10"
+  },
+  {
+    "question": "Which type of air mass never occurs over Central Europe?",
+    "choices": [
+      "Polar air",
+      "Equatorial air",
+      "Arctic air",
+      "Tropical air"
+    ],
+    "answer": "Equatorial air"
+  },
+  {
+    "question": "In which general direction does a polar front depression move?",
+    "choices": [
+      "Along the front towards the west.",
+      "Across the front towards the north.",
+      "Along the front towards the east.",
+      "Across the front towards the south."
+    ],
+    "answer": "Along the front towards the east."
+  },
+  {
+    "question": "What average geographical latitude is assumed for the zone of the travelling frontal depressions?",
+    "choices": [
+      "30°N",
+      "60°N",
+      "10°N",
+      "80°N"
+    ],
+    "answer": "60°N"
+  },
+  {
+    "question": "Which one of the following statements is correct? A cold front:",
+    "choices": [
+      "is the part of the depression where the wind flows from low to high pressure.",
+      "usually moves across the surface faster than a warm front.",
+      "will circle the centre of the depression in an anticlockwise direction in the southern hemisphere.",
+      "is characterised by the exchange of cold air by warm air."
+    ],
+    "answer": "usually moves across the surface faster than a warm front."
+  },
+  {
+    "question": "Associate the met product and its description: A weather advisory issued by MWO's that contains meteorological information concerning the safety of all aircraft.",
+    "choices": [
+      "GAMET",
+      "AIRMET",
+      "METAR",
+      "SIGMET",
+      "SPECI",
+      "TAF"
+    ],
+    "answer": "SIGMET"
+  },
+  {
+    "question": "Polar lows are caused by __________ atmospheric conditions. very cold air from ice shelves or very cold land masses blowing over the relatively warmer sea. This produces",
+    "choices": [
+      "stable",
+      "relatively stable",
+      "moderately unstable",
+      "very unstable"
+    ],
+    "answer": "very unstable"
+  },
+  {
+    "question": "Associate the facility with the service it provides: Forecasts of tropical cyclones.",
+    "choices": [
+      "MWO",
+      "WMO",
+      "TCACs",
+      "WAFC",
+      "VAACs"
+    ],
+    "answer": "TCACs"
+  },
+  {
+    "question": "An observer is on the ground. What weather can he expect in the middle of a cold air drop?",
+    "choices": [
+      "TS/RA.",
+      "Fair weather CU.",
+      "Clear skies.",
+      "Gusty winds."
+    ],
+    "answer": "TS/RA."
+  },
+  {
+    "question": "Mountains:",
+    "choices": [
+      "Strengthen and accelerate fronts.",
+      "Weaken and decelerate fronts.",
+      "Have little effect on the passage of a large air mass.",
+      "Can strengthen or weaken fronts and accelerate or decelerate fronts."
+    ],
+    "answer": "Can strengthen or weaken fronts and accelerate or decelerate fronts."
+  },
+  {
+    "question": "What does RVR stand for?",
+    "choices": [
+      "Radio VHF range.",
+      "Runway visual range.",
+      "Reduced visibility range.",
+      "Reduced vertical range."
+    ],
+    "answer": "Runway visual range."
+  },
+  {
+    "question": "ln the middle of the eye of a hurricane the wind speed is:",
+    "choices": [
+      "higher than 63 knots and the air is ascending .",
+      "lower than 63 knots and the air is descending.",
+      "higher than 63 knots and the air is descending.",
+      "lower than 63 knots and the air is ascending."
+    ],
+    "answer": "lower than 63 knots and the air is descending."
+  },
+  {
+    "question": "Winds reported by the control tower and in local routine reports (ATIS) are averaged over the previous __________ minutes and are referenced to __________ North.",
+    "choices": [
+      "2; True",
+      "10; True",
+      "2; Magnetic",
+      "10; Magnetic"
+    ],
+    "answer": "2; Magnetic"
+  },
+  {
+    "question": "Which of the following statements concerning the airflow during the summer monsoon is correct?",
+    "choices": [
+      "Easterly airflow over Japan",
+      "South-westerly airflow over India",
+      "Westerly airflow over Japan",
+      "North-easterly airflow over India"
+    ],
+    "answer": "South-westerly airflow over India"
+  },
+  {
+    "question": "How do air masses move at a warm front?",
+    "choices": [
+      "Warm air undercuts a cold air mass.",
+      "Warm air overrides a cold air mass.",
+      "Cold air overrides a warm air mass.",
+      "Cold air undercuts a warm air mass."
+    ],
+    "answer": "Warm air overrides a cold air mass."
+  },
+  {
+    "question": "What is the correct term for the descending air flow in a large high pressure area?",
+    "choices": [
+      "Convergence.",
+      "Convection.",
+      "Subsidence.",
+      "Advection."
+    ],
+    "answer": "Subsidence."
+  },
+  {
+    "question": "The term CAVOK is used when weather conditions are:",
+    "choices": [
+      "8000, HAZARDOUS WX NIL, NOSIG",
+      "9999, NSC, NOSIG",
+      "9000, no clouds, NOSIG",
+      "9999, NSC, NSW"
+    ],
+    "answer": "9999, NSC, NSW"
+  },
+  {
+    "question": "In which month does the humid monsoon in India start?",
+    "choices": [
+      "In December.",
+      "In October.",
+      "In June.",
+      "In March."
+    ],
+    "answer": "In June."
+  },
+  {
+    "question": "Which of the following statements about advantages or disadvantages of IR and visual satellites is true?",
+    "choices": [
+      "High clouds and tops can be hard to see with IR satellites.",
+      "IR satellites are most efficient to detect fog, especially advection fog over the sea.",
+      "Visual satellites are less likely to detect low clouds and fog.",
+      "Low clouds and fog can be hard to see with IR satellites."
+    ],
+    "answer": "Low clouds and fog can be hard to see with IR satellites."
+  },
+  {
+    "question": "What is the approximate height of the subtropical jet stream found over Europe?",
+    "choices": [
+      "20 000 ft",
+      "50 000 ft",
+      "40 000 ft",
+      "30 000 ft"
+    ],
+    "answer": "40 000 ft"
+  },
+  {
+    "question": "Associate the met product and its description: A briefing service for low level GA aircraft < FL 120..",
+    "choices": [
+      "GAMET",
+      "TAF",
+      "AIRMET",
+      "MET",
+      "SIGMET",
+      "SPECI",
+      "METAR"
+    ],
+    "answer": "AIRMET"
+  },
+  {
+    "question": "What does the code R24R/P1500 mean?",
+    "choices": [
+      "RVR RWY 24 right below 1500 metres.",
+      "RVR RWY 24 right 1500 metres.",
+      "RVR RWY 24 right above 1500 metres.",
+      "Snow clearance in progress on RWY 24 right, useable runway length 1500 metres."
+    ],
+    "answer": "RVR RWY 24 right above 1500 metres."
+  },
+  {
+    "question": "The vertical position of an aircraft at, or above, the transition level is normally expressed as a __________ __________.",
+    "choices": [
+      "flight level",
+      "altitude",
+      "height"
+    ],
+    "answer": "flight level"
+  },
+  {
+    "question": "The region of the atmosphere which is normally stable and has few clouds is known as the:",
+    "choices": [
+      "Tropopause",
+      "Troposphere",
+      "Stratosphere",
+      "Jet stream"
+    ],
+    "answer": "Stratosphere"
+  },
+  {
+    "question": "Between mean sea level and a height of 20 km, the lowest temperature in the ICAO Standard Atmosphere (ISA) is:",
+    "choices": [
+      "-100 °C",
+      "-56.5 °C",
+      "-273 °C",
+      "-44.7 °C"
+    ],
+    "answer": "-56.5 °C"
+  },
+  {
+    "question": "High level __________ promotes subsidence (sinking air) air which then __________ near the surface.",
+    "choices": [
+      "divergence; converges",
+      "convergence; diverges",
+      "convergence; converges",
+      "divergence; diverges"
+    ],
+    "answer": "convergence; diverges"
+  },
+  {
+    "question": "The lapse rate within and between layers __________ constant and uniform.",
+    "choices": [
+      "is",
+      "may be",
+      "is not"
+    ],
+    "answer": "is not"
+  },
+  {
+    "question": "Identify the term from its definition: The vertical distance above the ground.",
+    "choices": [
+      "Height",
+      "QFE",
+      "QNH",
+      "Altitude"
+    ],
+    "answer": "Height"
+  },
+  {
+    "question": "Solar radiation has a __________ wavelength than terrestrial radiation.",
+    "choices": [
+      "longer",
+      "shorter",
+      "the same"
+    ],
+    "answer": "shorter"
+  },
+  {
+    "question": "Pressure decreases with height at a __________ rate.",
+    "choices": [
+      "decreasing",
+      "constant",
+      "increasing"
+    ],
+    "answer": "decreasing"
+  },
+  {
+    "question": "Isothermal layers and inversions __________ the vertical motion of the air.",
+    "choices": [
+      "promote",
+      "has no effect on",
+      "inhibit"
+    ],
+    "answer": "inhibit"
+  },
+  {
+    "question": "What, approximately, is the average height of the tropopause over the equator?",
+    "choices": [
+      "11 km",
+      "40 km",
+      "8 km",
+      "16 km"
+    ],
+    "answer": "16 km"
+  },
+  {
+    "question": "Cold air compacts isobaric pressure levels. The true vertical distance between each flight level __________.",
+    "choices": [
+      "stays the same",
+      "reduces",
+      "increases"
+    ],
+    "answer": "reduces"
+  },
+  {
+    "question": "Solar radiation helps to provide sufficient energy for __________.",
+    "choices": [
+      "sublimation and deposition",
+      "deposition",
+      "sublimation"
+    ],
+    "answer": "sublimation"
+  },
+  {
+    "question": "The atmosphere is divided into layers according to how the __________ varies with height.",
+    "choices": [
+      "pressure",
+      "temperature",
+      "density"
+    ],
+    "answer": "temperature"
+  },
+  {
+    "question": "Which is true of the temperature at the tropopause?",
+    "choices": [
+      "It is higher in equatorial regions than in polar regions.",
+      "It is highest in middle latitudes.",
+      "It is higher in polar regions than in equatorial regions.",
+      "There is no significant difference with change of latitude."
+    ],
+    "answer": "It is higher in polar regions than in equatorial regions."
+  },
+  {
+    "question": "At high altitudes a powerful oxidant called __________ must be removed from the cabin air.",
+    "choices": [
+      "solar radiation",
+      "ozone",
+      "cosmic radiation"
+    ],
+    "answer": "ozone"
+  },
+  {
+    "question": "In conditions of conditional stability, stability is determined by whether the air is saturated or not. If saturated, then the air is __________, if unsaturated (dry) then the air is __________.",
+    "choices": [
+      "unstable; stable",
+      "stable; unstable",
+      "unstable; unstable",
+      "stable; stable"
+    ],
+    "answer": "unstable; stable"
+  },
+  {
+    "question": "The geostrophic wind scale quantifies the relationship between isobar spacing and the __________ __________ __________.",
+    "choices": [
+      "geostrophic gradient force.",
+      "isobaric gradient force.",
+      "pressure gradient force.",
+      "geostrophic coriolis force."
+    ],
+    "answer": "pressure gradient force."
+  },
+  {
+    "question": "Air temperature is a measure of __________ energy.",
+    "choices": [
+      "potential",
+      "static",
+      "kinetic"
+    ],
+    "answer": "kinetic"
+  },
+  {
+    "question": "Subsiding air creates a column of relatively warmer air which decreases the average ELR and __________ atmospheric stability. This __________ cloud formation.",
+    "choices": [
+      "decreases; prevents",
+      "decreases; promotes",
+      "increases; prevents",
+      "increases; promotes"
+    ],
+    "answer": "increases; prevents"
+  },
+  {
+    "question": "Define a 'HIGH.",
+    "choices": [
+      "An area with higher pressure than that of the horizontal environments.",
+      "An area of convergence.",
+      "None of the above.",
+      "A high pressure ridge."
+    ],
+    "answer": "An area with higher pressure than that of the horizontal environments."
+  },
+  {
+    "question": "Mountain waves should be expected:",
+    "choices": [
+      "on the downwind side of the mountain range.",
+      "on the upwind side of the mountain range.",
+      "when instability is high.",
+      "directly over the mountain range."
+    ],
+    "answer": "on the downwind side of the mountain range."
+  },
+  {
+    "question": "The atmospheric layer above the troposphere, where temperature is constant with height up to about __________ km, is called the __________.",
+    "choices": [
+      "50; stratopause",
+      "20; stratosphere",
+      "50; stratosphere",
+      "20; stratopause"
+    ],
+    "answer": "20; stratosphere"
+  },
+  {
+    "question": "Up to a height of about 20 km, 1 of the 2 principal layers in the atmosphere is the __________ where temperature __________ with height.",
+    "choices": [
+      "troposphere; increases",
+      "tropopause; decreases",
+      "tropopause; increases",
+      "troposphere; decreases"
+    ],
+    "answer": "troposphere; decreases"
+  },
+  {
+    "question": "The transition altitude for the day is 4500 ft. The QNH on this summer day is 1030 hPa. At the transition altitude you change the altimeter to the SPS. It now reads:",
+    "choices": [
+      "3990 ft",
+      "5010 ft",
+      "FL 45.",
+      "3490 ft"
+    ],
+    "answer": "3990 ft"
+  },
+  {
+    "question": "Turbulence __________ the transfer of heat energy between atmospheric layers.",
+    "choices": [
+      "restricts",
+      "has no effect on",
+      "promotes"
+    ],
+    "answer": "promotes"
+  },
+  {
+    "question": "Flight towards an area of low temperature causes the indicated altitude to be __________ than the true altitude. This error is __________.",
+    "choices": [
+      "higher; unsafe",
+      "lower; safe",
+      "higher; safe",
+      "lower; unsafe"
+    ],
+    "answer": "higher; unsafe"
+  },
+  {
+    "question": "When flying in mountainous terrain and assuming ISA temperatures and strong winds, which of the following is correct?",
+    "choices": [
+      "In cases of the venturi effect, the actual altitude of the aircraft is lower than the indicated altitude.",
+      "In cases of the combined effect of surface friction and adiabatic compression of the air, the dynamic pressure is lower than indicated by the altimeter.",
+      "In cases of adiabatic compression of the air, the temperature is lower than indicated.",
+      "In cases of the venturi effect, the indicated altitude of the aircraft is lower than the actual altitude."
+    ],
+    "answer": "In cases of the venturi effect, the actual altitude of the aircraft is lower than the indicated altitude."
+  },
+  {
+    "question": "Which of the following is true of a 'land breeze'?",
+    "choices": [
+      "It blows only at noon.",
+      "It blows by day.",
+      "It blows from land to water.",
+      "It blows from water to land."
+    ],
+    "answer": "It blows from land to water."
+  },
+  {
+    "question": "An isobaric trough results in __________ weather because there is pronounced surface __________.",
+    "choices": [
+      "significant; divergence",
+      "significant; convergence",
+      "little; divergence",
+      "little; convergence"
+    ],
+    "answer": "significant; convergence"
+  },
+  {
+    "question": "On traditional mean sea level pressure (MSLP) synoptic charts the plotted __________ use these values.",
+    "choices": [
+      "isobars",
+      "isphases",
+      "isohypse",
+      "isotherm"
+    ],
+    "answer": "isobars"
+  },
+  {
+    "question": "If the ELR is less than both the DALR and SALR then the atmosphere is __________.",
+    "choices": [
+      "conditionally stable",
+      "absolutely unstable",
+      "unconditionally stable",
+      "absolutely stable"
+    ],
+    "answer": "absolutely stable"
+  },
+  {
+    "question": "____________________ is absorbed or released whenever water in the atmosphere changes its state (for example, from liquid to ice).",
+    "choices": [
+      "Latent heat",
+      "Molecular energy",
+      "Latent energy",
+      "Kinetic energy",
+      "Potential energy"
+    ],
+    "answer": "Latent heat"
+  },
+  {
+    "question": "You are on an approach to an airfield, descending through the friction layer. The wind changes from a headwind to a slight right crosswind.",
+    "choices": [
+      "This is typical for southern hemisphere.",
+      "This is due to changing wind directions on approach.",
+      "The airfield is most probably situated near water (on the coast).",
+      "This is typical for northern hemisphere."
+    ],
+    "answer": "This is typical for southern hemisphere."
+  },
+  {
+    "question": "An omega block is an extreme version of a blocking high. This feature remains stationary __________ period.",
+    "choices": [
+      "short, very intense",
+      "for a prolonged"
+    ],
+    "answer": "for a prolonged"
+  },
+  {
+    "question": "If the ELR is greater than both the DALR and SALR, then the atmosphere is __________.",
+    "choices": [
+      "absolutely stable",
+      "conditionally stable",
+      "absolutely unstable",
+      "unconditionally stable"
+    ],
+    "answer": "absolutely unstable"
+  },
+  {
+    "question": "In the ISA, between 11 km and 20 km altitude, the temperature lapse rate is __________.",
+    "choices": [
+      "exothermal",
+      "isothermal",
+      "endothermal",
+      "isometric"
+    ],
+    "answer": "isothermal"
+  },
+  {
+    "question": "Identify this pressure feature by its description: An area in which the atmospheric pressure is less than its surroundings.",
+    "choices": [
+      "Low Pressure",
+      "Trough",
+      "Anticyclone",
+      "Ridge"
+    ],
+    "answer": "Low Pressure"
+  },
+  {
+    "question": "Liquid water existing at a temperature below its freezing point is said to be __________.",
+    "choices": [
+      "supercooled",
+      "ice",
+      "chilled"
+    ],
+    "answer": "supercooled"
+  },
+  {
+    "question": "Air density is approximately 50% of MSL at __________ 000 ft and 25% of MSL at __________ 000 ft.",
+    "choices": [
+      "10; 20",
+      "22; 40",
+      "30; 50",
+      "40; 22"
+    ],
+    "answer": "22; 40"
+  },
+  {
+    "question": "A plain in western Europe with an average elevation of 500 m (1600 ft) above sea level is covered with a uniform AC layer of cloud during the summer months. At what height above the ground is the base of this cloud to be expected?",
+    "choices": [
+      "15 000 - 25 000 ft",
+      "7000 - 15 000 ft",
+      "100 - 1500 ft",
+      "1500 - 7000 ft"
+    ],
+    "answer": "7000 - 15 000 ft"
+  },
+  {
+    "question": "What is encountered during the summer, over land, in the centre of a cold air drop?",
+    "choices": [
+      "Showers and thunderstorms.",
+      "Fine weather CU.",
+      "Clear sky.",
+      "Strong westerly winds."
+    ],
+    "answer": "Showers and thunderstorms."
+  },
+  {
+    "question": "What is the Bora?",
+    "choices": [
+      "An anabatic wind in the Rockies.",
+      "Cold katabatic wind over the Adriatic.",
+      "Northerly wind blowing from the Mediterranean.",
+      "Warm anabatic wind blowing to the Mediterranean."
+    ],
+    "answer": "Cold katabatic wind over the Adriatic."
+  },
+  {
+    "question": "Associate the facility with the service it provides: Forecasts of volcanic ash clouds.",
+    "choices": [
+      "WMO",
+      "VAACs",
+      "MWO",
+      "WAFC"
+    ],
+    "answer": "VAACs"
+  },
+  {
+    "question": "Mountains can affect ice accretion, due to orographic intensification, because:",
+    "choices": [
+      "They form a topographical barrier where high pressure systems with moderate to severe icing conditions may form.",
+      "This is often referred to as the Föhn effect.",
+      "The air may become polluted by dust from the mountain slopes, creating hygroscopic freezing nuclei.",
+      "On the leeward side supercooled water droplets form due to the associated temperature drop."
+    ],
+    "answer": "The air may become polluted by dust from the mountain slopes, creating hygroscopic freezing nuclei."
+  },
+  {
+    "question": "The stages and life cycle of a mid-latitude depression are:",
+    "choices": [
+      "Cyclogenesis, occluded, frontolysis, and mature.",
+      "Cyclogenesis, mature, occluded and frontolysis.",
+      "Frontolysis, occluded, cyclogenesis, and mature.",
+      "Occluded, cyclogenesis, frontolysis, and mature."
+    ],
+    "answer": "Cyclogenesis, mature, occluded and frontolysis."
+  },
+  {
+    "question": "When are the rainy seasons in equatorial Africa?",
+    "choices": [
+      "March to May and August to October",
+      "December to February and July to October.",
+      "March to May and October to November",
+      "April to July and December to February."
+    ],
+    "answer": "March to May and October to November"
+  },
+  {
+    "question": "You are flying in the northern hemisphere at 2000 ft over a flat country area. An anticyclone is ahead of you and a depression is behind you. The wind affecting you, will be:",
+    "choices": [
+      "From ahead.",
+      "From behind.",
+      "From your right.",
+      "From your left."
+    ],
+    "answer": "From your right."
+  },
+  {
+    "question": "What is the average diameter of a tropical revolving storm in the mature stage?",
+    "choices": [
+      "1200 km",
+      "500 km",
+      "10 km",
+      "50 km"
+    ],
+    "answer": "500 km"
+  },
+  {
+    "question": "How many hurricanes form on average per year in the Atlantic?",
+    "choices": [
+      "1",
+      "6",
+      "15",
+      "25"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "Which of the following situations favours the formation of heavy thunderstorms?",
+    "choices": [
+      "The passage of a warm front in the morning.",
+      "A cold front on the leeward side of a mountain range.",
+      "A cold front approaching a mountain range in the evening.",
+      "A warm sector moving over a snow-covered ground."
+    ],
+    "answer": "A cold front approaching a mountain range in the evening."
+  },
+  {
+    "question": "The wind speed in a system with curved isobars compared to a system with straight isobars is (other conditions being the same):",
+    "choices": [
+      "always lower.",
+      "higher if curvature is cyclonic.",
+      "higher if curvature is anticyclonic.",
+      "always higher."
+    ],
+    "answer": "higher if curvature is anticyclonic."
+  },
+  {
+    "question": "Atmospheric __________ is mostly caused by rising or sinking air drawing in air from either side.",
+    "choices": [
+      "convergence",
+      "divergence",
+      "subsidence",
+      "advection"
+    ],
+    "answer": "convergence"
+  },
+  {
+    "question": "Which is true of a secondary depression in the northern hemisphere?",
+    "choices": [
+      "It tends to maintain its position relative to the primary.",
+      "It rapidly closes on, and merges with the primary.",
+      "It tends to move round the primary in an anticyclonic sense.",
+      "It tends to move round the primary in a cyclonic sense."
+    ],
+    "answer": "It tends to move round the primary in a cyclonic sense."
+  },
+  {
+    "question": "What does the term SIGMET signify?",
+    "choices": [
+      "A SIGMET is an actual weather report at an aerodrome and is generally issued at half-hourly intervals.",
+      "A SIGMET is a flight forecast, issued by the meteorological station several times daily.",
+      "A SIGMET is a warning of dangerous meteorological conditions.",
+      "A SIGMET is a brief landing forecast added to the actual weather report."
+    ],
+    "answer": "A SIGMET is a warning of dangerous meteorological conditions."
+  },
+  {
+    "question": "In which part of the world are tropical revolving storms (TRS) most frequent?",
+    "choices": [
+      "Caribbean.",
+      "Northern Indian Oceans around India, Sri Lanka.",
+      "North-West Pacific (for example Japan, Korea, SE Asia).",
+      "Madagascar, Eastern Indian Ocean."
+    ],
+    "answer": "North-West Pacific (for example Japan, Korea, SE Asia)."
+  },
+  {
+    "question": "In the northern hemisphere advection of warm air aloft indicates:",
+    "choices": [
+      "the approach of a warm occlusion.",
+      "backing winds with increasing heights.",
+      "the formation of advection fog.",
+      "increasing probability for showers."
+    ],
+    "answer": "the approach of a warm occlusion."
+  },
+  {
+    "question": "Generally, cold fronts move __________ than warm fronts.",
+    "choices": [
+      "slower",
+      "faster",
+      "same speed",
+      "None of these"
+    ],
+    "answer": "faster"
+  },
+  {
+    "question": "The location of which jet stream is largely dependent on the position of weather fronts?",
+    "choices": [
+      "Equatorial Easterly jet.",
+      "The subtropical front jet.",
+      "Arctic jet stream.",
+      "The polar front jet ."
+    ],
+    "answer": "The polar front jet ."
+  },
+  {
+    "question": "__________ lows result from small-scale lows forming downwind of mountain barriers.",
+    "choices": [
+      "Thermal",
+      "Divergence",
+      "Orographic",
+      "Convergence"
+    ],
+    "answer": "Orographic"
+  },
+  {
+    "question": "Air rising or sinking in the atmosphere encounters barriers which prevent further vertical motion so, vertical motion is translated into horizontal motion. This is common at the bottom of high pressures near the surface and the top of low pressures near the tropopause. This description describe the mechanism which causes __________.",
+    "choices": [
+      "divergence",
+      "convergence",
+      "cyclogenesis",
+      "None of these"
+    ],
+    "answer": "divergence"
+  },
+  {
+    "question": "VTSP CNL AD WRNG 2 300100/300300 This message means:",
+    "choices": [
+      "There is an aerodrome warning between 01:00Z and 03:00Z on the 30th of the month.",
+      "There are two occasional warnings for a certain weather phenomena.",
+      "The aerodrome warning number 2 issued at VTSP is canceled.",
+      "The aerodrome VTSP is closed during the mentioned timeframe."
+    ],
+    "answer": "The aerodrome warning number 2 issued at VTSP is canceled."
+  },
+  {
+    "question": "A blocking anticyclone in the northern hemisphere is:",
+    "choices": [
+      "a cold anticyclone, situated over Scandinavia and steering depressions.",
+      "a cold anticyclone, situated between 50°N and 70°N and steering depressions.",
+      "a quasi-stationary, cold anticyclone, situated between 50°N and 70°N.",
+      "a quasi-stationary, warm anticyclone, situated between 50°N and 70°N."
+    ],
+    "answer": "a quasi-stationary, warm anticyclone, situated between 50°N and 70°N."
+  },
+  {
+    "question": "They prepare global sets of gridded forecasts for flight planning (upper wind, temperature, humidity) and also produce gridded datasets for specific FLs showing the temperature of the tropopause, the direction and speed of the maximum wind, cumulonimbus clouds, icing and turbulence. This is a function of __________.",
+    "choices": [
+      "meteorological optical rangers",
+      "world area forecast centres",
+      "meteorological watch offices",
+      "None of the above"
+    ],
+    "answer": "world area forecast centres"
+  },
+  {
+    "question": "Continental tracks __________ the relative and absolute humidity of an air mass.",
+    "choices": [
+      "have no effect on",
+      "decrease",
+      "increase",
+      "change"
+    ],
+    "answer": "decrease"
+  },
+  {
+    "question": "What types of cloud will you see flying at FL 50 towards a warm front?",
+    "choices": [
+      "At some 500 km from the front, groups of CB, later at some 250 km thickening AS.",
+      "At some 500 km AS, later CS and at some 80 km before the front CB.",
+      "At some 800 km CS, later AS, and at some 300 km NS until the front.",
+      "Mainly clear skies. At some 100 km from the front NS begins."
+    ],
+    "answer": "At some 800 km CS, later AS, and at some 300 km NS until the front."
+  },
+  {
+    "question": "What are the meanings of the meteorological abbreviations SQ, BR, MIFG and SG respectively?",
+    "choices": [
+      "Sudden increase in wind speed lasting for at least one minute / mist / shallow fog / snowgrains.",
+      "Short wind gust / fog / shallow fog / snowgrains.",
+      "Short wind gust / mist / shallow fog / polar snow.",
+      "Sudden strong increase in wind speed lasting for at least one minute / haze / patches of fog / snowgrains."
+    ],
+    "answer": "Sudden increase in wind speed lasting for at least one minute / mist / shallow fog / snowgrains."
+  },
+  {
+    "question": "A SIGMET message concerning a tropical cyclone begins with a 2-letter identifier code group:",
+    "choices": [
+      "WV",
+      "TC",
+      "AT",
+      "WC"
+    ],
+    "answer": "TC"
+  },
+  {
+    "question": "On which coast of North America, is the danger of tropical revolving storms the greatest?",
+    "choices": [
+      "W coast.",
+      "SE coast.",
+      "N coast.",
+      "NE coast."
+    ],
+    "answer": "SE coast."
+  },
+  {
+    "question": "In Europe, warm occlusions are more common in __________; cold occlusions are more common in __________.",
+    "choices": [
+      "summer; winter",
+      "winter; summer",
+      "summer; summer",
+      "winter; winter"
+    ],
+    "answer": "winter; summer"
+  },
+  {
+    "question": "A continuous broadcast of arrival or departure information for busy airports, preceded by an identification letter. Includes such information as runway in use, surface wind, RVR, present weather, significant cloud and type of approach expected. This is a description of a service called __________.",
+    "choices": [
+      "aerodrome traffic information service (ATIS)",
+      "VOLMET",
+      "automatic terminal information service (ATIS)",
+      "aerodrome terminal information service (ATIS)"
+    ],
+    "answer": "automatic terminal information service (ATIS)"
+  },
+  {
+    "question": "The whole polar front moves in the same direction as, and parallel to, the isobars in the __________ at a speed determined by the geostrophic interval of the __________ isobars.",
+    "choices": [
+      "warm sector; warm sector",
+      "cold sector; warm sector",
+      "cold sector; cold sector",
+      "warm sector; cold sector"
+    ],
+    "answer": "warm sector; warm sector"
+  },
+  {
+    "question": "Associate the facility with the service it provides: Provides SIGMETs and AIRMETs.",
+    "choices": [
+      "VAACs",
+      "MWO",
+      "WAFC",
+      "WMO"
+    ],
+    "answer": "MWO"
+  },
+  {
+    "question": "Subsidence tends to produce __________ pressure gradients with little weather.",
+    "choices": [
+      "strong",
+      "slack",
+      "no",
+      "changing"
+    ],
+    "answer": "slack"
+  },
+  {
+    "question": "Non-frontal low-pressure areas with weak circulation that occur due to intense heating over the continents in the subtropics during the warm season. This is a description of a __________ low.",
+    "choices": [
+      "thermal",
+      "orographic",
+      "divergence",
+      "Convergence"
+    ],
+    "answer": "thermal"
+  },
+  {
+    "question": "What is the typical position of ITCZ in July?",
+    "choices": [
+      "Passing through Freetown, Bahamas.",
+      "20°N over West Africa.",
+      "Over West Africa at 25° N and stretches up to the north of the Arabian sea.",
+      "Near the Canaries."
+    ],
+    "answer": "20°N over West Africa."
+  },
+  {
+    "question": "Although the large-scale structure of atmospheric circulation varies from year to year (e.g. El Nino/La Nina events), the basic structure remains fairly constant because it is determined by:",
+    "choices": [
+      "the Earth's rotation rate, the passage of air from high to low pressure, and the unequal heating of land and sea.",
+      "the permanent transport of heat from the equator to higher latitudes by ocean currents such as the Gulf Stream.",
+      "varying solar influx, which is compensated by the specific heat capacity of the continents and seas.",
+      "the Coriolis force acting on the atmosphere and the constant temperature profiles over the oceans."
+    ],
+    "answer": "the Earth's rotation rate, the passage of air from high to low pressure, and the unequal heating of land and sea."
+  },
+  {
+    "question": "Associate the met product and its description: Weather report which supplements routine reports when significant improvements or deteriorations occur.",
+    "choices": [
+      "METAR",
+      "SPECI",
+      "TAF",
+      "SIGMET"
+    ],
+    "answer": "SPECI"
+  },
+  {
+    "question": "Convergence tends to __________ the creation of active weather.",
+    "choices": [
+      "weaken",
+      "promote",
+      "diminish",
+      "have no effect on"
+    ],
+    "answer": "promote"
+  },
+  {
+    "question": "At the passing of a warm front, the wind __________.",
+    "choices": [
+      "remains constant",
+      "veers then backs",
+      "backs then veers",
+      "veers"
+    ],
+    "answer": "backs then veers"
+  },
+  {
+    "question": "Where is a squall line most likely to be expected?",
+    "choices": [
+      "In front of a cold occlusion at higher levels.",
+      "At the surface position of a warm front.",
+      "In front of an active cold front.",
+      "Behind a cold front."
+    ],
+    "answer": "In front of an active cold front."
+  },
+  {
+    "question": "Associate the met product and its description: Met actuals report giving routine weather reports.",
+    "choices": [
+      "SIGMET",
+      "METAR",
+      "GAMET",
+      "SPECI"
+    ],
+    "answer": "METAR"
+  },
+  {
+    "question": "On a significant weather chart you notice a surface weather front with an arrow labelled with the number 5 pointing outward perpendicular from the front. This would indicate:",
+    "choices": [
+      "A front speed is 5 kt.",
+      "A front is 5000 ft AMSL.",
+      "A front thickness is 5 km.",
+      "A front movement is 5 NM."
+    ],
+    "answer": "A front speed is 5 kt."
+  },
+  {
+    "question": "An _____ is a report from an aircraft in flight given in either of 2 standard formats: Routine aircraft observations given during en-route and climb-out phases of the flight; generally only requested from aircraft with a data link capability. Special and other non-routine aircraft observations during any phase of the flight.",
+    "choices": [
+      "special report (SPECI)",
+      "pilot report (PIREP)",
+      "air report (AIREP)",
+      "meteorological report (METAR)"
+    ],
+    "answer": "air report (AIREP)"
+  },
+  {
+    "question": "Most mid-latitude depressions move from __________ to __________ in __________.",
+    "choices": [
+      "east; west; the northern hemisphere",
+      "west; east; the northern hemisphere",
+      "west; east; the southern hemisphere",
+      "west; east; both hemispheres"
+    ],
+    "answer": "west; east; both hemispheres"
+  },
+  {
+    "question": "Both types of AIREP can be transmitted by datalink or voicecom __________.",
+    "choices": [
+      "to an appropriate ATC controller",
+      "to meteorological watch offices",
+      "to WAFCs",
+      "at any time"
+    ],
+    "answer": "to an appropriate ATC controller"
+  },
+  {
+    "question": "Polar lows are caused by very cold air from ice shelves or very cold land masses blowing over the relatively warmer sea. This produces __________ atmospheric conditions.",
+    "choices": [
+      "relatively stable",
+      "stable",
+      "moderately unstable",
+      "very unstable"
+    ],
+    "answer": "very unstable"
+  },
+  {
+    "question": "If during the last 10 minutes preceding the issuance of a METAR the wind velocity deviates more than 10 kt from mean value obtained during the same period of time, this will be indicated as:",
+    "choices": [
+      "A squall.",
+      "Geostrophic wind.",
+      "TEMPO 10 kts.",
+      "A gust."
+    ],
+    "answer": "A gust."
+  },
+  {
+    "question": "In an occluded front, the warm sector air is __________.",
+    "choices": [
+      "squeezed between the warm and cold fronts",
+      "lifted off the surface",
+      "located in the warm sector",
+      "located behind the cold front"
+    ],
+    "answer": "lifted off the surface"
+  },
+  {
+    "question": "At the approach of a warm front (northern hemisphere) the wind direction changes from the surface up to the tropopause. The effect of this change is that the wind",
+    "choices": [
+      "backs in the friction layer and veers above the friction layer.",
+      "veers in the friction layer and veers above the friction layer.",
+      "veers in the friction layer and backs above the friction layer.",
+      "backs in the friction layer and backs above the friction layer."
+    ],
+    "answer": "veers in the friction layer and veers above the friction layer."
+  },
+  {
+    "question": "The approximate inclined plane of a warm front is:",
+    "choices": [
+      "1/150",
+      "1/500",
+      "1/300",
+      "1/50"
+    ],
+    "answer": "1/150"
+  },
+  {
+    "question": "Air masses that travel over colder to warmer locations are heated from below, this __________ the ELR and __________ stability.",
+    "choices": [
+      "increases; increases",
+      "decreases; increases",
+      "decreases; reduces",
+      "increases; reduces"
+    ],
+    "answer": "increases; reduces"
+  },
+  {
+    "question": "Tracking clouds, or areas of water vapour across consecutive satellite images, can reveal __________.",
+    "choices": [
+      "atmospheric motion vectors",
+      "vertical development of CBs",
+      "areas of CAT",
+      "fronts"
+    ],
+    "answer": "atmospheric motion vectors"
+  },
+  {
+    "question": "Which option correctly places, in a chronological order, the four stages of a mid-latitude depression life cycle? The stages are named and described as follows: Occlusion: the cold front has caught up with the warm front, the warm air has been partially lifted up. Developed: fronts are well defined, there is a pronounced warm sector. Cyclogenesis: a disturbance and fall in pressure causes cyclonic circulation. Frontolysis: all the warm air has been lifted up.",
+    "choices": [
+      "Occlusion, Frontolysis, Developed, Cyclogenesis.",
+      "Frontolysis, Cyclogenesis, Developed, Occlusion.",
+      "Cyclogenesis, Frontolysis, Developed, Occlusion.",
+      "Cyclogenesis, Developed, Occlusion, Frontolysis."
+    ],
+    "answer": "Cyclogenesis, Developed, Occlusion, Frontolysis."
+  },
+  {
+    "question": "How often shall the information produced by an airfield windshear alert system be updated?",
+    "choices": [
+      "Every 30 minutes.",
+      "Every hour.",
+      "Every 15 minutes.",
+      "Every minute."
+    ],
+    "answer": "Every minute."
+  },
+  {
+    "question": "The 500 hPa contour chart is equivalent to:",
+    "choices": [
+      "FL90",
+      "FL300",
+      "FL180",
+      "FL50"
+    ],
+    "answer": "FL180"
+  },
+  {
+    "question": "The mass of air in the column reduces because air leaves more quickly at high level than it can enter at the surface. Net loss of mass means lower pressure. This is a description of high level __________.",
+    "choices": [
+      "divergence",
+      "depression",
+      "convergence",
+      "convection"
+    ],
+    "answer": "divergence"
+  },
+  {
+    "question": "Associate the met product and its description: An area forecast for low altitude intended for GA aircraft.",
+    "choices": [
+      "TAF",
+      "METAR",
+      "AIRMET",
+      "GAMET"
+    ],
+    "answer": "GAMET"
+  },
+  {
+    "question": "Where are easterly waves found?",
+    "choices": [
+      "On the poleward side of the subtropical high pressure belt.",
+      "Between subtropical high pressure cells and ITCZ.",
+      "In the region of the subtropical jet stream.",
+      "In the temperate latitudes."
+    ],
+    "answer": "Between subtropical high pressure cells and ITCZ."
+  },
+  {
+    "question": "Between which latitudes are you most likely to find the region of travelling polar front depressions during summer?",
+    "choices": [
+      "15° - 25°.",
+      "25° - 45°.",
+      "10° - 15°.",
+      "45° - 70°."
+    ],
+    "answer": "45° - 70°."
+  },
+  {
+    "question": "What are the typical bases of 'ALTO' type clouds in mid-latitudes?",
+    "choices": [
+      "6500 ft",
+      "Surface",
+      "1000 ft",
+      "16 500 ft"
+    ],
+    "answer": "6500 ft"
+  },
+  {
+    "question": "A layer of stratus is most likely to be dispersed by:",
+    "choices": [
+      "Adiabatic cooling due to subsidence.",
+      "The release of latent heat due to precipitation.",
+      "Insolation resulting in the lifting of the condensation level.",
+      "Absorption of long waved solar radiation in the stratus layer."
+    ],
+    "answer": "Insolation resulting in the lifting of the condensation level."
+  },
+  {
+    "question": "Associate the type of precipitation with the most appropriate description. Transparent or partly or completely opaque pieces of ice with a diameter 5 mm to 50 mm.",
+    "choices": [
+      "Snow pellets",
+      "Hail",
+      "Snow grains",
+      "Ice pellets"
+    ],
+    "answer": "Hail"
+  },
+  {
+    "question": "The Bora is a type of __________ wind.",
+    "choices": [
+      "anabatic",
+      "katabatic",
+      "thermal",
+      "Foehn"
+    ],
+    "answer": "katabatic"
+  },
+  {
+    "question": "__________ is a suspension of very small, usually microscopic water drops (liquid or solid) in the air, reducing visibility at the surface to between 1000 m and 5000 m.",
+    "choices": [
+      "Haze",
+      "Sea smoke",
+      "Mist",
+      "Fog"
+    ],
+    "answer": "Mist"
+  },
+  {
+    "question": "Jet streams have a core speed of at least __________ kt, are typically about 2000 NM long and about __________ NM wide.",
+    "choices": [
+      "60; 200",
+      "20; 50",
+      "5; 200",
+      "10; 100"
+    ],
+    "answer": "60; 200"
+  },
+  {
+    "question": "Which of the following choices lists only main cloud genera that are mostly the clue for an unstable thermal stratification in the atmosphere?",
+    "choices": [
+      "Cirrocumulus, altostratus, stratocumulus.",
+      "Cirrocumulus, altocumulus, cumulus.",
+      "Stratocumulus, altostratus, cirrus.",
+      "Cirrostratus, altostratus, stratus."
+    ],
+    "answer": "Cirrocumulus, altocumulus, cumulus."
+  },
+  {
+    "question": "The main factor which contributes to the formation of very low clouds ahead of a warm front is the:",
+    "choices": [
+      "reduction of outgoing radiation due to clouds.",
+      "warm air moving over a cold surface.",
+      "saturation of the warm air by rain falling into it and evaporating.",
+      "saturation of the cold air by rain falling into it and evaporating."
+    ],
+    "answer": "saturation of the cold air by rain falling into it and evaporating."
+  },
+  {
+    "question": "Assign the description to an icing intensity category: The rate of accumulation is such that even short encounters become potentially hazardous.",
+    "choices": [
+      "Trace",
+      "Moderate",
+      "Severe",
+      "Light"
+    ],
+    "answer": "Moderate"
+  },
+  {
+    "question": "Associated the type of wind with the appropriate description: During the night, cooling surface air flows downslope.",
+    "choices": [
+      "Anabatic",
+      "Katabatic",
+      "Mountain",
+      "Valley"
+    ],
+    "answer": "Katabatic"
+  },
+  {
+    "question": "In which of these temperature bands is ice most likely to form on the aircraft structure?",
+    "choices": [
+      "0°C to -10°C.",
+      "-35°C to -50°C.",
+      "+10°C to 0°C.",
+      "-20°C to -35°C."
+    ],
+    "answer": "0°C to -10°C."
+  },
+  {
+    "question": "A strong difference in wind speed or direction over a relatively short distance is known as __________.",
+    "choices": [
+      "gust",
+      "windshear",
+      "downdraught",
+      "microburst"
+    ],
+    "answer": "windshear"
+  },
+  {
+    "question": "Which of the following factors have the greatest effect on the formation of the various types of ice on an aircraft?",
+    "choices": [
+      "Cloud temperature and droplet size.",
+      "Aircraft speed and size of cloud droplets.",
+      "Aircraft speed and curvature of the aerofoil.",
+      "Relative humidity inside the cloud."
+    ],
+    "answer": "Cloud temperature and droplet size."
+  },
+  {
+    "question": "Associate the type of precipitation with the most appropriate description. White, opaque, approximately round ice particles. Often falling with snow, near 0 °C. Normal diameter is 2 mm to 5 mm.",
+    "choices": [
+      "Ice pellets",
+      "Snow grains",
+      "Snow pellets",
+      "Hail"
+    ],
+    "answer": "Snow pellets"
+  },
+  {
+    "question": "The most common hazards that thunderstorms pose to aviation include:",
+    "choices": [
+      "heavy precipitation, lightning.",
+      "severe icing.",
+      "windshear, severe turbulence, hail.",
+      "all of the answers described are correct."
+    ],
+    "answer": "all of the answers described are correct."
+  },
+  {
+    "question": "Which of the following cloud types is found at high levels?",
+    "choices": [
+      "SC",
+      "CC",
+      "ST",
+      "AC"
+    ],
+    "answer": "CC"
+  },
+  {
+    "question": "If a SCWD slowly freezes after contact with an airframe it usually creates __________ ice.",
+    "choices": [
+      "clear",
+      "rime",
+      "hoar frost",
+      "mixed"
+    ],
+    "answer": "clear"
+  },
+  {
+    "question": "Assign the correct description to the type of wind: Occurs along the valleys of coastlines east of the Adriatic sea.",
+    "choices": [
+      "Mistral",
+      "Bora",
+      "Foehn",
+      "Sirocco"
+    ],
+    "answer": "Bora"
+  },
+  {
+    "question": "A permanent, persistent jet stream created by the temperature difference between the Hadley and Ferrel cells and found between 25° (winter) to 40° (summer) Is a description of the __________.",
+    "choices": [
+      "arctic front jet stream",
+      "polar front jet stream",
+      "subtropical jet stream",
+      "the easterly jet stream"
+    ],
+    "answer": "subtropical jet stream"
+  },
+  {
+    "question": "The fastest jet stream is the __________.",
+    "choices": [
+      "easterly equatorial jet stream",
+      "polar front jet stream",
+      "subtropical jet stream",
+      "arctic front jet stream"
+    ],
+    "answer": "subtropical jet stream"
+  },
+  {
+    "question": "Coalescence describes the process in which:",
+    "choices": [
+      "Small particles of ice come together to form large clumps of hail.",
+      "Falling water droplets in relatively warm clouds (above 0°C) come together and grow until they are massive enough to fall as rain.",
+      "Falling water droplets in very cold clouds (colder than -15°C) form large droplets of supercooled rain.",
+      "Falling ice particles in relatively warm clouds (above 0°C) descend and melt into large water droplets, eventually falling as rain."
+    ],
+    "answer": "Falling water droplets in relatively warm clouds (above 0°C) come together and grow until they are massive enough to fall as rain."
+  },
+  {
+    "question": "When reporting vertical visibility at a German aerodrome, the code group VV004 means:",
+    "choices": [
+      "The vertical visibility is 400 m.",
+      "The vertical visibility is 4 ft.",
+      "The vertical visibility is 4000 ft.",
+      "The vertical visibility is 400 ft."
+    ],
+    "answer": "The vertical visibility is 400 ft."
+  },
+  {
+    "question": "Orographic storms form __________.",
+    "choices": [
+      "at warm fronts",
+      "as a result of sea breezes",
+      "at cold fronts",
+      "in mountainous areas"
+    ],
+    "answer": "in mountainous areas"
+  },
+  {
+    "question": "The seasonal jet stream found only in the northern hemisphere at about 60°N in the arctic ocean is called the __________ jet stream.",
+    "choices": [
+      "easterly equatorial",
+      "arctic front",
+      "subtropical jet",
+      "polar front"
+    ],
+    "answer": "arctic front"
+  },
+  {
+    "question": "In the US, in __________ very large tornadoes can develop, with much stronger winds and a diameter of about 150 metres or more.",
+    "choices": [
+      "late summer",
+      "winter",
+      "spring and early summer",
+      "early autumn"
+    ],
+    "answer": "spring and early summer"
+  },
+  {
+    "question": "The threat of negative windshear is a sudden __________ in airspeed.",
+    "choices": [
+      "increase",
+      "reduction",
+      "fluctuation",
+      "shift"
+    ],
+    "answer": "reduction"
+  },
+  {
+    "question": "Below about __________°C SCWD are rarely, if ever, encountered.",
+    "choices": [
+      "-55",
+      "-45",
+      "-25",
+      "-20"
+    ],
+    "answer": "-45"
+  },
+  {
+    "question": "A large, severe storm characterised with a mesocyclone/rotating updraft. The powerful rotating updraft allows the storm to live longer and become more ‘organised’ than normal single cell or multi-cell thunderstorms. They commonly produce tornadoes, large hail and destructive winds. This is a description of __________.",
+    "choices": [
+      "squall",
+      "a supercell storm",
+      "an air-mass thunderstorm",
+      "typical thunderstorm"
+    ],
+    "answer": "a supercell storm"
+  },
+  {
+    "question": "Assign the correct description to the type of wind: Forms when an area of high-pressure sits over the cold central European land mass while low-pressure develops over the warmer sea.",
+    "choices": [
+      "Mistral",
+      "Bora",
+      "Sirocco",
+      "Foehn"
+    ],
+    "answer": "Bora"
+  },
+  {
+    "question": "Overland, in the friction layer, the surface wind speed is about __________% of the geostrophic wind speed.",
+    "choices": [
+      "70",
+      "50",
+      "25",
+      "10"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "It forms when high pressure systems stop the vertical motion of air, trapping pollutants in the lower layers. It requires a good supply of particles from dust, sand and pollution and relatively stable atmospheric conditions. This is a description of the formation of __________.",
+    "choices": [
+      "Haze",
+      "Mist",
+      "Fog",
+      "Sea smoke"
+    ],
+    "answer": "Haze"
+  },
+  {
+    "question": "Associate the definition and defined term: The greatest horizontal distance at which a black object near the ground can be seen against a bright background. Or, the greatest distance at which a light of 1000 candelas can be seen against an unlit background.",
+    "choices": [
+      "Prevailing visibility",
+      "SVR",
+      "RVR",
+      "Met visibility"
+    ],
+    "answer": "Met visibility"
+  },
+  {
+    "question": "Turbulent mixing promotes cloud formation, usually __________ the turbulent inversion.",
+    "choices": [
+      "just below",
+      "just above",
+      "at exactly",
+      "None of the above"
+    ],
+    "answer": "just above"
+  },
+  {
+    "question": "Fog comprising SCWD is known as __________ fog.",
+    "choices": [
+      "sea smoke",
+      "ice",
+      "freezing",
+      "haze"
+    ],
+    "answer": "freezing"
+  },
+  {
+    "question": "Centrifugal force reduces the wind speed around a low and increases the speed around a high, for the same isobar spacing when compared to the geostrophic wind. This is a description of the creation of the __________ wind.",
+    "choices": [
+      "isobaric",
+      "gradient",
+      "PGF",
+      "geostrophic"
+    ],
+    "answer": "gradient"
+  },
+  {
+    "question": "The impact of __________ droplets falling on a water surface is imperceptible. Visibility is inversely related to both the intensity of precipitation and the number of droplets.",
+    "choices": [
+      "drizzle",
+      "rain",
+      "sleet",
+      "hail"
+    ],
+    "answer": "drizzle"
+  },
+  {
+    "question": "If the wings of an aircraft are contaminated with ice, one can expect the aircraft to have:",
+    "choices": [
+      "Degraded stall characteristics but a better gust response due to an improved roll behaviour.",
+      "Nearly unchanged stall characteristics as the ice will mostly form on the thickest and thus the innermost part of the wing.",
+      "Degraded stall characteristics and problems with roll manoeuvres.",
+      "A degraded response in the roll, pitch and yaw axes but improved stall characteristics (due to the increased wing area)."
+    ],
+    "answer": "Degraded stall characteristics and problems with roll manoeuvres."
+  },
+  {
+    "question": "Which of the following scenarios will most likely produce advection fog?",
+    "choices": [
+      "A mild moist airstream flowing over colder surfaces with a wind in excess of 30 kt.",
+      "A light breeze blowing colder air out to sea.",
+      "Morning in autumn with freezing temperature over land but still a couple degrees above freezing over sea, with a slight wind from sea to land.",
+      "Warm moist air settling over a warmer surface under no-wind conditions."
+    ],
+    "answer": "Morning in autumn with freezing temperature over land but still a couple degrees above freezing over sea, with a slight wind from sea to land."
+  },
+  {
+    "question": "Assign the description to an icing intensity category: The rate of accumulation can overwhelm de-icing/anti-icing systems. Immediate exit from the condition is necessary or divert and land asap.",
+    "choices": [
+      "Light",
+      "Severe",
+      "Moderate",
+      "Trace"
+    ],
+    "answer": "Severe"
+  },
+  {
+    "question": "Associated the type of wind with the appropriate description: During the day, warm, less dense air at the surface flows upslope.",
+    "choices": [
+      "Katabatic",
+      "Mountain",
+      "Valley",
+      "Anabatic"
+    ],
+    "answer": "Anabatic"
+  },
+  {
+    "question": "Which of these are examples of a stable cloud?",
+    "choices": [
+      "CB",
+      "AC",
+      "CS",
+      "CU"
+    ],
+    "answer": "CS"
+  },
+  {
+    "question": "Which precipitation type generally has the greatest impact on visibility?",
+    "choices": [
+      "Snow",
+      "Hail.",
+      "Drizzle.",
+      "Heavy rain."
+    ],
+    "answer": "Snow"
+  },
+  {
+    "question": "A build-up of static electricity due to collisions with particles can cause a blueish coloured light which is often seen flickering around the edges and over the surfaces of the windscreen. This is known as:",
+    "choices": [
+      "Air to air lightning.",
+      "Bioluminescence.",
+      "Static electricity.",
+      "St Elmo's fire."
+    ],
+    "answer": "St Elmo's fire."
+  },
+  {
+    "question": "Associate the cloud type with the severity of icing most likely to be encountered: Cu.",
+    "choices": [
+      "Moderate",
+      "Nil",
+      "Occasionally Severe",
+      "Light to moderate"
+    ],
+    "answer": "Light to moderate"
+  },
+  {
+    "question": "Associate the cloud type with the severity of icing likely to be encountered: St.",
+    "choices": [
+      "Light",
+      "Nil",
+      "Moderate",
+      "Light to Moderate"
+    ],
+    "answer": "Light to Moderate"
+  },
+  {
+    "question": "Which statement is true about the relationship between the water content of different types of winter precipitation and the associated visibility?",
+    "choices": [
+      "light snow compared to heavy snow causes a lower visibility due to the compact nature of the small snowflakes associated with light snow.",
+      "ice pellets and freezing rain, because they have a bigger structure, obscure more than snowflakes.",
+      "hail from thunderstorms obscures more than snowflakes due to the greater whiteness (the property of being white in colour) of hail.",
+      "snowflakes, due to their open structure, obscure more than water droplets."
+    ],
+    "answer": "snowflakes, due to their open structure, obscure more than water droplets."
+  },
+  {
+    "question": "Associate the type of wind with the appropriate description: Well developed winds create flow from the tops of mountains, down the valleys and onto the plains. They peak at dawn.",
+    "choices": [
+      "Warm Air",
+      "Katabatic",
+      "Anabatic",
+      "Valley"
+    ],
+    "answer": "Katabatic"
+  },
+  {
+    "question": "Which of the following statements about lightning and lightning strikes is correct?",
+    "choices": [
+      "Spherical lightning often penetrate into aircraft.",
+      "Lightning strikes always cause heavy damage.",
+      "The aircraft is temporarily part of the lightning trajectory.",
+      "Compasses and electronics are always affected."
+    ],
+    "answer": "The aircraft is temporarily part of the lightning trajectory."
+  },
+  {
+    "question": "Small SCWD are commonly associated with ambient temperatures between -15°C and __________°C.",
+    "choices": [
+      "-20",
+      "-25",
+      "-45",
+      "-55"
+    ],
+    "answer": "-45"
+  },
+  {
+    "question": "When air directly in contact with a cold surface cools and condenses into cloud, this mechanism is known as __________ cooling.",
+    "choices": [
+      "radiative",
+      "adiabatic",
+      "advective",
+      "mechanical"
+    ],
+    "answer": "radiative"
+  },
+  {
+    "question": "Clouds dissipate by the process of __________.",
+    "choices": [
+      "condensation",
+      "radiation",
+      "advection",
+      "evaporation"
+    ],
+    "answer": "evaporation"
+  },
+  {
+    "question": "When established on the final approach path, and after passing below a cloud associated with a microburst, an aircraft can experience:",
+    "choices": [
+      "Pitch changes without pilot input.",
+      "Increasing headwind.",
+      "Alternating yawing movements.",
+      "Reduced visibility."
+    ],
+    "answer": "Pitch changes without pilot input."
+  },
+  {
+    "question": "How high can a Cumulonimbus (CB) cloud be?",
+    "choices": [
+      "6000 ft",
+      "15 000 ft",
+      "20 000 ft",
+      "40 000 ft"
+    ],
+    "answer": "40 000 ft"
+  },
+  {
+    "question": "An __________ is a line on a chart connecting points of equal height and equal barometric pressure.",
+    "choices": [
+      "isotherm",
+      "isohypse",
+      "isotach",
+      "isobar"
+    ],
+    "answer": "isohypse"
+  },
+  {
+    "question": "What is drizzle?",
+    "choices": [
+      "Water droplets of more than 0.5 mm in diameter.",
+      "Precipitation which forms mostly in CB and CU clouds.",
+      "Typical precipitation, when NS clouds are present.",
+      "Small water droplets of 0.2 to 0.5 mm in diameter."
+    ],
+    "answer": "Small water droplets of 0.2 to 0.5 mm in diameter."
+  },
+  {
+    "question": "The approximate ratio of jet stream length to their width is __________:1.",
+    "choices": [
+      "10",
+      "1",
+      "100",
+      "1000"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "A complex of thunderstorms that becomes organised on a scale larger than individual thunderstorms, but smaller than extratropical cyclones, is called a _____.",
+    "choices": [
+      "mesostrophic convective cyclone.",
+      "mesoscale convective system.",
+      "massive convective storm.",
+      "mesoscale convective cyclone."
+    ],
+    "answer": "mesoscale convective system."
+  },
+  {
+    "question": "Atmospheric air is normally __________ charged.",
+    "choices": [
+      "negatively",
+      "neutrally",
+      "positively",
+      "statically"
+    ],
+    "answer": "positively"
+  },
+  {
+    "question": "Why are there no or very few clouds, when a high pressure area is present?",
+    "choices": [
+      "Warm air moves over a cold surface, thus, generating stability.",
+      "The air is warmed from below.",
+      "Because of rising air, cooling adiabatically at the saturated adiabatic lapse rate.",
+      "Because of subsiding air, subject to adiabatic heating."
+    ],
+    "answer": "Because of subsiding air, subject to adiabatic heating."
+  },
+  {
+    "question": "Hill fog is formed by __________ lifting of air.",
+    "choices": [
+      "orographic",
+      "frontal",
+      "thermal",
+      "mechanical"
+    ],
+    "answer": "orographic"
+  },
+  {
+    "question": "A thin layer of hard frost on the upper surfaces of the wings before flight:",
+    "choices": [
+      "Isn't dangerous because the ice layer is very thin.",
+      "Isn't dangerous because its likely to blow off during the take-off roll.",
+      "Is often found on aircraft left out overnight, but is usually confined to surfaces in contact with wing fuel.",
+      "Is potentially very dangerous and must be removed before flight."
+    ],
+    "answer": "Is potentially very dangerous and must be removed before flight."
+  },
+  {
+    "question": "The RVR is usually __________ the reported ground or met visibility.",
+    "choices": [
+      "less than",
+      "greater than",
+      "the same as",
+      "greater, equal, or less than"
+    ],
+    "answer": "greater than"
+  },
+  {
+    "question": "Which statement corresponds to the definition of severe turbulence?",
+    "choices": [
+      "Aircraft may be out of control for short periods, occupants are forced violently against seat belts, loose objects are tossed about.",
+      "Aircraft gets out of control and crashes.",
+      "Aircraft will be damaged and an emergency landing will be absolutely necessary.",
+      "Difficulty in walking, occupants feel strain against seat belts, loose objects move about."
+    ],
+    "answer": "Aircraft may be out of control for short periods, occupants are forced violently against seat belts, loose objects are tossed about."
+  },
+  {
+    "question": "Fog or mist forms when the surface air becomes __________. Further cooling causes condensation/sublimation.",
+    "choices": [
+      "saturated",
+      "super-saturated",
+      "inverted",
+      "mixed"
+    ],
+    "answer": "saturated"
+  },
+  {
+    "question": "Mountain waves form when winds blow at approximately __________ relative to the mountain axis.",
+    "choices": [
+      "180°",
+      "45°",
+      "90°",
+      "parallel"
+    ],
+    "answer": "90°"
+  },
+  {
+    "question": "Which 1 of these is NOT a recognised process for cloud formation?",
+    "choices": [
+      "Adiabatic cooling (rising air expands and cools).",
+      "Mechanical processes (air is forced up by turbulence, mountains or fronts and cools).",
+      "Advection (warm, moist air moves over a cooler surface and cools).",
+      "Radiative cooling (surface layers cool at night through net loss of energy)",
+      "Sublimation (air sublimates moisture from melting ice crystals and cools)."
+    ],
+    "answer": "Sublimation (air sublimates moisture from melting ice crystals and cools)."
+  },
+  {
+    "question": "A westerly wind is one which flows __________ the west.",
+    "choices": [
+      "from",
+      "to",
+      "towards",
+      "away from"
+    ],
+    "answer": "from"
+  },
+  {
+    "question": "What is the meaning of the abbreviation 'LLWAS'?",
+    "choices": [
+      "A low level warning system for the detection of thunderstorms.",
+      "A North American system for detection and warning provision of marked temperature inversions.",
+      "A North American system for detection and warning provision of low level windshear.",
+      "A North American radar network for the detection of tornadoes."
+    ],
+    "answer": "A North American system for detection and warning provision of low level windshear."
+  },
+  {
+    "question": "Associate the cloud type with the severity of icing likely to be encountered: As.",
+    "choices": [
+      "Light to Moderate",
+      "Light",
+      "Occasionally Severe",
+      "Nil"
+    ],
+    "answer": "Light to Moderate"
+  },
+  {
+    "question": "Which of the following layers of fog above land is coded as MIFG?",
+    "choices": [
+      "A layer 7 m deep.",
+      "A layer less than 2 m above ground level.",
+      "A layer 5 m deep.",
+      "A layer up to 3 m above ground level."
+    ],
+    "answer": "A layer less than 2 m above ground level."
+  },
+  {
+    "question": "Which of the following conditions are most favourable to the formation of mountain waves?",
+    "choices": [
+      "Moist unstable air at mountain top and wind of less than 5 knots blowing across the mountain ridge.",
+      "Unstable air at mountain top altitude and a wind at least 20 knots blowing across the mountain ridge.",
+      "Either stable or unstable air at mountain top and a wind of at least 30 knots blowing parallel to the mountain ridge.",
+      "Stable air at mountain top altitude and a wind at least 20 knots blowing across the mountain ridge"
+    ],
+    "answer": "Stable air at mountain top altitude and a wind at least 20 knots blowing across the mountain ridge"
+  },
+  {
+    "question": "The largest SCWD are most likely to be found in the lower levels of __________ clouds. SCWD __________ encountered outside of cloud.",
+    "choices": [
+      "stratiform; are never",
+      "cumuliform; are sometimes",
+      "stratiform; are sometimes",
+      "cumuliform; are never"
+    ],
+    "answer": "cumuliform; are sometimes"
+  },
+  {
+    "question": "Assign the correct description to the type of wind: Is channelled along the Rhone valley- a natural venturi amplifying the wind speed.",
+    "choices": [
+      "Mistral",
+      "Bora",
+      "Foehn",
+      "Sirocco"
+    ],
+    "answer": "Mistral"
+  },
+  {
+    "question": "Altostratus clouds are classified as:",
+    "choices": [
+      "Low level clouds.",
+      "Convective clouds",
+      "Medium level clouds.",
+      "High level clouds."
+    ],
+    "answer": "Medium level clouds."
+  },
+  {
+    "question": "Nocturnal jets, also known as boundary layer jets, are a type of __________ jet stream.",
+    "choices": [
+      "low level",
+      "high level",
+      "mid-level",
+      "polar"
+    ],
+    "answer": "low level"
+  },
+  {
+    "question": "Drizzle is most commonly associated with clouds that have __________ updrafts.",
+    "choices": [
+      "very strong",
+      "very weak",
+      "strong",
+      "medium"
+    ],
+    "answer": "very weak"
+  },
+  {
+    "question": "Which of the following statements is/are correct? 1. In a mixed cloud the ice crystals grow at the expense of supercooled water droplets. 2. In the mid-latitudes heavy rain showers are only formed by the coalescence process.",
+    "choices": [
+      "1 and 2.",
+      "None of the above.",
+      "2 only.",
+      "1 only."
+    ],
+    "answer": "1 only."
+  },
+  {
+    "question": "Thin wings are __________ prone to icing than thick wings.",
+    "choices": [
+      "more",
+      "less",
+      "equally",
+      "not"
+    ],
+    "answer": "more"
+  },
+  {
+    "question": "An air mass containing St and Sc clouds is cooling as it is lifted over high ground. Which of the following will happen to the concentration of water droplets or ice particles?",
+    "choices": [
+      "The concentration will decrease.",
+      "The concentration will remain the same, and their sizes will increase.",
+      "The concentration will increase.",
+      "The concentration will remain the same."
+    ],
+    "answer": "The concentration will increase."
+  },
+  {
+    "question": "For mountain waves to form the atmosphere must be __________.",
+    "choices": [
+      "stable",
+      "unstable",
+      "neutrally stable",
+      "extremely unstable"
+    ],
+    "answer": "stable"
+  },
+  {
+    "question": "A rapid, temporary, localised increase in wind speed is called a __________.",
+    "choices": [
+      "shear",
+      "gust",
+      "downdraught",
+      "squal"
+    ],
+    "answer": "gust"
+  },
+  {
+    "question": "Associate the cloud type with the severity of icing likely to be encountered: Sc.",
+    "choices": [
+      "Nil",
+      "Occasionally Severe",
+      "Light to Moderate",
+      "Moderate"
+    ],
+    "answer": "Light to Moderate"
+  },
+  {
+    "question": "Assign the correct description to the type of wind: Is driven by high-pressure over north-western Europe and low pressure in the Mediterranean.",
+    "choices": [
+      "Mistral",
+      "Bora",
+      "Sirocco",
+      "Foehn"
+    ],
+    "answer": "Mistral"
+  },
+  {
+    "question": "Which one of the following statements concerning the formation of aircraft icing is most correct?",
+    "choices": [
+      "A cloud consisting of both supercooled water droplets and ice crystals produces aircraft icing.",
+      "Greatest risk of icing conditions is experienced in cirrus clouds.",
+      "Probability of icing increases when dry snow starts to fall from a cloud.",
+      "Greatest risk of icing when cloud temperature decreases well below minus 12°C."
+    ],
+    "answer": "A cloud consisting of both supercooled water droplets and ice crystals produces aircraft icing."
+  },
+  {
+    "question": "The RVR stop-end measurement is normally taken about __________m from the end of the runway.",
+    "choices": [
+      "1000",
+      "300",
+      "50",
+      "1500"
+    ],
+    "answer": "300"
+  },
+  {
+    "question": "Associate the cloud type with the severity of icing likely to be encountered: Ns (near its base).",
+    "choices": [
+      "Moderate",
+      "Light to Moderate",
+      "Light",
+      "Occasionally Severe"
+    ],
+    "answer": "Occasionally Severe"
+  },
+  {
+    "question": "Visible ice crystals at your flight level indicate a __________ risk of clear ice.",
+    "choices": [
+      "increased",
+      "lesser",
+      "greater",
+      "nil"
+    ],
+    "answer": "lesser"
+  },
+  {
+    "question": "During the night the land cools much more rapidly than the sea. The warmer air over the sea rises, drawing air off the land. This describes:",
+    "choices": [
+      "An anabatic wind.",
+      "A katabatic wind.",
+      "A land breeze.",
+      "A sea breeze."
+    ],
+    "answer": "A land breeze."
+  },
+  {
+    "question": "In which of the following situations can freezing rain be encountered?",
+    "choices": [
+      "Behind a warm front in the summer.",
+      "Ahead of a warm front in the winter.",
+      "Ahead of a cold front in the summer.",
+      "Ahead of a warm front in any conditions."
+    ],
+    "answer": "Ahead of a warm front in the winter."
+  },
+  {
+    "question": "In which environment is aircraft structural ice most likely to have the highest rate of accretion?",
+    "choices": [
+      "Freezing rain.",
+      "Snow",
+      "Stratus clouds.",
+      "Cirrus clouds."
+    ],
+    "answer": "Freezing rain."
+  },
+  {
+    "question": "The morning following a clear, calm night when the temperature has dropped to the dew point, is likely to produce:",
+    "choices": [
+      "Radiation fog.",
+      "Good clear weather.",
+      "Advection fog.",
+      "A cold front."
+    ],
+    "answer": "Radiation fog."
+  },
+  {
+    "question": "Is common when cold continental air passes over the comparatively warmer ocean in winter in the higher latitudes. Occurs over inland seas, lakes and rivers in winter. Dissipates when the source air becomes warmer. This is a description of __________.",
+    "choices": [
+      "sea smoke and/or steam fog",
+      "radiation fog",
+      "arctic fog",
+      "advection fog"
+    ],
+    "answer": "sea smoke and/or steam fog"
+  },
+  {
+    "question": "Associate the definition and defined term: The visibility at the surface near a runway in the direction of landing.",
+    "choices": [
+      "Met visibility",
+      "RVR",
+      "SVR",
+      "Prevailing visibility"
+    ],
+    "answer": "RVR"
+  },
+  {
+    "question": "Medium clouds usually have a base above __________ and below __________ 000 ft.",
+    "choices": [
+      "4000; 25",
+      "6500; 30",
+      "6500; 23",
+      "4000; 30"
+    ],
+    "answer": "6500; 23"
+  },
+  {
+    "question": "Associate the cloud type with the severity of icing likely to be encountered: Ci, Cc, Cs.",
+    "choices": [
+      "Moderate",
+      "Occasionally Severe",
+      "Light",
+      "Light to Moderate",
+      "Nil"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "question": "What kind of turbulence is dependent on the sun's radiation and therefore follows a pronounced diurnal pattern?",
+    "choices": [
+      "Convective turbulence.",
+      "Turbulence induced by wind speed.",
+      "Orographic turbulence.",
+      "Mechanical turbulence."
+    ],
+    "answer": "Convective turbulence."
+  },
+  {
+    "question": "The Earth is normally __________ charged.",
+    "choices": [
+      "neutrally",
+      "negatively",
+      "positively"
+    ],
+    "answer": "negatively"
+  },
+  {
+    "question": "Associate the definition and defined term: The greatest visibility value which is reached within at least half the horizon circle or at least half of the surface of the aerodrome.",
+    "choices": [
+      "RVR",
+      "Met visibility",
+      "SVR",
+      "Prevailing visibility"
+    ],
+    "answer": "Prevailing visibility"
+  },
+  {
+    "question": "From what type of cloud does drizzle fall?",
+    "choices": [
+      "Altostratus",
+      "Cirrostratus",
+      "Cumulus",
+      "Stratus."
+    ],
+    "answer": "Stratus."
+  },
+  {
+    "question": "What is signified if an occlusion is described as 'cold'?",
+    "choices": [
+      "It derives from a polar depression.",
+      "The air ahead of the associated warm front is colder than the air behind the associated cold front.",
+      "The air ahead of the associated warm front is less cold than the air behind the associated cold front.",
+      "The air mass is less cold than ISA."
+    ],
+    "answer": "The air ahead of the associated warm front is less cold than the air behind the associated cold front."
+  },
+  {
+    "question": "In what type of cloud would you likely encounter the most severe icing and turbulence?",
+    "choices": [
+      "CB",
+      "SC",
+      "NS",
+      "CI"
+    ],
+    "answer": "CB"
+  },
+  {
+    "question": "A semi-permanent, disjointed sinuous jet stream found between 40°N and 65°N which is stronger and higher in winter is a description of the __________ __________ jet stream.",
+    "choices": [
+      "easterly equatorial",
+      "polar front",
+      "subtropical jet",
+      "arctic front"
+    ],
+    "answer": "polar front"
+  },
+  {
+    "question": "Which of the following statements about airframe icing is/are correct?",
+    "choices": [
+      "The worst airframe icing results from small supercooled water droplets freezing instantly on contact with the airframe.",
+      "Rime ice is formed by slow-freezing supercooled water droplets.",
+      "Airframe icing occurs when supercooled water droplets come into contact with a sub-zero airframe.",
+      "The severest airframe icing occurs when an airframe comes into contact with ice crystals at high altitude."
+    ],
+    "answer": "Airframe icing occurs when supercooled water droplets come into contact with a sub-zero airframe."
+  },
+  {
+    "question": "Associate the type of precipitation with the most appropriate description. Very small, opaque, white particles of ice which fall from stratiform clouds. Flat or elongated. Diameter < 1 mm.",
+    "choices": [
+      "Hail",
+      "Snow pellets",
+      "Snow grains",
+      "Ice pellets"
+    ],
+    "answer": "Snow grains"
+  },
+  {
+    "question": "Mountain waves may be visible due to the presence of __________ cloud and/or rotor cloud.",
+    "choices": [
+      "cumuliform",
+      "lenticular",
+      "stratiform",
+      "cirrocumulus"
+    ],
+    "answer": "lenticular"
+  },
+  {
+    "question": "__________ are small scale downbursts of 2-5 minutes and less than 4 km. The windspeed can be up to 130 kt.",
+    "choices": [
+      "Windshear",
+      "Macrobursts",
+      "Microbursts",
+      "Gust"
+    ],
+    "answer": "Microbursts"
+  },
+  {
+    "question": "Warm moist air passes over a cooler surface cooling its low layers below its dew point. The surface temperature must be below the dew point of the warmer air. This describes the creation of __________ fog.",
+    "choices": [
+      "advection",
+      "steam",
+      "radiation",
+      "frontal"
+    ],
+    "answer": "advection"
+  },
+  {
+    "question": "During which stage of thunderstorm development are rotor winds characterised by roll clouds most likely to occur?",
+    "choices": [
+      "Cumulus stage.",
+      "Cumulus stage and mature stage.",
+      "Mature stage.",
+      "Dissipating stage."
+    ],
+    "answer": "Mature stage."
+  },
+  {
+    "question": "Over the sea, the values for direction and speed are__________° and __________% respectively.",
+    "choices": [
+      "30; 70",
+      "30; 50",
+      "10; 70",
+      "10; 30"
+    ],
+    "answer": "10; 70"
+  },
+  {
+    "question": "Cloud to ground lightning delivers __________ charges from the air to the ground.",
+    "choices": [
+      "positive",
+      "negative",
+      "neutral",
+      "alternating"
+    ],
+    "answer": "negative"
+  },
+  {
+    "question": "How far and how high up can mountain waves reach originating from the Rocky Mountains (USA)?",
+    "choices": [
+      "By the dimensions of the affecting mountain.",
+      "Up to the tropopause and 600 NM downwind.",
+      "Up to the tropopause and horizontally as long as there are mountains.",
+      "Up to 36 000 ft and approximately 300 NM downwind."
+    ],
+    "answer": "Up to the tropopause and 600 NM downwind."
+  },
+  {
+    "question": "Define a 'LOW'",
+    "choices": [
+      "None of the above.",
+      "An area with lower pressure than that of the horizontal environments.",
+      "An area of divergence.",
+      "A trough."
+    ],
+    "answer": "An area with lower pressure than that of the horizontal environments."
+  },
+  {
+    "question": "Assign the appropriate type of stability to the description of event: A strong atmospheric inversion.",
+    "choices": [
+      "Lapse rate",
+      "Increased instability.",
+      "Absolute stability",
+      "Increased stability."
+    ],
+    "answer": "Absolute stability"
+  },
+  {
+    "question": "The pressure measuring device which uses a flexible, partially evacuated metal capsule, is called an __________ barometer.",
+    "choices": [
+      "mercury",
+      "anaeroid",
+      "barograph"
+    ],
+    "answer": "anaeroid"
+  },
+  {
+    "question": "When flying in warm air (warmer than standard atmosphere), indicated altitude is:",
+    "choices": [
+      "Equal to the standard altitude.",
+      "The same as the true altitude.",
+      "Lower than the true altitude.",
+      "Higher than the standard altitude."
+    ],
+    "answer": "Lower than the true altitude."
+  },
+  {
+    "question": "Considering the North Atlantic area north of 60°N during the winter, the mean height of the Tropopause is approximately:",
+    "choices": [
+      "37 000 ft",
+      "29 000 ft",
+      "56 000 ft",
+      "20 000 ft"
+    ],
+    "answer": "29 000 ft"
+  },
+  {
+    "question": "The primary means of transferring energy vertically through the atmosphere is __________.",
+    "choices": [
+      "advection",
+      "convection",
+      "radiation",
+      "conduction"
+    ],
+    "answer": "convection"
+  },
+  {
+    "question": "3 principal types of high pressure zones occur at mid-latitudes:",
+    "choices": [
+      "The cold temporary anticyclone, the warm high and the cold high.",
+      "The cold temporary cyclone, the warm high and the cold high.",
+      "Subsidence, convergence and cold highs over the seas.",
+      "Depressions, highs and cyclones."
+    ],
+    "answer": "The cold temporary anticyclone, the warm high and the cold high."
+  },
+  {
+    "question": "In a mountain-valley wind circulation, the mountain wind blows:",
+    "choices": [
+      "During the day down from the mountains.",
+      "At night down from the mountains.",
+      "During the day up from the valley.",
+      "At night up from the valley."
+    ],
+    "answer": "At night down from the mountains."
+  },
+  {
+    "question": "The Earth's surface cools at night because:",
+    "choices": [
+      "It is windier at night.",
+      "The earth continues to radiate heat so there is a net loss of energy.",
+      "The atmospheric air is colder at night because there is no solar radiation.",
+      "It radiates heat to space."
+    ],
+    "answer": "The earth continues to radiate heat so there is a net loss of energy."
+  },
+  {
+    "question": "Which of the following statements is correct regarding the temperature at the tropopause?",
+    "choices": [
+      "It is higher in equatorial regions than in polar regions.",
+      "Tropopause temperature is independent of latitude.",
+      "It is higher in polar regions than in equatorial regions.",
+      "It is highest in middle latitudes.",
+      "It is constant"
+    ],
+    "answer": "It is higher in polar regions than in equatorial regions."
+  },
+  {
+    "question": "The US still uses the imperial unit __________ .",
+    "choices": [
+      "millibar (mb)",
+      "pounds per square inch (psi)",
+      "inches of mercury (inHg)",
+      "hectopascal (hPa)"
+    ],
+    "answer": "inches of mercury (inHg)"
+  },
+  {
+    "question": "Although the large-scale structure of atmospheric circulation varies from year to year (e.g. El Nio/La Nia events), the basic structure remains fairly constant because it is determined by:",
+    "choices": [
+      "The permanent transport of heat from the equator to higher latitudes by ocean currents such as the Gulf Stream.",
+      "The Earth's rotation rate, the passage of air from high to low pressure, and the unequal heating of land and sea.",
+      "Varying solar influx, which is compensated by the specific heat capacity of the continents and seas.",
+      "The Coriolis force acting on the atmosphere and the constant temperature profiles over the oceans.",
+      "Solar influx only"
+    ],
+    "answer": "The Earth's rotation rate, the passage of air from high to low pressure, and the unequal heating of land and sea."
+  },
+  {
+    "question": "In a land and sea breeze circulation the land breeze blows:",
+    "choices": [
+      "During the night and is weaker than the sea breeze.",
+      "During the day and is weaker than the sea breeze.",
+      "During the night and is stronger than the sea breeze.",
+      "During the day and is stronger than the sea breeze."
+    ],
+    "answer": "During the night and is weaker than the sea breeze."
+  },
+  {
+    "question": "With regard to temperature, which of the following is correct for the polar climates?",
+    "choices": [
+      "The mean temperature of all months is below plus 10°C.",
+      "The mean temperature of all months is below minus 10°C.",
+      "The mean temperature of all months is above 0°C, but temperatures as high as plus 10°C will never be reached.",
+      "The mean temperature of the warmest month is 10°C or above, and of the coldest month below minus 3°C."
+    ],
+    "answer": "The mean temperature of all months is below plus 10°C."
+  },
+  {
+    "question": "The wind which results from warming on the side of a mountain valley is known as:",
+    "choices": [
+      "Anabatic Wind",
+      "Land breeze.",
+      "Katabatic wind",
+      "Foehn breeze."
+    ],
+    "answer": "Anabatic Wind"
+  },
+  {
+    "question": "An outside air temperature of -35 °C is measured while cruising at FL200. What is the temperature deviation from the ISA at this level?",
+    "choices": [
+      "10°C warmer than ISA.",
+      "10°C colder than ISA.",
+      "5°C colder than ISA.",
+      "5°C warmer than ISA."
+    ],
+    "answer": "10°C colder than ISA."
+  },
+  {
+    "question": "Cold air compacts isobaric pressure levels. The true distance between any given flight level and the surface __________.",
+    "choices": [
+      "increases",
+      "reduces",
+      "stays the same",
+      "fluctuates"
+    ],
+    "answer": "reduces"
+  },
+  {
+    "question": "A parcel of air has been cooled to the point where its relative humidity is 100%, further cooling will result in __________.",
+    "choices": [
+      "freezing",
+      "evaporation",
+      "condensation",
+      "sublimation"
+    ],
+    "answer": "condensation"
+  },
+  {
+    "question": "A battery-powered telemetry instrument carried into the atmosphere by a weather balloon which measures various atmospheric parameters and transmits them by radio to a ground receiver is called a __________.",
+    "choices": [
+      "transponder",
+      "radiosonde",
+      "meteosat",
+      "radio satellite"
+    ],
+    "answer": "radiosonde"
+  },
+  {
+    "question": "Subsiding air warms at the DALR of 3°C per 1000 ft which is __________ than the average ELR.",
+    "choices": [
+      "the same as",
+      "faster",
+      "slower",
+      "equal to"
+    ],
+    "answer": "faster"
+  },
+  {
+    "question": "A flight level is a __________ altitude expressed in hundreds of feet.",
+    "choices": [
+      "density",
+      "pressure",
+      "temperature",
+      "standard"
+    ],
+    "answer": "pressure"
+  },
+  {
+    "question": "In the proximity of the polar jet stream, where do wind shear and clear air turbulence (CAT) occur?",
+    "choices": [
+      "The largest vertical wind shears are found at the jet stream core.",
+      "CAT is generated by horizontal wind shear only.",
+      "In units of kt/1000 ft, horizontal wind shears near the jet stream are larger than vertical wind shears.",
+      "Most CAT areas are found on the cyclonic side of the jet stream."
+    ],
+    "answer": "Most CAT areas are found on the cyclonic side of the jet stream."
+  },
+  {
+    "question": "Which type wind flows down slope becoming warmer and drier?",
+    "choices": [
+      "Mountain breeze.",
+      "Land breeze.",
+      "Katabatic wind.",
+      "Valley wind."
+    ],
+    "answer": "Katabatic wind."
+  },
+  {
+    "question": "A percentage figure comparing the amount of water vapour actually present in the air and the maximum amount it can possibly hold is known as the __________; __________.",
+    "choices": [
+      "dew; point",
+      "dew; humidity",
+      "relative; point",
+      "relative; humidity"
+    ],
+    "answer": "relative; humidity"
+  },
+  {
+    "question": "Identify the type of inversion with the appropriate descriptor: Formed at night when colder, denser air sinks, displacing warmer air aloft.",
+    "choices": [
+      "Valley",
+      "Frontal",
+      "Friction Layer",
+      "Subsidence"
+    ],
+    "answer": "Valley"
+  },
+  {
+    "question": "The wind indicator for a weather observation receives the measured value from an anemometer. Where is this instrument placed?",
+    "choices": [
+      "Close to the station about 2 m above the ground.",
+      "1 m above the runway.",
+      "On a mast 10 m above the runway.",
+      "On a mast 20 m above the runway."
+    ],
+    "answer": "On a mast 10 m above the runway."
+  },
+  {
+    "question": "Which one of the following statements applies to the tropopause?",
+    "choices": [
+      "It is, by definition, a temperature inversion.",
+      "It separates the troposphere from the stratosphere.",
+      "It indicates a strong temperature lapse rate.",
+      "It is constant"
+    ],
+    "answer": "It separates the troposphere from the stratosphere."
+  },
+  {
+    "question": "Assign the appropriate type of stability to the description of event: Cold air advection over a warmer surface.",
+    "choices": [
+      "Absolute stability",
+      "Increased instability.",
+      "Lapse rate",
+      "Increased stability."
+    ],
+    "answer": "Increased instability."
+  },
+  {
+    "question": "The primary mechanism for heat transfer within the atmosphere is __________ caused by the horizontal variation in air __________.",
+    "choices": [
+      "diurnal variation; volume",
+      "diurnal variation; density",
+      "air movement; density",
+      "air movement; volume"
+    ],
+    "answer": "air movement; density"
+  },
+  {
+    "question": "Which of these statements about the tropopause are correct or incorrect? 1- In the real atmosphere the tropopause is a continuous surface. 2- The height of the tropopause in the ISA is 11 km.",
+    "choices": [
+      "1 and 2 are correct.",
+      "1 is correct, 2 is not correct.",
+      "1 is not correct, 2 is correct.",
+      "1 and 2 are incorrect."
+    ],
+    "answer": "1 is not correct, 2 is correct."
+  },
+  {
+    "question": "The horizontal transfer of energy in the atmosphere is called __________.",
+    "choices": [
+      "convection",
+      "radiation",
+      "conduction",
+      "advection"
+    ],
+    "answer": "advection"
+  },
+  {
+    "question": "In warm air the true distance between flight levels __________.",
+    "choices": [
+      "reduces",
+      "stays the same",
+      "increases",
+      "varies"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "What is correct regarding an anabatic wind? It can be described as a wind that blows:",
+    "choices": [
+      "Upslope caused by instability due the adiabatic heating in a valley.",
+      "Downslope due to cold air that slides down a valley.",
+      "Upslope due to warming of air in a valley.",
+      "Downslope"
+    ],
+    "answer": "Upslope due to warming of air in a valley."
+  },
+  {
+    "question": "Identify the terms from the definition: The phase change from solid ice to water vapour.",
+    "choices": [
+      "Evaporation",
+      "Freezing",
+      "Condensation",
+      "Sublimation"
+    ],
+    "answer": "Sublimation"
+  },
+  {
+    "question": "Identify the type of inversion with the appropriate descriptor: Common in high pressure areas, where the descending dry air warms faster than the static environmental air.",
+    "choices": [
+      "Frontal",
+      "Friction Layer",
+      "Valley",
+      "Subsidence"
+    ],
+    "answer": "Subsidence"
+  },
+  {
+    "question": "A line of equal temperature, or a region of constant temperature with height, is called an __________.",
+    "choices": [
+      "isotherm",
+      "isobar",
+      "inversion",
+      "isobaric"
+    ],
+    "answer": "isotherm"
+  },
+  {
+    "question": "Identify this pressure feature by its description: A region where the atmospheric pressure at the surface is greater than its surrounding environment.",
+    "choices": [
+      "Low Pressure",
+      "Ridge",
+      "Anticyclone",
+      "Trough"
+    ],
+    "answer": "Anticyclone"
+  },
+  {
+    "question": "Identify the terms from the definition: The phase change of water from liquid to solid.",
+    "choices": [
+      "Freezing",
+      "Evaporation",
+      "Condensation",
+      "Sublimation"
+    ],
+    "answer": "Freezing"
+  },
+  {
+    "question": "Which of the following combinations of pressure and temperature is correct in the ICAO standard atmosphere?",
+    "choices": [
+      "300 hPa -50.5°C",
+      "700 hPa -8.4°C",
+      "500 hPa -21.1°C",
+      "200 hPa -62.3°C"
+    ],
+    "answer": "500 hPa -21.1°C"
+  },
+  {
+    "question": "In the __________ over SE Asia, the tropopause can be as high as FL 600.",
+    "choices": [
+      "summer",
+      "winter",
+      "spring",
+      "Autumn"
+    ],
+    "answer": "summer"
+  },
+  {
+    "question": "Identify this pressure feature by its description: An extension of a high, characterised by a protrusion of isobars away from the centre of the high.",
+    "choices": [
+      "Trough",
+      "Low Pressure",
+      "Ridge",
+      "Anticyclone"
+    ],
+    "answer": "Ridge"
+  },
+  {
+    "question": "When a parcel of displaced air has the same lapse rate as the ELR, the atmospheric conditions are __________.",
+    "choices": [
+      "conditionally stable",
+      "neutrally stable",
+      "unconditionally stable",
+      "absolutely stable"
+    ],
+    "answer": "neutrally stable"
+  },
+  {
+    "question": "3°/1000 ft is the __________.",
+    "choices": [
+      "DALR",
+      "SALR",
+      "lapse rate",
+      "ELR"
+    ],
+    "answer": "DALR"
+  },
+  {
+    "question": "Identify the terms from the definition: The phase change from water vapour to liquid water.",
+    "choices": [
+      "Freezing",
+      "Condensation",
+      "Sublimation",
+      "Evaporation"
+    ],
+    "answer": "Condensation"
+  },
+  {
+    "question": "Convergence over a uniform surface is caused by:",
+    "choices": [
+      "Frictional force together with anti - cyclonic curvature of the isobars.",
+      "Frictional force together with straight isobars.",
+      "Frictional force together with cyclonic curvature of the isobars.",
+      "Frictional force only."
+    ],
+    "answer": "Frictional force together with cyclonic curvature of the isobars."
+  },
+  {
+    "question": "A stark temperature change between the major air masses causes the tropopause to change height rapidly. This mainly happens between the Hadley, Ferrel and Polar __________ and is known as a __________.",
+    "choices": [
+      "cells; break or 'fold'",
+      "cells; inversion",
+      "surfaces; front",
+      "jet streams; break or 'fold'"
+    ],
+    "answer": "cells; break or 'fold'"
+  },
+  {
+    "question": "What is the temperature at 20 000 ft in the ICAO Standard Atmosphere?",
+    "choices": [
+      "-25°C",
+      "-30°C",
+      "-20°C",
+      "-15°C"
+    ],
+    "answer": "-25°C"
+  },
+  {
+    "question": "Conditions most favourable for the formation of a low-level frictional turbulence are:",
+    "choices": [
+      "Strong wind, smooth terrain, stable lapse rate.",
+      "Light wind, rough terrain, stable lapse rate.",
+      "Strong wind, rough terrain, steep lapse rate.",
+      "light wind, smooth terrain and a stable lapse rate"
+    ],
+    "answer": "Strong wind, rough terrain, steep lapse rate."
+  },
+  {
+    "question": "The primary heat source for the atmosphere is:",
+    "choices": [
+      "Incoming solar radiation.",
+      "Terrestrial radiation from the Earth to the air.",
+      "Terrestrial radiation from the air to the Earth.",
+      "Cosmic radiation"
+    ],
+    "answer": "Terrestrial radiation from the Earth to the air."
+  },
+  {
+    "question": "The vertical position of an aircraft at, or below, the transition altitude is normally expressed as as __________.",
+    "choices": [
+      "height",
+      "flight level",
+      "altitude",
+      "pressure altitude"
+    ],
+    "answer": "altitude"
+  },
+  {
+    "question": "Identify the term from its definition: The calculated barometric pressure at MSL, derived by observing the current pressure at an aerodrome and correcting for elevation using ISA.",
+    "choices": [
+      "Altitude",
+      "Height",
+      "QFE",
+      "QNH"
+    ],
+    "answer": "QNH"
+  },
+  {
+    "question": "Identify the type of inversion with the appropriate descriptor: Warm less dense air flows up and over cooler, denser air.",
+    "choices": [
+      "Friction Layer",
+      "Valley",
+      "Subsidence",
+      "Frontal"
+    ],
+    "answer": "Frontal"
+  },
+  {
+    "question": "Which of the following instruments can be used for measuring the atmospheric humidity:\n1. A hygrometer.\n2. A pair of wet and dry thermometers.\n3. A psychrometer.",
+    "choices": [
+      "A pair of wet and dry thermometers.",
+      "A psychrometer.",
+      "A hygrometer.",
+      "All of them."
+    ],
+    "answer": "All of them."
+  },
+  {
+    "question": "A trough line is marked as a black line on low level significant weather charts and surface pressure charts because:",
+    "choices": [
+      "It isn't a sufficiently significant feature to warrant being drawn with isobars.",
+      "It signifies an area of abnormally high wind speeds.",
+      "It is a useful area for navigation thanks to the relatively calm, clear skies it produces.",
+      "It signifies a line of convergence/convective weather which might otherwise not be apparent from the isobar pattern."
+    ],
+    "answer": "It signifies a line of convergence/convective weather which might otherwise not be apparent from the isobar pattern."
+  },
+  {
+    "question": "In the Siberian __________ the tropopause exists at about FL 220.",
+    "choices": [
+      "summer",
+      "spring",
+      "winter",
+      "autumn"
+    ],
+    "answer": "winter"
+  },
+  {
+    "question": "Unsaturated air compresses and warms when it is forced to __________.",
+    "choices": [
+      "descend",
+      "rise",
+      "float",
+      "cool"
+    ],
+    "answer": "descend"
+  },
+  {
+    "question": "When descending through the transition layer, vertical position is expressed as __________.",
+    "choices": [
+      "flight level",
+      "height",
+      "altitude",
+      "pressure level"
+    ],
+    "answer": "altitude"
+  },
+  {
+    "question": "In the International Standard Atmosphere the decrease in temperature with height below 11 km is:",
+    "choices": [
+      "0.5°C per 100 m.",
+      "0.65°C per 100 m.",
+      "0.6°C per 100 m.",
+      "1°C per 100 m."
+    ],
+    "answer": "0.65°C per 100 m."
+  },
+  {
+    "question": "When air converges at high level and diverges at the surface:",
+    "choices": [
+      "The mass of air in the column increases because the air can't leave the column as quickly at the bottom as it enters at the top.",
+      "The mass of air in the column increases because the volume of air in the column becomes steadily greater.",
+      "The mass of air in the column decreases.",
+      "The pressure increases"
+    ],
+    "answer": "The mass of air in the column increases because the air can't leave the column as quickly at the bottom as it enters at the top."
+  },
+  {
+    "question": "Which of the following values corresponds to a SW-wind?",
+    "choices": [
+      "045°",
+      "225°",
+      "315°",
+      "135°"
+    ],
+    "answer": "225°"
+  },
+  {
+    "question": "Identify the term from its definition: The barometric pressure at the aerodrome reference point/runway threshold. It is the altimeter setting to obtain height above the reference point/threshold.",
+    "choices": [
+      "QFE",
+      "Altitude",
+      "QNH",
+      "Height"
+    ],
+    "answer": "QFE"
+  },
+  {
+    "question": "Which of the following values corresponds to a NE-wind?",
+    "choices": [
+      "315°",
+      "135°",
+      "225°",
+      "045°"
+    ],
+    "answer": "045°"
+  },
+  {
+    "question": "The SI unit of atmospheric pressure used in aviation is the _____.",
+    "choices": [
+      "inches of mercury (inHg)",
+      "pounds per square inch (psi)",
+      "hectopascal (hPa)",
+      "millibar (mb)"
+    ],
+    "answer": "hectopascal (hPa)"
+  },
+  {
+    "question": "During the day, as the ambient temperature increases, the relative humidity __________.",
+    "choices": [
+      "stays the same",
+      "increases",
+      "decreases",
+      "fluctuates"
+    ],
+    "answer": "decreases"
+  },
+  {
+    "question": "__________ anticyclones are large-scale patterns that are nearly stationary and which prevent the normal west to east flow.",
+    "choices": [
+      "Blocking",
+      "Warm",
+      "Cold",
+      "Intense"
+    ],
+    "answer": "Blocking"
+  },
+  {
+    "question": "__________ is the barometric pressure at an observation point, reduced to MSL using the observed temperature at the surface and assuming an isothermal layer from the point to MSL.",
+    "choices": [
+      "QDH",
+      "QFF",
+      "QNH.",
+      "QNE"
+    ],
+    "answer": "QFF"
+  },
+  {
+    "question": "The very lowest part of the atmosphere is in direct contact with the Earth's surface. It changes temperature from day to night by the process of __________.",
+    "choices": [
+      "convection",
+      "radiation",
+      "advection",
+      "conduction"
+    ],
+    "answer": "conduction"
+  },
+  {
+    "question": "Which FL corresponds with the 500 hPa pressure level?",
+    "choices": [
+      "FL180",
+      "FL160",
+      "FL100",
+      "FL390"
+    ],
+    "answer": "FL180"
+  },
+  {
+    "question": "Identify the terms from the definition: The phase change from liquid water to water vapour.",
+    "choices": [
+      "Evaporation",
+      "Sublimation",
+      "Condensation",
+      "Freezing"
+    ],
+    "answer": "Evaporation"
+  },
+  {
+    "question": "Up to which flight level could the effects of mountain waves be expected to be encountered?",
+    "choices": [
+      "FL150",
+      "FL300",
+      "FL600",
+      "FL450",
+      "FL250"
+    ],
+    "answer": "FL600"
+  },
+  {
+    "question": "Supercooled condensation droplets will probably freeze:",
+    "choices": [
+      "Once their temperature drops below -10°C.",
+      "If they come into contact with a cold surface.",
+      "If they are heated quickly.",
+      "Never"
+    ],
+    "answer": "If they come into contact with a cold surface."
+  },
+  {
+    "question": "In the troposphere the temperature lapse rate is approximately __________°C per 1000 ft. The average height of the tropopause is about __________ km.",
+    "choices": [
+      "3; 11",
+      "2; 11000",
+      "2; 11",
+      "3;11 000"
+    ],
+    "answer": "2; 11"
+  },
+  {
+    "question": "Identify the type of inversion with the appropriate descriptor: Created by turbulent mixing modifying the surface layer lapse rate.",
+    "choices": [
+      "Frontal",
+      "Valley",
+      "Subsidence",
+      "Friction Layer"
+    ],
+    "answer": "Friction Layer"
+  },
+  {
+    "question": "Identify this pressure feature by its description: An extension of a low, characterised by a protrusion of isobars away from the centre of the low.",
+    "choices": [
+      "Anticyclone",
+      "Low Pressure",
+      "Trough",
+      "High Pressure"
+    ],
+    "answer": "Trough"
+  },
+  {
+    "question": "The wide variation of temperature lapse rates in the troposphere is primarily caused by:",
+    "choices": [
+      "Global warming.",
+      "ISA conditions.",
+      "Changes in surface temperature and air mass movement.",
+      "The reduction in air density with height."
+    ],
+    "answer": "Changes in surface temperature and air mass movement."
+  },
+  {
+    "question": "An 'ANABATIC' wind is a wind which:",
+    "choices": [
+      "Blows up a hill or mountain mainly during the day.",
+      "Blows up a hill or mountain mainly during the night.",
+      "Blows down a hill or mountain mainly during the night.",
+      "Blows down a hill or mountain mainly during the day."
+    ],
+    "answer": "Blows up a hill or mountain mainly during the day."
+  },
+  {
+    "question": "You are planning an IFR flight eastbound and find that the highest obstacle along the route has an elevation of 5400 ft. The ISA deviation is -20°C and QNH 990. What is the lowest usable flight level on this flight?",
+    "choices": [
+      "FL070",
+      "FL060",
+      "FL080",
+      "FL090"
+    ],
+    "answer": "FL090"
+  },
+  {
+    "question": "Assign the appropriate type of stability to the description of event: Warm air advection over a cooler surface.",
+    "choices": [
+      "Lapse rate",
+      "Increased instability.",
+      "Increased stability.",
+      "Absolute stability"
+    ],
+    "answer": "Increased stability."
+  },
+  {
+    "question": "Lines of equal (constant) pressure on a pressure map are called __________.",
+    "choices": [
+      "isotherm",
+      "isobars",
+      "isographs",
+      "isallobars"
+    ],
+    "answer": "isobars"
+  },
+  {
+    "question": "An elongated or extended region of relatively low atmospheric pressure, often associated with fronts is known as an isobaric __________.",
+    "choices": [
+      "trough",
+      "ridge",
+      "Col",
+      "High"
+    ],
+    "answer": "trough"
+  },
+  {
+    "question": "High pressure regions on charts can be identified by:",
+    "choices": [
+      "Widely spaced isobars whose values are decreasing with distance from the core.",
+      "Isobars marked with light line weights (rather than the heavy line weights used for lows).",
+      "Closely spaced isobars whose values are decreasing with distance from the core.",
+      "Widely spaced isobars whose values are increasing with distance from the core."
+    ],
+    "answer": "Widely spaced isobars whose values are decreasing with distance from the core."
+  },
+  {
+    "question": "An aircraft flies from London to South France and experiences a strong wind from the left. Which of the following is correct?",
+    "choices": [
+      "The true altitude will decrease.",
+      "The true altitude will increase.",
+      "The true altitude remains constant.",
+      "The indicated altitude will decrease"
+    ],
+    "answer": "The true altitude will decrease."
+  },
+  {
+    "question": "The typical height of the vertical area affected by sea breeze in mid-latitudes is approximately:",
+    "choices": [
+      "5000 ft",
+      "100 ft",
+      "10 000 ft",
+      "1000 ft"
+    ],
+    "answer": "1000 ft"
+  },
+  {
+    "question": "After climbing though the transition altitude vertical position is expressed as a __________ __________.",
+    "choices": [
+      "height",
+      "flight level",
+      "altitude",
+      "pressure"
+    ],
+    "answer": "flight level"
+  },
+  {
+    "question": "It is the early afternoon on a sunny day in summer, and you are flying over the west coast of the Netherlands. If there is a non-frontal environment with a slack pressure gradient, the wind direction at the surface is likely to be:",
+    "choices": [
+      "southerly",
+      "westerly",
+      "easterly",
+      "Northerly"
+    ],
+    "answer": "westerly"
+  },
+  {
+    "question": "The 'greenhouse effect' describes how:",
+    "choices": [
+      "Energy is trapped in the atmosphere because of the layer of ozone at the tropopause.",
+      "Energy is added to the atmosphere because water vapour, CO₂ and methane absorb long wave terrestrial radiation.",
+      "Energy is added to the atmosphere because water vapour, CO₂ and methane allow more solar radiation to penetrate the atmosphere.",
+      "Energy is added to the atmosphere because water vapour, CO₂ and methane absorb long wave solar radiation."
+    ],
+    "answer": "Energy is added to the atmosphere because water vapour, CO₂ and methane absorb long wave terrestrial radiation."
+  },
+  {
+    "question": "Identify the correct statement relating density and moisture.",
+    "choices": [
+      "The density of moist air is greater than the density of dry air because water is heavier than air.",
+      "The density of moist air is less than the density of dry air because water vapour has a lower mass than oxygen and nitrogen.",
+      "The density of air doesn't depend on its moisture content, it depends only on its temperature.",
+      "In humid air, the oxygen and nitrogen displace the water vapour."
+    ],
+    "answer": "The density of moist air is less than the density of dry air because water vapour has a lower mass than oxygen and nitrogen."
+  },
+  {
+    "question": "The troposphere is the:",
+    "choices": [
+      "Boundary between the mesosphere and thermosphere.",
+      "Boundary between the stratosphere and the mesosphere.",
+      "Part of the atmosphere below the tropopause.",
+      "Part of the atmosphere above the stratosphere."
+    ],
+    "answer": "Part of the atmosphere below the tropopause."
+  },
+  {
+    "question": "What will the altimeter be indicating if the aircraft’s true altitude is 10 000 ft when the OAT is -30°C at a pressure altitude of 10 000 ft?",
+    "choices": [
+      "10 000 ft.",
+      "11 000 ft.",
+      "12 000 ft.",
+      "9000 ft."
+    ],
+    "answer": "11 000 ft."
+  },
+  {
+    "question": "In which of the following circumstances would the formation of a low-level jet stream in the evening be most likely?",
+    "choices": [
+      "An inflow of cold air over land or strong radiation cooling in the evening can lead to an inversion; at or just below the top of the inversion a low-level jet stream can form.",
+      "The inflow of air into the base of a CB or TS at night can result, occasionally, in the concentration of the wind near the cold surface, which leads to the formation of a low-level jet stream.",
+      "When warm air in the evening moves into the friction layer near the surface, a low-level jet stream can sometimes form, within or above the top of the layer.",
+      "When the airflow near the surface is forced against a mass of cold air ahead of a warm front at night, the low-level wind increases and can occasionally form a low-level jet stream."
+    ],
+    "answer": "An inflow of cold air over land or strong radiation cooling in the evening can lead to an inversion; at or just below the top of the inversion a low-level jet stream can form."
+  },
+  {
+    "question": "Identify the term from its definition: The vertical distance above mean sea level.",
+    "choices": [
+      "Height",
+      "QNH",
+      "QFE",
+      "Altitude"
+    ],
+    "answer": "Altitude"
+  },
+  {
+    "question": "When a parcel of air contains the maximum amount of water vapour that is possible to hold at the current temperature and pressure (RH 100%) the air is said to be __________.",
+    "choices": [
+      "relatively full",
+      "saturated",
+      "absolute",
+      "humid"
+    ],
+    "answer": "saturated"
+  },
+  {
+    "question": "The atmosphere comprises 78% __________, 21% __________ and 1% of other gases.",
+    "choices": [
+      "nitrogen; oxygen",
+      "nitrogen; carbon dioxide",
+      "carbon dioxide; oxygen",
+      "oxygen; nitrogen"
+    ],
+    "answer": "nitrogen; oxygen"
+  },
+  {
+    "question": "Sea level __________ pressure is the result of the weight force of the mass of the atmosphere bearing down on it.",
+    "choices": [
+      "dynamic",
+      "static",
+      "air",
+      "absolute"
+    ],
+    "answer": "static"
+  },
+  {
+    "question": "Given:  Pressure altitude: 3000 ft  indicated altitude: 2500 ft  Temperature : ISA +21°C What is the true altitude?",
+    "choices": [
+      "4914 ft",
+      "3200 ft",
+      "2290 ft",
+      "2710 ft"
+    ],
+    "answer": "2710 ft"
+  },
+  {
+    "question": "Which of the following is a valid explanation for the lack of visible weather in the stratosphere?",
+    "choices": [
+      "The complete absence of water vapour in the stratosphere means that weather can't form.",
+      "Very strong winds at the tropopause (jet streams) prevent clouds from rising higher.",
+      "The relatively hot air of the stratosphere (heated by insolation) traps the relatively cold air of the troposphere.",
+      "The isothermic or inversion conditions in the stratosphere create a physical barrier to further vertical development of cloud."
+    ],
+    "answer": "The isothermic or inversion conditions in the stratosphere create a physical barrier to further vertical development of cloud."
+  },
+  {
+    "question": "The region of the atmosphere which is normally stable and has few clouds is known as the:",
+    "choices": [
+      "Tropopause.",
+      "Troposphere.",
+      "Stratosphere.",
+      "Jet stream."
+    ],
+    "answer": "Stratosphere."
+  },
+  {
+    "question": "In frontal thunderstorms storms __________ are normally high and continuous along the frontal surface.",
+    "choices": [
+      "warm front",
+      "cold front"
+    ],
+    "answer": "cold front"
+  },
+  {
+    "question": "If a SCWD instantly freezes on contact with the airframe, it usually forms __________ ice.",
+    "choices": [
+      "hoar frost",
+      "clear",
+      "rime",
+      "mixed"
+    ],
+    "answer": "rime"
+  },
+  {
+    "question": "What can a pilot do to avoid Ice Crystal Icing?",
+    "choices": [
+      "Avoid CB on the downwind side and stay above the tropopause.",
+      "Avoid CB on the upwind side and stay below the tropopause.",
+      "Avoid CB on the upwind side and stay above the tropopause.",
+      "Avoid CB on the downwind side and stay below the tropopause."
+    ],
+    "answer": "Avoid CB on the upwind side and stay above the tropopause."
+  },
+  {
+    "question": "Over the sea, the values for direction and speed are __________° and __________% respectively.",
+    "choices": [
+      "30; 50",
+      "10; 50",
+      "10; 70",
+      "30; 70"
+    ],
+    "answer": "10; 70"
+  },
+  {
+    "question": "Associate the cloud type with the severity of icing likely to be encountered: Ac.",
+    "choices": [
+      "Light",
+      "Light to Moderate",
+      "Moderate",
+      "Occasionally Severe",
+      "Nil"
+    ],
+    "answer": "Light to Moderate"
+  },
+  {
+    "question": "The Bergeron-Findeisen theory:",
+    "choices": [
+      "Explains the formation of hailstones in Cumulus clouds.",
+      "Explains the formation and growth of snowflakes.",
+      "Explains the formation of raindrops in cloud where the temperature is above freezing.",
+      "Presumes that at high levels in a cloud, some water droplets turn to ice and grow by sublimation."
+    ],
+    "answer": "Presumes that at high levels in a cloud, some water droplets turn to ice and grow by sublimation."
+  },
+  {
+    "question": "The abbreviation for this cloud is __________. (Stratus)",
+    "choices": [
+      "AS",
+      "NS",
+      "ST",
+      "CS"
+    ],
+    "answer": "ST"
+  },
+  {
+    "question": "The temperature is cold enough to allow tiny ice crystals to form around microscopic bits of dirt. These tiny ice crystals then stick together when they collide, constantly increasing in size and mass. This is a description of the mechanism for creating __________.",
+    "choices": [
+      "drizzle",
+      "snow",
+      "rain",
+      "hail"
+    ],
+    "answer": "snow"
+  },
+  {
+    "question": "Moderate turbulence can be expected in:",
+    "choices": [
+      "lenticularis clouds.",
+      "Nimbostratus clouds.",
+      "Cirrocumulus clouds.",
+      "Stratus clouds."
+    ],
+    "answer": "Nimbostratus clouds."
+  },
+  {
+    "question": "Within a short interval, several flight crews report that they have experienced strong clear air turbulence in a certain airspace. What is the consequence of these reports?",
+    "choices": [
+      "The airspace in question, will be temporarily closed.",
+      "The responsible aviation weather office will issue a SPECI.",
+      "The responsible aviation weather office will issue a storm warning.",
+      "The responsible aviation weather office will issue a SIGMET."
+    ],
+    "answer": "The responsible aviation weather office will issue a SIGMET."
+  },
+  {
+    "question": "The most severe airframe icing is associated with SCWD __________ because, on impact with an airframe, the rate of freezing of the SCWD is __________ by the release of latent heat.",
+    "choices": [
+      "large; slowed",
+      "small; slowed",
+      "small; accelerated",
+      "large; accelerated"
+    ],
+    "answer": "large; slowed"
+  },
+  {
+    "question": "The saturated air lying immediately above the warm moist surface almost instantly condenses when it comes into contact with the colder air. A marked inversion is required and temperatures are often close to zero. This describes the formation of __________.",
+    "choices": [
+      "radiation fog",
+      "advection fog",
+      "arctic fog",
+      "sea smoke"
+    ],
+    "answer": "sea smoke"
+  },
+  {
+    "question": "The RVR stop-end measurement is normally taken about __________ m from the end of the runway.",
+    "choices": [
+      "100",
+      "300",
+      "1500",
+      "1000",
+      "50"
+    ],
+    "answer": "300"
+  },
+  {
+    "question": "Overland, in the friction layer, the difference in direction between the surface wind and the geostrophic wind is about __________°.",
+    "choices": [
+      "180",
+      "45",
+      "30",
+      "90"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "After a prolonged VMC descent in very cold air, you penetrate a humid air mass. What type of icing will you encounter?",
+    "choices": [
+      "Hoar frost.",
+      "Rime ice.",
+      "Clear ice.",
+      "Smooth icing."
+    ],
+    "answer": "Hoar frost."
+  },
+  {
+    "question": "A semi-permanent, disjointed sinuous jet stream found between 40°N and 65°N which is stronger and higher in winter is a description of the __________ jet stream.",
+    "choices": [
+      "easterly",
+      "equatorial",
+      "subtropical",
+      "polar front",
+      "arctic front"
+    ],
+    "answer": "polar front"
+  },
+  {
+    "question": "The typical duration of the mature stage of a thunderstorm is about __________ to __________ minutes.",
+    "choices": [
+      "1; 15",
+      "15; 60",
+      "15; 30",
+      "5; 30"
+    ],
+    "answer": "15; 30"
+  },
+  {
+    "question": "The arctic front jet stream occurs from about 20 000 to __________ ft.",
+    "choices": [
+      "30",
+      "75",
+      "25",
+      "50"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "Wind direction is given in degrees relative to North in __________ most meteorological reports and North in __________ reports broadcast by ATC.",
+    "choices": [
+      "Magnetic; Magnetic",
+      "Magnetic; True",
+      "True; Magnetic",
+      "True; True"
+    ],
+    "answer": "True; Magnetic"
+  },
+  {
+    "question": "The ICAO Standard Atmosphere assumes that temperature will reduce at the rate of:",
+    "choices": [
+      "2°C per 1000 ft up to 36 090 ft and will then rise at 0.3 °C per 1000 ft up to 65 617 ft then it will remain constant.",
+      "2°C per 1000 ft up to 36 090 ft and will then decrease at 0.3 °C per 1000 ft up to 65 617 ft.",
+      "2°C per 1000 ft up to 65 617 ft after which it will remain constant to 104 987 ft.",
+      "2°C per 1000 ft up to 36 090 ft after which it remains constant to 65 617 ft."
+    ],
+    "answer": "2°C per 1000 ft up to 36 090 ft after which it remains constant to 65 617 ft."
+  },
+  {
+    "question": "Convective activity over land in mid-latitudes is greatest in:",
+    "choices": [
+      "Winter during the night and early morning.",
+      "Winter in the afternoon.",
+      "Summer during the night and early morning.",
+      "Summer in the afternoon."
+    ],
+    "answer": "Summer in the afternoon."
+  },
+  {
+    "question": "How does the height of the tropopause normally vary with latitude in the northern hemisphere?",
+    "choices": [
+      "It decreases from south to north.",
+      "It remains constant from north to south.",
+      "It increases from south to north.",
+      "It remains constant throughout the year."
+    ],
+    "answer": "It decreases from south to north."
+  },
+  {
+    "question": "Define a 'LOW'.",
+    "choices": [
+      "An area with lower pressure than that of the horizontal environments.",
+      "An area of divergence.",
+      "A trough.",
+      "None of the above."
+    ],
+    "answer": "An area with lower pressure than that of the horizontal environments."
+  },
+  {
+    "question": "The QFF at an airfield located 400 metres above sea level is 1016 hPa. The air temperature is 10 °C higher than a standard atmosphere. What is the QNH?",
+    "choices": [
+      "Less than 1016 hPa.",
+      "It is not possible to give a definitive answer.",
+      "More than 1016 hPa.",
+      "1016 hPa."
+    ],
+    "answer": "More than 1016 hPa."
+  },
+  {
+    "question": "Up to a height of about 20 km, 1 of the 2 principal layers in the atmosphere is the __________ where temperature __________ with height.",
+    "choices": [
+      "stratosphere; increases",
+      "stratopause; decreases",
+      "stratosphere; is approximately constant",
+      "stratopause; is approximately constant"
+    ],
+    "answer": "stratosphere; is approximately constant"
+  },
+  {
+    "question": "Define a 'HIGH'.",
+    "choices": [
+      "An area with higher pressure than that of the horizontal environments.",
+      "An area of convergence.",
+      "None of the above.",
+      "A high pressure ridge."
+    ],
+    "answer": "An area with higher pressure than that of the horizontal environments."
+  },
+  {
+    "question": "When a rain shower approaches and passes an airfield, the following will happen:",
+    "choices": [
+      "The temperature rises and dew point drops.",
+      "The temperature drops and dew point rises.",
+      "The temperature remains unchanged and dew point drops.",
+      "The temperature rises and dew point remains unchanged."
+    ],
+    "answer": "The temperature drops and dew point rises."
+  },
+  {
+    "question": "Associate the met product and its description: A briefing service for low level GA aircraft < FL 120.",
+    "choices": [
+      "GAMET",
+      "TAF",
+      "AIRMET",
+      "SIGMET",
+      "SPECI",
+      "METAR"
+    ],
+    "answer": "AIRMET"
+  },
+  {
+    "question": "Most mid-latitude depressions move from __________ in __________.",
+    "choices": [
+      "west; east; the northern hemisphere",
+      "east; west; the northern hemisphere",
+      "west; east; both hemispheres",
+      "west; east; the southern hemisphere"
+    ],
+    "answer": "west; east; both hemispheres"
+  },
+  {
+    "question": "What is the abbreviation used in METAR and TAF, when ice particles with a diameter of 4 mm have been observed?",
+    "choices": [
+      "PL.",
+      "GR.",
+      "FZRA.",
+      "IC."
+    ],
+    "answer": "PL."
+  },
+  {
+    "question": "The polar front is the:",
+    "choices": [
+      "boundary between polar and tropical air masses.",
+      "boundary between arctic and polar air masses.",
+      "constant frontal activity situated at about 80 degrees north and south.",
+      "boundary between arctic and tropical air masses."
+    ],
+    "answer": "boundary between polar and tropical air masses."
+  },
+  {
+    "question": "At the __________ surface and aloft __________ produces areas of low pressure.",
+    "choices": [
+      "Convergence; convergence",
+      "Convergence; divergence",
+      "Divergence; divergence",
+      "Divergence; convergence"
+    ],
+    "answer": "Convergence; divergence"
+  },
+  {
+    "question": "You intend to carry out a VFR flight over the Alps, on a fine and hot summer day. What is the best time of day to conduct this flight?",
+    "choices": [
+      "Morning.",
+      "Early evening.",
+      "Afternoon.",
+      "Midday."
+    ],
+    "answer": "Morning."
+  },
+  {
+    "question": "Associate the met product and its description: Provides a forecast for an aerodrome, usually covering a period of 9, 24 or 30 hours.",
+    "choices": [
+      "GAMET",
+      "SIGMET",
+      "SPECI",
+      "METAR",
+      "TAF",
+      "AIRMET"
+    ],
+    "answer": "TAF"
+  },
+  {
+    "question": "Which weather phenomena are typical for the northern side of the Alps with strong winds from the south (Foehn)?",
+    "choices": [
+      "Decrease in temperature, moderate to severe icing.",
+      "Continuous precipitation, severe turbulence.",
+      "Icing, huge mass of clouds.",
+      "Good visibility, turbulence."
+    ],
+    "answer": "Good visibility, turbulence."
+  }
+]

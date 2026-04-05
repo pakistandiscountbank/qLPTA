@@ -1,0 +1,1631 @@
+[
+  {
+    "question": "Routine air-reports should be made by crews as soon as practicable after passing a compulsory reporting point. Where a route isn’t defined by such points, a routine air-report should be made every __________.",
+    "choices": [
+      "2 hours",
+      "30 minutes",
+      "15 minutes",
+      "60 minutes"
+    ],
+    "answer": "60 minutes"
+  },
+  {
+    "question": "When under radar control, what does make a 'tree sixty turn left' mean?",
+    "choices": [
+      "You are being asked to turn 360 degrees with reference to the tree visible to the left.",
+      "You are being asked to turn 60 degrees with reference to the tree visible to the left.",
+      "You are being asked to make a complete 360 degree turn to the right.",
+      "You are being asked to make a complete 360 degree turn to the left."
+    ],
+    "answer": "You are being asked to make a complete 360 degree turn to the left."
+  },
+  {
+    "question": "When flying IFR, you wish to cancel the IFR flight plan and continue VFR. If the controller considers the flight cannot be completed in VFR:",
+    "choices": [
+      "You will be advised of the relevant information.",
+      "Your flight plan will be cancelled.",
+      "You will be told to remain VMC.",
+      "You will be instructed to continue IFR."
+    ],
+    "answer": "You will be advised of the relevant information."
+  },
+  {
+    "question": "You __________ advise ATC of a TCAS RA.",
+    "choices": [
+      "need not",
+      "may",
+      "must"
+    ],
+    "answer": "must"
+  },
+  {
+    "question": "When under radar control, what does 'orbit left' mean?",
+    "choices": [
+      "You are being asked to make a complete 360° turn to the left.",
+      "You are being asked to make all turns to the left.",
+      "You are being asked to enter the hold.",
+      "You are being asked to enter a left turn until told to exit it."
+    ],
+    "answer": "You are being asked to make a complete 360° turn to the left."
+  },
+  {
+    "question": "A distress communication is in progress and the ATS unit has already acknowledged the distress message. Which of the following conditions must be met in order for you to transmit on the concerned frequency?",
+    "choices": [
+      "2, 3, 4.",
+      "1, 3, 4.",
+      "1, 2, 4.",
+      "1, 2, 3."
+    ],
+    "answer": "1, 2, 3."
+  },
+  {
+    "question": "The ATS term for a transmission where two-way communication cannot be established but where it is believed that the called station can receive is:",
+    "choices": [
+      "Blind transmission.",
+      "Broadcast.",
+      "Telecommunication.",
+      "Readback."
+    ],
+    "answer": "Blind transmission."
+  },
+  {
+    "question": "Glidepath guidance is given on __________.",
+    "choices": [
+      "The PAR.",
+      "The SRA and the PAR.",
+      "The SRA."
+    ],
+    "answer": "The PAR."
+  },
+  {
+    "question": "When you are under radar control, the instructions issued by ATC are __________.",
+    "choices": [
+      "voluntary.",
+      "mandatory."
+    ],
+    "answer": "mandatory."
+  },
+  {
+    "question": "Urgency messages take priority over all other messages except Distress messages.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "If ATC requests you to 'squawk ident’ what should you do?",
+    "choices": [
+      "Make a small turn left to aid identification.",
+      "Activate the identification feature on the aircraft's transponder.",
+      "Confirm your aircraft's callsign.",
+      "Make a small turn right to aid identification."
+    ],
+    "answer": "Activate the identification feature on the aircraft's transponder."
+  },
+  {
+    "question": "When making a call to request a VDF service, end your call with your __________.",
+    "choices": [
+      "position.",
+      "speed.",
+      "callsign.",
+      "altitude."
+    ],
+    "answer": "callsign."
+  },
+  {
+    "question": "When under radar control what happens when identification is lost?",
+    "choices": [
+      "You will be requested to 'squawk ident'.",
+      "You will not know where you are.",
+      "Radar service must be terminated.",
+      "Radar service must be restarted."
+    ],
+    "answer": "Radar service must be terminated."
+  },
+  {
+    "question": "At a busy IFR aerodrome, your departure clearance is usually passed to you by a ground station. After take-off, you’ll be instructed to change to a ground station whose suffix is __________.",
+    "choices": [
+      "Area",
+      "Clearance",
+      "Departure",
+      "Control"
+    ],
+    "answer": "Departure"
+  },
+  {
+    "question": "When under radar control, what does 'resume own navigation' mean?",
+    "choices": [
+      "Identification has been lost.",
+      "You must fly visually.",
+      "Radar vectors are no longer going to be given.",
+      "You can fly where you want."
+    ],
+    "answer": "Radar vectors are no longer going to be given."
+  },
+  {
+    "question": "A pilot of an aircraft has difficulties hearing a VHF radio transmission due to its distance from the transmitter. What action is most likely to help the pilot to improve the reception?",
+    "choices": [
+      "Set the transponder on stand-by.",
+      "Initiate a climb.",
+      "Initiate a descent.",
+      "Initiate a turn."
+    ],
+    "answer": "Initiate a climb."
+  },
+  {
+    "question": "An aeroplane is approaching the aerodrome and the Tower expects a (1) _____ approach whose station transmits on the (2) _____ frequency band with a wavelength between 100 m and 1 km.",
+    "choices": [
+      "(1) DME; (2) Ultra high",
+      "(1) NDB; (2) Medium",
+      "(1) ILS; (2) Low",
+      "(1) VOR; (2) Very high"
+    ],
+    "answer": "(1) NDB; (2) Medium"
+  },
+  {
+    "question": "Which of the following is the correct RT response to a SELCAL chime?",
+    "choices": [
+      "State your call sign and flight level.",
+      "Radio silence, pending ATSU message.",
+      "State your call sign.",
+      "State your call sign and \"Go ahead\"."
+    ],
+    "answer": "State your call sign and \"Go ahead\"."
+  },
+  {
+    "question": "A TCAS __________ always takes precedence over any ATC instruction.",
+    "choices": [
+      "RA",
+      "TA or RA",
+      "TA"
+    ],
+    "answer": "RA"
+  },
+  {
+    "question": "If you lose comms during the approach:",
+    "choices": [
+      "Squawk 7500.",
+      "Follow local lost comms procedures if these are published.",
+      "Descend and join the visual circuit.",
+      "Climb back to the initial approach fix."
+    ],
+    "answer": "Follow local lost comms procedures if these are published."
+  },
+  {
+    "question": "What do the spoken words '' PAN PAN MEDICAL '' mean ?",
+    "choices": [
+      "The aircraft has a sick passenger on board and requests priority to land",
+      "The phrase/signal is inadmissible in radiotelephony",
+      "The aircraft has an urgent need of medical care upon landing at destination airport",
+      "The message which follows concerns a protected medical transport operated by aircraft assigned exclusively to medical transportation"
+    ],
+    "answer": "The message which follows concerns a protected medical transport operated by aircraft assigned exclusively to medical transportation"
+  },
+  {
+    "question": "What does the phrase \"Verify\" mean:",
+    "choices": [
+      "Consider that transmission as not sent",
+      "Repeat your last transmission",
+      "Read back VDF bearing",
+      "Check and confirm with originator"
+    ],
+    "answer": "Check and confirm with originator"
+  },
+  {
+    "question": "What is correct regarding aircraft communications? They are:",
+    "choices": [
+      "Amplitude modulated for VHF and HF.",
+      "Frequency modulated for UHF and amplitude modulated for VHF.",
+      "Amplitude modulated for UHF and frequency modulated for VHF.",
+      "Frequency modulated for VHF, UHF and HF."
+    ],
+    "answer": "Amplitude modulated for VHF and HF."
+  },
+  {
+    "question": "Urgency messages take priority over Distress messages.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "__________ VFR departures are given specific instructions as part of their clearance to depart the zone.",
+    "choices": [
+      "Cleared",
+      "Special",
+      "All"
+    ],
+    "answer": "Special"
+  },
+  {
+    "question": "The word cleared is only ever used by a pilot in response to a __________ issued by ATC.",
+    "choices": [
+      "statement.",
+      "instruction.",
+      "clearance."
+    ],
+    "answer": "clearance."
+  },
+  {
+    "question": "The possible effect(s) of a stuck PTT switch is/are:",
+    "choices": [
+      "The frequency to which an aircraft suffering a stuck PTT is tuned, is blocked.",
+      "All frequencies are blocked.",
+      "The pilot with the PTT is usually aware of the problem but unable to do anything about it.",
+      "Datalink communications on that frequency are blocked."
+    ],
+    "answer": "The frequency to which an aircraft suffering a stuck PTT is tuned, is blocked."
+  },
+  {
+    "question": "The frequency used for the first transmission of a 'MAYDAY' call shall be:",
+    "choices": [
+      "The frequency currently in use.",
+      "Any other international emergency frequency.",
+      "The distress frequency 121.5 Mhz.",
+      "Any frequency at pilot's discretion."
+    ],
+    "answer": "The frequency currently in use."
+  },
+  {
+    "question": "The standard RT word for \"I have received all of your last transmission\" is:",
+    "choices": [
+      "Correct.",
+      "Roger.",
+      "Wilco.",
+      "Affirm."
+    ],
+    "answer": "Roger."
+  },
+  {
+    "question": "Following a distress traffic situation that has been terminated what is the correct transmission from the controlling ATC unit?",
+    "choices": [
+      "All stations - distress traffic ended.",
+      "All stations - Mayday traffic terminated.",
+      "All stations - distress traffic terminated.",
+      "All stations - distress message over."
+    ],
+    "answer": "All stations - distress traffic ended."
+  },
+  {
+    "question": "A pilot has just tuned into the frequency for Seville approach and the first transmission s/he hears is 'G-AFFD, cancelling distress'. This indicates that the aircraft is:",
+    "choices": [
+      "Declaring a distress situation.",
+      "No longer in distress.",
+      "Cancelling an IFR flight plan.",
+      "No longer declaring a state of urgency."
+    ],
+    "answer": "No longer in distress."
+  },
+  {
+    "question": "Distress messages take priority over all other messages except Urgency messages.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "If ATC wishes to stop an aircraft that has begun its take-off roll what instruction is used?",
+    "choices": [
+      "Abort.",
+      "Stop immediately.",
+      "Stop.",
+      "Revoke take-off."
+    ],
+    "answer": "Stop immediately."
+  },
+  {
+    "question": "A Flight Information Service Officer __________ give a line-up, take-off or landing clearance.",
+    "choices": [
+      "Cannot.",
+      "Can.",
+      "Always."
+    ],
+    "answer": "Cannot."
+  },
+  {
+    "question": "A readability scale reading of 1 means the responder considers the message:",
+    "choices": [
+      "Unreadable.",
+      "Perfectly readable.",
+      "Readable now and then.",
+      "Readable but with difficulty."
+    ],
+    "answer": "Unreadable."
+  },
+  {
+    "question": "In general, times are given in:",
+    "choices": [
+      "Hours and minutes.",
+      "Decimal hours.",
+      "Hours, minutes and seconds.",
+      "Minutes only."
+    ],
+    "answer": "Minutes only."
+  },
+  {
+    "question": "The vertical distance of the aircraft from sea level, expressed in feet is a description of:",
+    "choices": [
+      "Attitude.",
+      "Height.",
+      "Altitude.",
+      "Flight Level."
+    ],
+    "answer": "Altitude."
+  },
+  {
+    "question": "The effect(s) of a stuck PTT switch is/are:",
+    "choices": [
+      "ATC can contact the aircraft but the aircraft cannot respond.",
+      "It has no effect on communication between the aircraft and ATC.",
+      "The aircraft can transmit to ATC but they cannot respond.",
+      "No aircraft on frequency can be heard by ATC and ATC can't respond."
+    ],
+    "answer": "No aircraft on frequency can be heard by ATC and ATC can't respond."
+  },
+  {
+    "question": "Must a \"general call\" be acknowledged\"?",
+    "choices": [
+      "No.",
+      "Yes, from all stations in the sequence they have been addressed.",
+      "Yes, from all stations in a random sequence.",
+      "Yes, but only from the station first called."
+    ],
+    "answer": "No."
+  },
+  {
+    "question": "What does the clearance 'ground taxi' authorise a helicopter to do?",
+    "choices": [
+      "Proceed at a slow speed in ground effect, normally below 5 kt.",
+      "Proceed at a slow speed in ground effect, normally below 20 kt.",
+      "Move while in contact with the surface of the aerodrome.",
+      "Hover."
+    ],
+    "answer": "Move while in contact with the surface of the aerodrome."
+  },
+  {
+    "question": "If you agree to an immediate departure what must you do?",
+    "choices": [
+      "Start to taxi within 30 seconds.",
+      "Expedite line-up and take-off.",
+      "Start your pre-taxi checks."
+    ],
+    "answer": "Expedite line-up and take-off."
+  },
+  {
+    "question": "If you need to abort your take-off during the take-off run what word will you use?",
+    "choices": [
+      "Fire.",
+      "Abort.",
+      "Cancel.",
+      "Stopping."
+    ],
+    "answer": "Stopping."
+  },
+  {
+    "question": "The SSR code 7600 is for:",
+    "choices": [
+      "Search and rescue services.",
+      "Unlawful interference.",
+      "Emergency.",
+      "Radio failure."
+    ],
+    "answer": "Radio failure."
+  },
+  {
+    "question": "When making the initial call to request clearance or start-up, what do the crew use to advise the ATS unit that the departure information has been received?",
+    "choices": [
+      "The ATIS identifying code number.",
+      "Their flight plan number.",
+      "The ATIS identifying code letter.",
+      "Their aircraft callsign only."
+    ],
+    "answer": "The ATIS identifying code letter."
+  },
+  {
+    "question": "What does the term \"air-ground communication\" mean?",
+    "choices": [
+      "One-way communication from aircraft to stations or locations on the surface of the earth",
+      "Two-way communication between aircraft and stations or locations on the surface of the earth",
+      "One-way communication from stations or locations on the surface of the earth",
+      "Any communication from aircraft to ground station requiring handling by the Aeronautical Fixed Telecommunication Network (AFTN)"
+    ],
+    "answer": "Two-way communication between aircraft and stations or locations on the surface of the earth"
+  },
+  {
+    "question": "In __________ airspace you may request, or simply advise, that you are changing to a new frequency.",
+    "choices": [
+      "controlled or uncontrolled.",
+      "uncontrolled.",
+      "controlled."
+    ],
+    "answer": "uncontrolled."
+  },
+  {
+    "question": "What does the abbreviation \"HJ\" mean?",
+    "choices": [
+      "Sunrise to sunset.",
+      "Sunset to sunrise.",
+      "No specific working hours.",
+      "Continuous day and night service."
+    ],
+    "answer": "Sunrise to sunset."
+  },
+  {
+    "question": "Urgency is defined as:",
+    "choices": [
+      "A condition of being threatened by serious and/or imminent danger and of requiring immediate assistance.",
+      "A condition concerning the safety of an aircraft other vehicles or of a person on board, but which does not require immediate assistance.",
+      "A condition concerning the attitude of an aircraft when intercepting the localizer during an ILS approach.",
+      "A condition concerning the safety of a person on board or within sight and requiring immediate assistance."
+    ],
+    "answer": "A condition concerning the safety of an aircraft other vehicles or of a person on board, but which does not require immediate assistance."
+  },
+  {
+    "question": "What callsign suffix is used by the Aerodrome Air-Ground Communications Service operator?",
+    "choices": [
+      "Traffic.",
+      "Information.",
+      "Radio.",
+      "Ground."
+    ],
+    "answer": "Radio."
+  },
+  {
+    "question": "The standard RT word for \"I understand your message and will comply with it\" is:",
+    "choices": [
+      "Wilco.",
+      "Correct.",
+      "Roger.",
+      "Affirm."
+    ],
+    "answer": "Wilco."
+  },
+  {
+    "question": "The ATS term for a communication which can take place in both directions simultaneously is:",
+    "choices": [
+      "Readback.",
+      "Duplex.",
+      "Simplex.",
+      "Non-network communications."
+    ],
+    "answer": "Duplex."
+  },
+  {
+    "question": "If ATC need to cancel your take-off clearance what word or phrase is used?",
+    "choices": [
+      "Stop.",
+      "Cancel.",
+      "Return to stand.",
+      "Abort."
+    ],
+    "answer": "Cancel."
+  },
+  {
+    "question": "Which phrase shall be used if you want to say: \"Pass me the following information...\":",
+    "choices": [
+      "Request",
+      "Report",
+      "Check",
+      "Say again"
+    ],
+    "answer": "Report"
+  },
+  {
+    "question": "What is the maximum distance at which you may expect strong VHF reception over flat terrain at FL 140 ?",
+    "choices": [
+      "About 140 NM",
+      "About 300 NM",
+      "About 240 NM",
+      "About 40 NM"
+    ],
+    "answer": "About 140 NM"
+  },
+  {
+    "question": "Taxi instructions will always include:",
+    "choices": [
+      "Permission to cross any lit stop bars.",
+      "A clearance limit.",
+      "ATIS code letter.",
+      "Permission to take-off.",
+      "Permission to cross an active runway.",
+      "QFE."
+    ],
+    "answer": "A clearance limit."
+  },
+  {
+    "question": "What does the clearance 'air taxi' authorise a helicopter to do?",
+    "choices": [
+      "Proceed at a slow speed in ground effect, normally below 20 kt.",
+      "Move while in contact with the surface of the aerodrome.",
+      "Proceed at a slow speed in ground effect, normally below 5 kt.",
+      "Hover."
+    ],
+    "answer": "Proceed at a slow speed in ground effect, normally below 20 kt."
+  },
+  {
+    "question": "When an ATS requests you change your callsign, for how long does this change last?",
+    "choices": [
+      "For a fixed period of 3 hours.",
+      "For a fixed period of 4 hours.",
+      "Until the end of the flight plan.",
+      "While both flights are using the same frequency, or until ATS instructs you to revert."
+    ],
+    "answer": "While both flights are using the same frequency, or until ATS instructs you to revert."
+  },
+  {
+    "question": "The vertical distance of the aircraft above a fixed point, expressed in feet is a description of:",
+    "choices": [
+      "Altitude.",
+      "Flight Level.",
+      "Height.",
+      "Attitude."
+    ],
+    "answer": "Height."
+  },
+  {
+    "question": "For a helicopter taking-off from an aerodromes with an ATS, if helicopter is within sight of the local controller, the clearance given is:",
+    "choices": [
+      "Cleared to take-off from [position] at your discretion.",
+      "Cleared to take-off.",
+      "Take-off and depart to [position or VFR waypoint]",
+      "Cleared to take-off from [position]."
+    ],
+    "answer": "Cleared to take-off from [position]."
+  },
+  {
+    "question": "When an aeronautical station broadcasts information to more than one station, the call starts with:",
+    "choices": [
+      "\"All stations\"",
+      "\"Message to all aircraft on this frequency\"",
+      "\"Please listen\"",
+      "\"General broadcast\""
+    ],
+    "answer": "\"All stations\""
+  },
+  {
+    "question": "The ATS term for radiotelephony communications outside the normal lines of a radiotelephony network is:",
+    "choices": [
+      "Radiotelephony network.",
+      "Non-network communications.",
+      "Telecommunication.",
+      "Broadcast."
+    ],
+    "answer": "Non-network communications."
+  },
+  {
+    "question": "Callsigns may be abbreviated __________ provided that it has first been abbreviated by the ground station.",
+    "choices": [
+      "by ATC and the aircraft.",
+      "by ATC only.",
+      "by the aircraft only."
+    ],
+    "answer": "by ATC and the aircraft."
+  },
+  {
+    "question": "Aerodromes have one of 3 categories of communications service: __________ : Provided by a licensed ATC officer. __________ : A lower level of service provided by a licensed Flight Information Service Officer. __________ : Provided by a radio licence holder but otherwise unregulated.",
+    "choices": [
+      "Flight Information ; Air Traffic Control ; Air-Ground Communications.",
+      "Air-Ground Communications ; Air Traffic Control ; Flight Information.",
+      "Air Traffic Control ; Flight Information ; Air-Ground Communications.",
+      "Air Traffic Control ; Air-Ground Communications ; Flight Information."
+    ],
+    "answer": "Air Traffic Control ; Flight Information ; Air-Ground Communications."
+  },
+  {
+    "question": "The ATS term for a group of radiotelephony aeronautical stations is:",
+    "choices": [
+      "Blind transmission.",
+      "Radiotelephony network.",
+      "Ground-to-air communication.",
+      "Non-network communications."
+    ],
+    "answer": "Radiotelephony network."
+  },
+  {
+    "question": "The minimum separation between useable frequencies in the air band is:",
+    "choices": [
+      "8.33 MHz.",
+      "8.33 GHz.",
+      "8.33 kHz.",
+      "8.33 Hz."
+    ],
+    "answer": "8.33 kHz."
+  },
+  {
+    "question": "Shortly after the initial contact the following transmission is heard on 118.550 MHz, the Lille Tower frequency: 'Mayday, Mayday, Mayday, Lille Tower, F-GTPO, complete engine failure, attempting a forced landing on a grass strip parallel to runway 20, currently right hand downwind for runway 20, 1000 ft.' Is the transmission following the standards for declaring an emergency?",
+    "choices": [
+      "No, even if the necessary elements are transmitted in the specified order, emergency transmissions shall be made on 121.500 MHz.",
+      "Yes ,the necessary elements are transmitted in the specified order and on the frequency in use at the time.",
+      "No, even if the transmission is made on the frequency in use at the time, the position report shall be placed just after the call sign of the aircraft transmitting, if possible.",
+      "No, emergency transmissions shall always be made on 121.500 MHz, and the position report shall be placed just after the call sign of the aircraft transmitting, if possible."
+    ],
+    "answer": "Yes ,the necessary elements are transmitted in the specified order and on the frequency in use at the time."
+  },
+  {
+    "question": "Helicopter Taxiing. How does a helicopter request clearance?",
+    "choices": [
+      "Request lift and hover.",
+      "Request taxi.",
+      "Request lift.",
+      "Request hover."
+    ],
+    "answer": "Request lift."
+  },
+  {
+    "question": "What is the correct way of transmitting the number 118.1 to indicate a frequency ?",
+    "choices": [
+      "one eighteen one",
+      "one one eight point one",
+      "one one eight one",
+      "one one eight decimal one"
+    ],
+    "answer": "one one eight decimal one"
+  },
+  {
+    "question": "The ATS term for a procedure whereby the receiving station repeats a received message is:",
+    "choices": [
+      "Broadcast.",
+      "Readback.",
+      "Air-ground communication.",
+      "Simplex."
+    ],
+    "answer": "Readback."
+  },
+  {
+    "question": "An aircraft on a straight-in approach reports ‘long final’ at __________ nm and ‘final’ at __________ nm if not yet cleared to land.",
+    "choices": [
+      "6 ; 4",
+      "8 ; 4",
+      "4 ; 8",
+      "8 ; 6"
+    ],
+    "answer": "8 ; 4"
+  },
+  {
+    "question": "RADAR informs aircraft X-BC: \"X-BC identified\". What does this mean:",
+    "choices": [
+      "Radar identification has been achieved",
+      "X-BC is not visible on the radar screen",
+      "X-BC should operate the IDENT-button",
+      "X-BC should perform an identification turn"
+    ],
+    "answer": "Radar identification has been achieved"
+  },
+  {
+    "question": "The PiC __________ ignore or override Radar Control instructions when in his/her opinion, the safety of the aircraft is or will be compromised.",
+    "choices": [
+      "may not",
+      "may"
+    ],
+    "answer": "may"
+  },
+  {
+    "question": "The order of priority of the following messages in the aeronautical mobile service is:",
+    "choices": [
+      "Direction finding message, distress message, urgency message.",
+      "Distress message, urgency message, direction finding message.",
+      "Distress message, flight safety message, urgency message.",
+      "Meteorological message, direction finding message, flight regularity message."
+    ],
+    "answer": "Distress message, urgency message, direction finding message."
+  },
+  {
+    "question": "Because of overcast cloud, you are unable to climb above an altitude of 1000 feet over the sea, but you need to pass an urgent message to an aeronautical station by VHF. Assuming fuel is not a problem, there is no wind, and the signal has no attenuation factors, towards which of these stations should you fly to pass your message as soon as possible? A station:",
+    "choices": [
+      "120 NM away whose antenna is at an elevation of 200 feet AMSL.",
+      "110 NM away whose antenna is at an elevation of 30 feet AMSL.",
+      "140 NM away whose antenna is at an elevation of 800 feet AMSL.",
+      "130 NM away whose antenna is at an elevation of 550 feet AMSL."
+    ],
+    "answer": "130 NM away whose antenna is at an elevation of 550 feet AMSL."
+  },
+  {
+    "question": "The abbreviation SELCAL stands for: __________. This is a system allowing an ATSU to get the attention of a crew who may not be continuously monitoring comms on frequency.",
+    "choices": [
+      "single calling",
+      "special calling",
+      "seldom calling",
+      "selective calling"
+    ],
+    "answer": "selective calling"
+  },
+  {
+    "question": "If, during a VFR flight, you want to cross an airway:",
+    "choices": [
+      "Advise the appropriate ATSU at some point before entering the airway crossing point.",
+      "Transmit: 'Request airways crossing service for [name of airway]'.",
+      "Transmit 'Request clearance to cross [name of airway] at [position of crossing].",
+      "You must switch to IFR flight because you cannot cross an airway under VFR."
+    ],
+    "answer": "Transmit 'Request clearance to cross [name of airway] at [position of crossing]."
+  },
+  {
+    "question": "Extended ranges can sometimes be experienced by VHF communications as a result of:",
+    "choices": [
+      "Super refraction.",
+      "Surface wave propagation.",
+      "Ionospheric ducting.",
+      "Sub-refraction."
+    ],
+    "answer": "Super refraction."
+  },
+  {
+    "question": "If you are unable to accept an ATC instruction because it conflicts with a TCAS resolution advisory, you must:",
+    "choices": [
+      "Accept the ATC instruction, when in controlled airspace.",
+      "Tell ATC about the conflict and await further instructions.",
+      "Tell ATC about the conflict.",
+      "Decide whether its safer to follow the RA or ATC instruction."
+    ],
+    "answer": "Tell ATC about the conflict."
+  },
+  {
+    "question": "Propagation of the radio waves is influenced by different factors in the atmosphere. What will increase attenuation of radio waves?",
+    "choices": [
+      "High air density and low wavelength.",
+      "High air density and high wavelength.",
+      "Low air density and high wavelength.",
+      "Low air density and low wavelength."
+    ],
+    "answer": "High air density and low wavelength."
+  },
+  {
+    "question": "The following are VHF radio communication frequencies that are used in aviation:",
+    "choices": [
+      "108.833 MHz, 110.250 MHz, and 243.00 MHz.",
+      "108.000 MHz, 117.975 MHz, and 136.992 MHz.",
+      "112. 775 MHz, 116.358 MHz, and 121.500 MHz.",
+      "119.900 MHz, 135.692 MHz, and 123.450 MHz."
+    ],
+    "answer": "119.900 MHz, 135.692 MHz, and 123.450 MHz."
+  },
+  {
+    "question": "If you experience communications failure in the visual circuit, __________ the circuit to land, observing and obeying __________ signals from ATC.",
+    "choices": [
+      "stop ; light.",
+      "stop ; sound.",
+      "continue ; sound.",
+      "continue ; light."
+    ],
+    "answer": "continue ; light."
+  },
+  {
+    "question": "What type of signal is used for aeronautical radio communication?",
+    "choices": [
+      "Amplitude modulation and UHF.",
+      "Amplitude modulation and VHF.",
+      "Frequency modulation and VHF.",
+      "Frequency modulation and UHF."
+    ],
+    "answer": "Amplitude modulation and VHF."
+  },
+  {
+    "question": "An aircraft is flying at a cruise altitude of 9000 ft and at a distance of about 100 nm from its destination the pilot wants to listen to the ATIS. The message is very distorted and only parts of it can be received. What should the pilot do in order to have better reception?",
+    "choices": [
+      "Increase the volume of his/her headset.",
+      "Increase the volume of the receiver.",
+      "Fly at a higher altitude to increase the range of the reception.",
+      "Select the frequency of APPROACH because they are responsible for the higher airspace."
+    ],
+    "answer": "Fly at a higher altitude to increase the range of the reception."
+  },
+  {
+    "question": "Even if there is no control zone or approach control, you must always make RT contact with the aerodrome's ATSU __________.",
+    "choices": [
+      "before entering the CTZ",
+      "ATZ"
+    ],
+    "answer": "ATZ"
+  },
+  {
+    "question": "To which frequency band belongs frequency 118.1 MHz?",
+    "choices": [
+      "UHF",
+      "MF",
+      "VHF",
+      "HF"
+    ],
+    "answer": "VHF"
+  },
+  {
+    "question": "Which one of the following factors affects VHF radio waves propagation the most?",
+    "choices": [
+      "Precipitation and other meteorological phenomenon.",
+      "Terrain.",
+      "The spherical shape of the Earth.",
+      "Atmosphere"
+    ],
+    "answer": "Terrain."
+  },
+  {
+    "question": "TCAS is an on-board system which uses transponder information to alert the crew to __________ traffic and to potentially conflicting or actually conflicting traffic.",
+    "choices": [
+      "all",
+      "proximate"
+    ],
+    "answer": "proximate"
+  },
+  {
+    "question": "The format and sequence of an Urgency message, and the ensuing procedures, are the same as for a Distress message and Distress procedures.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "The radio frequency spectrum is divided into various bands. What is the range of frequencies that corresponds to the Very High Frequency (VHF) band?",
+    "choices": [
+      "300 kHz to 3000 kHz",
+      "300 MHz to 3000 MHz",
+      "3 MHz to 30 MHz",
+      "30 MHz to 300 MHz"
+    ],
+    "answer": "30 MHz to 300 MHz"
+  },
+  {
+    "question": "If you are making a VFR arrival to an airport with a control zone, you must contact the approach control and request clearance and joining instructions __________ entering the zone.",
+    "choices": [
+      "before",
+      "as you are",
+      "as soon as possible after"
+    ],
+    "answer": "before"
+  },
+  {
+    "question": "A condition of being threatened by serious and/or imminent danger and of requiring immediate assistance is a description of:",
+    "choices": [
+      "urgency",
+      "distress",
+      "disaster",
+      "emergency"
+    ],
+    "answer": "distress"
+  },
+  {
+    "question": "If you are required to hold before making your approach you should be given an expected approach time (EAT). The EAT is the time at which you__________.",
+    "choices": [
+      "must be cleared by ATC before you make the approach.",
+      "should start your approach in the event of lost comms."
+    ],
+    "answer": "should start your approach in the event of lost comms."
+  },
+  {
+    "question": "Which factor reduces the effective range of ground-to-air VHF transmissions?",
+    "choices": [
+      "Duct propagation, also called super-refraction.",
+      "Increasing the aircrafts altitude.",
+      "Raising the height of the ground transmitter aerial.",
+      "High terrain interrupting the line of sight."
+    ],
+    "answer": "High terrain interrupting the line of sight."
+  },
+  {
+    "question": "Distress messages take priority over Urgency messages.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "If you are requested to \"Report flight conditions\", what does that mean:",
+    "choices": [
+      "Indicate whether you are flying in IMC or in VMC",
+      "Indicate whether you are flying IFR or VFR",
+      "Indicate weather conditions as wind, visibility, temperature",
+      "Indicate if visibility is sufficient for landing"
+    ],
+    "answer": "Indicate whether you are flying in IMC or in VMC"
+  },
+  {
+    "question": "If the departure controller is sure that no traffic or terrain conflicts exist s/he may shorten the departure routing by giving what instruction?",
+    "choices": [
+      "Directly.",
+      "Direct to.",
+      "As requested.",
+      "Straight."
+    ],
+    "answer": "Direct to."
+  },
+  {
+    "question": "The format and sequence of an Urgency message, and the ensuing procedures, are not the same as for a Distress message and Distress procedures.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "Which information can aircraft in flight obtain by VOLMET:",
+    "choices": [
+      "Aviation routine weather reports (METAR) of specific airports",
+      "Runway reports",
+      "SPECI and TAF",
+      "SIGMET"
+    ],
+    "answer": "Aviation routine weather reports (METAR) of specific airports"
+  },
+  {
+    "question": "The first step in the CPDLC process is the:",
+    "choices": [
+      "Boot.",
+      "Start.",
+      "Logon.",
+      "Handshake."
+    ],
+    "answer": "Logon."
+  },
+  {
+    "question": "A signal sent by radiotelephony consisting of the spoken word MAYDAY MAYDAY MAYDAY means:",
+    "choices": [
+      "The aircraft has a very urgent message to transmit concerning the safety of a ship, aircraft or vehicle",
+      "The aircraft is forced to perform a fuel dumping procedure",
+      "The aircraft has a message to transmit concerning adverse weather conditions along its route of flight",
+      "Imminent danger threatens the aircraft and immediate assistance is required"
+    ],
+    "answer": "Imminent danger threatens the aircraft and immediate assistance is required"
+  },
+  {
+    "question": "Aircraft in flight may receive weather information from several sources. Which of the following is correct?",
+    "choices": [
+      "VOLMET broadcasts recent METAR and SPECI reports for a group of aerodromes.",
+      "Any thunderstorms seen by another aircraft in flight will be subject to a special report.",
+      "ATIS broadcasts the TAF and METAR for the aerodrome which transmits it.",
+      "An ATS unit cannot provide aerodrome forecasts as part of a Flight Information Service."
+    ],
+    "answer": "VOLMET broadcasts recent METAR and SPECI reports for a group of aerodromes."
+  },
+  {
+    "question": "When shall an aircraft in the heavy-wake-turbulence category include the word \"Heavy\" immediately after its call sign e.g. Fastair 345 Heavy:",
+    "choices": [
+      "Never",
+      "In the initial call to the aerodrome control tower and the approach control unit",
+      "In all calls to the aerodrome tower and the approach control unit",
+      "In all calls"
+    ],
+    "answer": "In the initial call to the aerodrome control tower and the approach control unit"
+  },
+  {
+    "question": "Which statement is true with regard to the frequency band used for aviation communication? Choose the best statement:",
+    "choices": [
+      "To the two bands immediately above MF, expressed in MHz.",
+      "To the two bands immediately below SHF, expressed in MHz.",
+      "To the two bands immediately below UHF, expressed in kHz.",
+      "To the two bands immediately below SHF, expressed in kHz."
+    ],
+    "answer": "To the two bands immediately above MF, expressed in MHz."
+  },
+  {
+    "question": "SELCAL is used during the __________ phase.",
+    "choices": [
+      "departure",
+      "en-route",
+      "arrival",
+      "approach"
+    ],
+    "answer": "en-route"
+  },
+  {
+    "question": "What is the status of the CPDLC when the app confirms a successful connection with the ATS unit.",
+    "choices": [
+      "Uplink.",
+      "Logon.",
+      "Accepted.",
+      "Wilco."
+    ],
+    "answer": "Accepted."
+  },
+  {
+    "question": "If you experience comms failure whilst being radar vectored:",
+    "choices": [
+      "Proceed in the most direct manner to re-join the current flight plan route no later than the next significant point.",
+      "Land at the nearest suitable aerodrome.",
+      "Maintain the last assigned speed and level for 7 minutes.",
+      "Proceed direct to the designated navigation aid or fix serving the destination aerodrome."
+    ],
+    "answer": "Proceed in the most direct manner to re-join the current flight plan route no later than the next significant point."
+  },
+  {
+    "question": "The abbreviation SELCAL stands for: This is a __________ system allowing an ATSU to get the attention of a crew who may not be continuously monitoring comms on frequency.",
+    "choices": [
+      "single calling",
+      "special calling",
+      "seldom calling",
+      "selective calling"
+    ],
+    "answer": "selective calling"
+  },
+  {
+    "question": "Even if there is no control zone or approach control, you must always make RT contact with the aerodrome's ATSU before entering the __________.",
+    "choices": [
+      "CTZ",
+      "ATZ"
+    ],
+    "answer": "ATZ"
+  },
+  {
+    "question": "The urgency message to be sent by an aircraft reporting an urgency condition shall contain at least the following elements/details:",
+    "choices": [
+      "Aircraft call sign, nature of the urgency condition, pilot's intention, present position, level and heading",
+      "Name of the station addressed, present position, assistance required",
+      "Aircraft call sign, destination airport, ETA at destination, route of flight",
+      "Aircraft identification, aerodrome of departure, level and heading"
+    ],
+    "answer": "Aircraft call sign, nature of the urgency condition, pilot's intention, present position, level and heading"
+  },
+  {
+    "question": "Because of overcast cloud, you are unable to climb above an altitude of 1000 feet over the sea, but you need to pass an urgent message to an aeronautical station by VHF. Assuming fuel is not a problem, there is no wind, and the signal has no attenuation factors, towards which of these stations should you fly to pass your message as soon as possible?",
+    "choices": [
+      "A station: 110 NM away whose antenna is at an elevation of 30 feet AMSL.",
+      "130 NM away whose antenna is at an elevation of 550 feet AMSL.",
+      "140 NM away whose antenna is at an elevation of 800 feet AMSL.",
+      "120 NM away whose antenna is at an elevation of 200 feet AMSL."
+    ],
+    "answer": "130 NM away whose antenna is at an elevation of 550 feet AMSL."
+  },
+  {
+    "question": "Arriving IFR traffic, descending within controlled airspace normally receive, from the en-route ATC controller, a descent clearance to __________.",
+    "choices": [
+      "an altitude",
+      "a clearance limit",
+      "a flight level"
+    ],
+    "answer": "a clearance limit"
+  },
+  {
+    "question": "What will increase attenuation of radio waves?",
+    "choices": [
+      "Low air density and high wavelength.",
+      "Low air density and low wavelength.",
+      "High air density and high wavelength.",
+      "High air density and low wavelength."
+    ],
+    "answer": "High air density and low wavelength."
+  },
+  {
+    "question": "Following an RA, when clear of the conflict, you should __________ unless told otherwise by ATC.",
+    "choices": [
+      "return to your cleared level",
+      "remain at your current level",
+      "squawk ident"
+    ],
+    "answer": "return to your cleared level"
+  },
+  {
+    "question": "An aircraft departing on an IFR flight without an ATC controlled airspace clearance must request a clearance to join controlled airspace when __________.",
+    "choices": [
+      "taxiing",
+      "entering controlled airspace",
+      "airborne"
+    ],
+    "answer": "airborne"
+  },
+  {
+    "question": "Which is the High Frequency (HF) radio frequency band?",
+    "choices": [
+      "300 kHz to 3000 kHz",
+      "300 to 30 000 MHz.",
+      "30 MHz to 300 MHz",
+      "3 MHz to 30 MHz"
+    ],
+    "answer": "3 MHz to 30 MHz"
+  },
+  {
+    "question": "When shall an aircraft in the heavy-wake-turbulence category include the word \"Heavy\" immediately after its call sign e.g. Fastair 345 heavy:",
+    "choices": [
+      "In all calls to the aerodrome tower and the approach control unit",
+      "In the initial call to the aerodrome control tower and the approach control unit",
+      "Never",
+      "In all calls"
+    ],
+    "answer": "In the initial call to the aerodrome control tower and the approach control unit"
+  },
+  {
+    "question": "Which of the following is correct concerning a METAR?",
+    "choices": [
+      "Wind direction is reported in degrees true.",
+      "The only cloud type required to be reported is cumulonimbus.",
+      "Observations are made at intervals of 20 minutes.",
+      "The reported visibility is the minimum observed around the horizon."
+    ],
+    "answer": "Wind direction is reported in degrees true."
+  },
+  {
+    "question": "There are two aircraft overflying the same area, one is at 5000 ft and the other one is at 15 000 ft. Both are 80 NM from the station. Which aircraft experiences the best reception of VHF transmission?",
+    "choices": [
+      "It cannot be determined.",
+      "The aircraft at 15 000 ft.",
+      "Altitude does not influence VHF radio communications.",
+      "The aircraft at 5000 ft."
+    ],
+    "answer": "The aircraft at 15 000 ft."
+  },
+  {
+    "question": "Complete the following sentence: London control instructs you to contact Solent radar on 120.225. Solent tells you to expect an ILS approach into runway 20 at Southampton. Solent radar transmits on the (1) __ frequency band and the ILS transmits on the (2) ___ frequency band.",
+    "choices": [
+      "(1) very high; (2) very high.",
+      "(1) high; (2) very high.",
+      "(1) high; (2) high.",
+      "(1) very high; (2) high."
+    ],
+    "answer": "(1) very high; (2) very high."
+  },
+  {
+    "question": "All headings given by ATC are given in degrees __________ unless otherwise stated.",
+    "choices": [
+      "True",
+      "magnetic",
+      "magnetic or true"
+    ],
+    "answer": "magnetic"
+  },
+  {
+    "question": "Arriving IFR traffic, descending within controlled airspace normally receive, from the en-route ATC controller. They are then handed over to a ground station with the suffix __________.",
+    "choices": [
+      "Approach",
+      "Deliveries",
+      "Radar",
+      "Talkdown"
+    ],
+    "answer": "Approach"
+  },
+  {
+    "question": "A condition concerning the safety of an aircraft or other vehicle, or of some person on board or within sight, but which does not require immediate assistance is a description of:",
+    "choices": [
+      "disaster",
+      "distress",
+      "urgency",
+      "emergency"
+    ],
+    "answer": "urgency"
+  },
+  {
+    "question": "An aircraft on an IFR flight in VMC experiences radio communication failure. The aircraft is assumed to:",
+    "choices": [
+      "Return to the aerodrome of departure",
+      "Land at the destination aerodrome",
+      "Land at the alternate aerodrome",
+      "Land at the nearest suitable aerodrome"
+    ],
+    "answer": "Land at the nearest suitable aerodrome"
+  },
+  {
+    "question": "If you experience comms failure under IFR in IMC, maintain the assigned level and speed, then:",
+    "choices": [
+      "Change course to obtain VMC conditions as soon as possible.",
+      "In procedural separation airspace, maintain the last assigned speed and level for 20 minutes. Thereafter adjust your level and speed in accordance with your filed flight plan.",
+      "In airspace where a surveillance system is used, maintain the last assigned speed and level for 15 minutes following the time the transponder was set to squawk 7600.",
+      "Land at the nearest suitable aerodrome."
+    ],
+    "answer": "In procedural separation airspace, maintain the last assigned speed and level for 20 minutes. Thereafter adjust your level and speed in accordance with your filed flight plan."
+  },
+  {
+    "question": "What is the radiotelephony call sign for the aeronautical station indicating approach control radar arrivals:",
+    "choices": [
+      "...DIRECTOR",
+      "...ARRIVAL",
+      "...RADAR",
+      "...APPROACH"
+    ],
+    "answer": "...ARRIVAL"
+  },
+  {
+    "question": "TCAS is an on-board system which uses transponder information to alert the crew to traffic __________ and to potentially conflicting or actually conflicting traffic.",
+    "choices": [
+      "proximate",
+      "all"
+    ],
+    "answer": "proximate"
+  },
+  {
+    "question": "What does the clearance 'taxi' authorise a helicopter to do?",
+    "choices": [
+      "Ground taxi only.",
+      "Hover.",
+      "Air Taxi only.",
+      "Ground or air taxi."
+    ],
+    "answer": "Ground or air taxi."
+  },
+  {
+    "question": "What does the instruction 'hold' require an air taxiing helicopter to do?",
+    "choices": [
+      "Immediately hover.",
+      "Stop.",
+      "Immediately touch-down.",
+      "Enter the hover or touch-down."
+    ],
+    "answer": "Enter the hover or touch-down."
+  },
+  {
+    "question": "What is a possible cause of an aircraft being 'stuck on transmit'?",
+    "choices": [
+      "Headset microphone broken.",
+      "PTT switch stuck down.",
+      "Headset earphones broken.",
+      "PTT switch stuck up."
+    ],
+    "answer": "PTT switch stuck down."
+  },
+  {
+    "question": "What does the abbreviation \"ATIS\" mean?",
+    "choices": [
+      "Automatic terminal information system.",
+      "Airport terminal information service.",
+      "Automatic terminal information service.",
+      "Air traffic information service."
+    ],
+    "answer": "Automatic terminal information service."
+  },
+  {
+    "question": "The radio frequency spectrum is part of the __________ spectrum.",
+    "choices": [
+      "infra-red",
+      "visible",
+      "x-ray",
+      "electromagnetic"
+    ],
+    "answer": "electromagnetic"
+  },
+  {
+    "question": "What is the definition of distress?",
+    "choices": [
+      "A condition of being threatened by serious and/or imminent danger and requiring immediate assistance.",
+      "A condition concerning the safety of a person on board an aircraft, or within sight, and requiring immediate assistance.",
+      "A condition concerning the safety of an aircraft or of a person on board, but which does not require immediate assistance.",
+      "A condition concerning the attitude of an aircraft when intercepting the localizer during an ILS approach."
+    ],
+    "answer": "A condition of being threatened by serious and/or imminent danger and requiring immediate assistance."
+  },
+  {
+    "question": "The ATS term for a communication which takes place in one direction at a time is:",
+    "choices": [
+      "Readback.",
+      "Duplex.",
+      "Simplex.",
+      "Blind transmission."
+    ],
+    "answer": "Simplex."
+  },
+  {
+    "question": "How frequently is ATIS routinely updated?",
+    "choices": [
+      "Every 2 hours.",
+      "Every 30 minutes.",
+      "Every hour.",
+      "Only when there is a significant change."
+    ],
+    "answer": "Every 30 minutes."
+  },
+  {
+    "question": "From a cruising altitude of FL 360, you wish to descend to FL 200. Your transmission to the radar controller is:",
+    "choices": [
+      "Request flight level two-hundred",
+      "Request descent to flight level two-zero-zero",
+      "Request to descend two-hundred",
+      "We would like to start descent to flight level two-zero-zero"
+    ],
+    "answer": "Request flight level two-hundred"
+  },
+  {
+    "question": "What shall the pilot's read back be for \"Climb to FL 280\":",
+    "choices": [
+      "Climbing to flight level two eight zero",
+      "Climbing to flight level two eighty",
+      "Climbing two eight zero",
+      "Climbing to two eighty"
+    ],
+    "answer": "Climbing to flight level two eight zero"
+  },
+  {
+    "question": "What callsign suffix is used by a flight information service officer?",
+    "choices": [
+      "Information.",
+      "FISO",
+      "Traffic.",
+      "Service."
+    ],
+    "answer": "Information."
+  },
+  {
+    "question": "The ATS term for a transmission not addressed to a specific station or stations is:",
+    "choices": [
+      "Air-ground communication.",
+      "Readback.",
+      "Broadcast.",
+      "Simplex."
+    ],
+    "answer": "Broadcast."
+  },
+  {
+    "question": "The ATS term for two-way communication is:",
+    "choices": [
+      "Air-ground communication.",
+      "Air-to-ground communication.",
+      "Broadcast.",
+      "Readback."
+    ],
+    "answer": "Air-ground communication."
+  },
+  {
+    "question": "The wake turbulence category of the A380 is:",
+    "choices": [
+      "LARGE",
+      "SUPER",
+      "HEAVY",
+      "HAZARDOUS"
+    ],
+    "answer": "SUPER"
+  },
+  {
+    "question": "At an airport with separate ground and tower controllers when will you be handed over between Ground to Tower:",
+    "choices": [
+      "When you commence your take-off.",
+      "Prior to commencing to taxi.",
+      "At or before the runway holding point.",
+      "Not before you arrive at the runway holding point."
+    ],
+    "answer": "At or before the runway holding point."
+  },
+  {
+    "question": "In __________ airspace you must receive permission before changing frequency.",
+    "choices": [
+      "controlled or uncontrolled.",
+      "uncontrolled.",
+      "controlled."
+    ],
+    "answer": "controlled."
+  },
+  {
+    "question": "The standard time reference is:",
+    "choices": [
+      "Coordinated Universal Time (UTC).",
+      "Daylight Saving Time (DST).",
+      "Greenwich Mean Time (GMT).",
+      "Local time in the State over which you are flying."
+    ],
+    "answer": "Coordinated Universal Time (UTC)."
+  },
+  {
+    "question": "The vertical distance of the aircraft above the standard pressure setting (SPS) datum of 1013.2 hPa is a description of:",
+    "choices": [
+      "Flight level.",
+      "Altitude.",
+      "Height.",
+      "Attitude."
+    ],
+    "answer": "Flight level."
+  },
+  {
+    "question": "The callsign of land-based stations comprises: the __________ of the station and the name of the __________.",
+    "choices": [
+      "the frequency ; service or unit available.",
+      "the name ; service or unit available.",
+      "the frequency ; company providing the service.",
+      "the name ; company providing the service."
+    ],
+    "answer": "the name ; service or unit available."
+  },
+  {
+    "question": "If voice communication conditions are poor:",
+    "choices": [
+      "You must speak loudly.",
+      "Words should be repeated 3 times.",
+      "Try to use the ATC controller's native language to reduce potential miscommunications.",
+      "Words should be spelt phonetically."
+    ],
+    "answer": "Words should be spelt phonetically."
+  },
+  {
+    "question": "Which phrase shall be used to confirm that a message has been repeated correctly:",
+    "choices": [
+      "That is right",
+      "That is affirmative",
+      "Correct",
+      "Affirm"
+    ],
+    "answer": "Correct"
+  },
+  {
+    "question": "The time is now 1123. Radar Control requests your estimate for next reporting point, which is AAL VOR/DME. You look at your operational flight plan and estimate 12 minutes (36 NM) to go to the reporting point. Your transmission is:",
+    "choices": [
+      "estimate AAL at eleven-thirty-five.",
+      "estimate AAL at three-five.",
+      "have one-two minutes to go to AAL.",
+      "estimate AAL VOR/DME in one-two minutes."
+    ],
+    "answer": "estimate AAL at three-five."
+  },
+  {
+    "question": "Be sure to check local procedures before you land at an unfamiliar airfield. In a standard visual circuit pattern, all turns are made to the ________ for fixed wing aircraft. Aerodromes may use a ________-hand circuit for some runways due to terrain, noise abatement or proximity to other aerodromes.",
+    "choices": [
+      "left ; left",
+      "left ; right",
+      "right ; left",
+      "right ; right"
+    ],
+    "answer": "left ; right"
+  },
+  {
+    "question": "The standard RT word for \"true or accurate\" is:",
+    "choices": [
+      "Roger.",
+      "Wilco.",
+      "Correct.",
+      "Affirm."
+    ],
+    "answer": "Correct."
+  },
+  {
+    "question": "An aircraft on a straight-in approach reports ‘long final’ at ___ nm and ‘final’ at ___ nm if not yet cleared to land.",
+    "choices": [
+      "4 ; 8",
+      "8 ; 6",
+      "8 ; 4",
+      "6 ; 4"
+    ],
+    "answer": "8 ; 4"
+  },
+  {
+    "question": "Which of the following frequencies is an international emergency frequency?",
+    "choices": [
+      "6500 KHz",
+      "911 MHz",
+      "121.500 MHz",
+      "122.500 MHz"
+    ],
+    "answer": "121.500 MHz"
+  },
+  {
+    "question": "Changing and then reverting to your original callsign is instructed by ATC using these phrases: __________ your callsign to.... Revert to flight plan callsign.....",
+    "choices": [
+      "alter",
+      "reassign",
+      "move",
+      "Change."
+    ],
+    "answer": "Change."
+  },
+  {
+    "question": "For all departure-related exchanges, other than take-off, ATC and aircraft must use the word ‘________’.",
+    "choices": [
+      "instruction.",
+      "cleared.",
+      "departure.",
+      "take-off."
+    ],
+    "answer": "departure."
+  },
+  {
+    "question": "The phrase take-off is only ever used by a crew in response to a ________ clearance issued by ATC.",
+    "choices": [
+      "departure.",
+      "take-off.",
+      "take-off or departure."
+    ],
+    "answer": "take-off."
+  },
+  {
+    "question": "Which frequency shall be used for the first transmission of an urgency call?",
+    "choices": [
+      "The air-ground frequency in use at the time.",
+      "Any frequency at pilot's discretion.",
+      "The regional guard frequency.",
+      "The international emergency frequency."
+    ],
+    "answer": "The air-ground frequency in use at the time."
+  },
+  {
+    "question": "At an aerodrome with a FISO, there is no landing clearance, only a message stating: '__________’ plus any other relevant information such as surface wind or other useful traffic information.",
+    "choices": [
+      "affirm.",
+      "roger.",
+      "land.",
+      "land at your discretion."
+    ],
+    "answer": "land at your discretion."
+  },
+  {
+    "question": "Aerodromes have one of 3 categories of communications service: ________ Provided by a licensed ATC officer. : A lower ________ level of service provided by a licensed Flight Information Service Officer. : ________ Provided by a radio licence holder but otherwise unregulated.",
+    "choices": [
+      "Air-Ground Communications ; Air Traffic Control ; Flight Information.",
+      "Air Traffic Control ; Air-Ground Communications ; Flight Information.",
+      "Air Traffic Control ; Flight Information ; Air-Ground Communications.",
+      "Flight Information ; Air Traffic Control ; Air-Ground Communications."
+    ],
+    "answer": "Air Traffic Control ; Flight Information ; Air-Ground Communications."
+  },
+  {
+    "question": "The SSR code 7500 is for:",
+    "choices": [
+      "Emergency.",
+      "Blind transmission.",
+      "Radio failure.",
+      "Unlawful interference."
+    ],
+    "answer": "Unlawful interference."
+  },
+  {
+    "question": "Taxi - you are aware that your taxi route requires you to cross a runway. How will you know ATC has provided clearance to you?",
+    "choices": [
+      "Automatically by getting taxi clearance.",
+      "By the holding point given by ATC.",
+      "Explicit clearance will be given.",
+      "By ensuring you don't cross any lit stop bars on your route."
+    ],
+    "answer": "Explicit clearance will be given."
+  },
+  {
+    "question": "The SSR code 7700 is for:",
+    "choices": [
+      "Unlawful interference.",
+      "Radio failure.",
+      "Approach.",
+      "Emergency."
+    ],
+    "answer": "Emergency."
+  },
+  {
+    "question": "Before transmitting the pilot should...:",
+    "choices": [
+      "Make sure that the aircraft is levelled off.",
+      "Always write the message and read it during the transmission.",
+      "Listen out on the frequency to ensure no interference with another station already transmitting will occur.",
+      "Make sure that the emergency frequency is tuned in at the same time."
+    ],
+    "answer": "Listen out on the frequency to ensure no interference with another station already transmitting will occur."
+  },
+  {
+    "question": "Which abbreviation is used for the term \"control zone\"?",
+    "choices": [
+      "CTR.",
+      "CTZ.",
+      "CZ.",
+      "CTA."
+    ],
+    "answer": "CTR."
+  },
+  {
+    "question": "A pilot in flight hears an urgency message on an area control frequency that is acknowledged by the area controller. What action must the pilot take?",
+    "choices": [
+      "Immediately inform the controller of his/her position in order to provide assistance if necessary.",
+      "Take care not to interfere with the transmission of the urgency traffic.",
+      "Immediately stop all transmissions on the frequency being used by the urgency traffic.",
+      "Write down the information being transmitted and re-transmit it on the emergency frequency 121.5 MHz."
+    ],
+    "answer": "Take care not to interfere with the transmission of the urgency traffic."
+  },
+  {
+    "question": "The VHF spectrum spans the frequencies from:",
+    "choices": [
+      "30 to 300 MHz.",
+      "300 to 30 000 MHz.",
+      "30 to 3000 GHz.",
+      "30 to 3000 kHz."
+    ],
+    "answer": "30 to 300 MHz."
+  },
+  {
+    "question": "The word cleared is only ever used by a pilot in response to a issued ________ by ATC.",
+    "choices": [
+      "clearance.",
+      "instruction.",
+      "statement."
+    ],
+    "answer": "clearance."
+  },
+  {
+    "question": "The ATS term for any transmission, emission, or reception of signs, signals, writing, images and sounds or intelligence of any nature by wire, radio, optical or other electromagnetic systems is:",
+    "choices": [
+      "Telecommunication.",
+      "Non-network communications.",
+      "Radiotelephony network.",
+      "Duplex."
+    ],
+    "answer": "Telecommunication."
+  }
+]
