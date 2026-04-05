@@ -678,26 +678,27 @@ async function loadQuestionBank(){
     const entries = await Promise.all(subjects.map(async (entry) => {
       const file = String(entry.file || '').replace(/^\.\//,'');
       const arr = await fetchJsonWithFallback([file, './'+file]);
+      console.log("📚 Loading subject:", entry.name);
+      console.log("📂 File:", file);
+      console.log("✅ Loaded", Array.isArray(arr) ? arr.length : 0, "questions");
       return [entry.name, arr];
     }));
+
     RAW = Object.fromEntries(entries);
-    try{ if(window.__SEARCH && typeof window.__SEARCH.buildDB==='function') window.__SEARCH.buildDB(); }catch(e){}
+
+    try{
+      if(window.__SEARCH && typeof window.__SEARCH.buildDB === 'function'){
+        window.__SEARCH.buildDB();
+      }
+    }catch(e){}
+
     populateSubjects();
     refreshSubjectLabels();
+    mSubjectInfo.textContent = 'Loaded modular question bank.';
   }catch(err){
-    console.error('Failed to load modular question bank, trying legacy fallback', err);
-    try{
-      const legacy = await fetchJsonWithFallback(['Questions.json','./Questions.json']);
-      RAW = legacy;
-      populateSubjects();
-      refreshSubjectLabels();
-      try{ if(window.__SEARCH && typeof window.__SEARCH.buildDB==='function') window.__SEARCH.buildDB(); }catch(e){}
-      mSubjectInfo.textContent = 'Loaded legacy backup database.';
-    }catch(legacyErr){
-      console.error('Legacy fallback also failed', legacyErr);
-      mSubject.innerHTML='<option selected disabled>Failed to load question bank</option>';
-      mSubjectInfo.textContent='If you opened index.html directly from a ZIP/local folder, the browser may be blocking file loading. Test it through GitHub Pages or a local web server.';
-    }
+    console.error('❌ Failed to load modular question bank', err);
+    mSubject.innerHTML = '<option selected disabled>Failed to load question bank</option>';
+    mSubjectInfo.textContent = 'Could not load subjects.json or one of the subject files.';
   }
 }
 loadQuestionBank();
