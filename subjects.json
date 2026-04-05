@@ -1,0 +1,77 @@
+[
+  {
+    "name": "HPL",
+    "file": "./data/subjects/hpl.json",
+    "count": 342
+  },
+  {
+    "name": "GNAV",
+    "file": "./data/subjects/gnav.json",
+    "count": 554
+  },
+  {
+    "name": "RNAV",
+    "file": "./data/subjects/rnav.json",
+    "count": 322
+  },
+  {
+    "name": "ASP",
+    "file": "./data/subjects/asp.json",
+    "count": 803
+  },
+  {
+    "name": "INS",
+    "file": "./data/subjects/ins.json",
+    "count": 611
+  },
+  {
+    "name": "M&B",
+    "file": "./data/subjects/m-and-b.json",
+    "count": 242
+  },
+  {
+    "name": "OPS",
+    "file": "./data/subjects/ops.json",
+    "count": 189
+  },
+  {
+    "name": "PER",
+    "file": "./data/subjects/per.json",
+    "count": 351
+  },
+  {
+    "name": "FPM",
+    "file": "./data/subjects/fpm.json",
+    "count": 359
+  },
+  {
+    "name": "COM",
+    "file": "./data/subjects/com.json",
+    "count": 167
+  },
+  {
+    "name": "MET",
+    "file": "./data/subjects/met.json",
+    "count": 517
+  },
+  {
+    "name": "MET KAHOOT",
+    "file": "./data/subjects/met-kahoot.json",
+    "count": 65
+  },
+  {
+    "name": "POF",
+    "file": "./data/subjects/pof.json",
+    "count": 439
+  },
+  {
+    "name": "ALW",
+    "file": "./data/subjects/alw.json",
+    "count": 668
+  },
+  {
+    "name": "Mental Math",
+    "file": "./data/subjects/mental-math.json",
+    "count": 48
+  }
+]
