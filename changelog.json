@@ -1,34 +1,15 @@
 {
   "entries": [
     {
-      "version": "v2.1.2",
-      "date": "2026-04-05",
-      "title": "Loader fallback fix",
-      "changes": [
-        "Simplified subject file paths in subjects.json",
-        "Added more resilient modular question-bank loading",
-        "Added automatic fallback to the legacy Questions.json if modular loading fails",
-        "Added clearer message when the browser blocks local file loading"
-      ]
-    },
-    {
-      "version": "v2.1.1",
-      "date": "2026-04-05",
-      "title": "Flat modular structure",
-      "changes": [
-        "Moved subject JSON files to the app root for simpler editing and hosting",
-        "Updated subjects.json paths to use flat files instead of folders",
-        "Removed the Met Kahoot subject from the modular build"
-      ]
-    },
-    {
       "version": "v2.1",
       "date": "2026-04-05",
-      "title": "Modular question bank",
+      "title": "Infrastructure update ",
       "changes": [
         "Split the large question database into one JSON file per subject",
         "Added subjects.json index for easier editing and maintenance",
-        "Updated app loading flow to build the bank from modular subject files"
+        "Updated app loading flow to build the bank from modular subject files",
+        "Removed the Met Kahoot subject from the modular build",
+        "Added more resilient modular question-bank loading"
       ]
     },
     {
