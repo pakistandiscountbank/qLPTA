@@ -200,7 +200,7 @@
     "answer": "The engine must not be started if any fluid level is too low"
   },
   {
-    "question": "What is the total fuel capacity in normal category?",
+    "question": "What is the total non-useable fuel capacity in normal category?",
     "choices": [
       "180.2 litres (47.6 US gal)",
       "168.8 litres (44.6 US gal)",
@@ -208,6 +208,16 @@
       "106 litres (28 US gal)"
     ],
     "answer": "180.2 litres (47.6 US gal)"
+  },
+  {
+    "question": "What is the total useable fuel capacity in normal category?",
+    "choices": [
+      "180.2 litres (47.6 US gal)",
+      "168.8 litres (44.6 US gal)",
+      "117.4 litres (31 US gal)",
+      "106 litres (28 US gal)"
+    ],
+    "answer": "168.8 litres (44.6 US gal)"
   },
   {
     "question": "What is the usable fuel in normal category?",
@@ -250,7 +260,7 @@
     "answer": "Because Jet A-1 and Diesel have a higher specific density"
   },
   {
-    "question": "What is the maximum takeoff weight for a C172S normal category airplane in this supplement?",
+    "question": "What is the maximum takeoff weight for a C172S normal category airplane in the POH supplement?",
     "choices": [
       "1157 kg (2550 lbs)",
       "1111 kg (2450 lbs)",
@@ -310,7 +320,7 @@
     "answer": "Intentionally initiating negative G maneuvers"
   },
   {
-    "question": "What is takeoff and maximum continuous power?",
+    "question": "What is the engine's takeoff and maximum continuous power output?",
     "choices": [
       "114 kW (155 HP)",
       "120 kW (161 HP)",
@@ -640,7 +650,17 @@
     "answer": "Thrust lever IDLE"
   },
   {
-    "question": "Immediately after takeoff with engine malfunction and flaps retracted, what airspeed should be maintained?",
+    "question": "C172S: Immediately after takeoff with engine malfunction and flaps retracted, what airspeed should be maintained?",
+    "choices": [
+      "55 KIAS",
+      "60 KIAS",
+      "65 KIAS",
+      "70 KIAS"
+    ],
+    "answer": "70 KIAS"
+  },
+  {
+    "question": "C172S: Immediately after takeoff with engine malfunction and flaps extended, what airspeed should be maintained?",
     "choices": [
       "55 KIAS",
       "60 KIAS",
@@ -650,7 +670,17 @@
     "answer": "65 KIAS"
   },
   {
-    "question": "Immediately after takeoff with engine malfunction and flaps extended, what airspeed should be maintained?",
+    "question": "C172R: Immediately after takeoff with engine malfunction and flaps retracted, what airspeed should be maintained?",
+    "choices": [
+      "55 KIAS",
+      "60 KIAS",
+      "65 KIAS",
+      "70 KIAS"
+    ],
+    "answer": "65 KIAS"
+  },
+  {
+    "question": "C172R: Immediately after takeoff with engine malfunction and flaps extended, what airspeed should be maintained?",
     "choices": [
       "55 KIAS",
       "60 KIAS",
@@ -720,7 +750,7 @@
     "answer": "13,000 ft"
   },
   {
-    "question": "What warning is given if a tank was run dry and the engine is restarted?",
+    "question": "What warning is given if a fuel tank was run dry?",
     "choices": [
       "Both FADEC warning lights flashing",
       "Alternator warning only",
@@ -840,7 +870,7 @@
     "answer": "65 KIAS"
   },
   {
-    "question": "For emergency landing with engine out, what is the recommended glide speed with flaps extended?",
+    "question": "C172R: For emergency landing with engine out, what is the recommended glide speed with flaps extended?",
     "choices": [
       "55 KIAS",
       "60 KIAS",
@@ -848,6 +878,36 @@
       "70 KIAS"
     ],
     "answer": "60 KIAS"
+  },
+  {
+    "question": "C172R: For emergency landing with engine out, what is the recommended glide speed with flaps retracted?",
+    "choices": [
+      "55 KIAS",
+      "60 KIAS",
+      "65 KIAS",
+      "70 KIAS"
+    ],
+    "answer": "65 KIAS"
+  },
+  {
+    "question": "C172S: For emergency landing with engine out, what is the recommended glide speed with flaps extended?",
+    "choices": [
+      "55 KIAS",
+      "60 KIAS",
+      "65 KIAS",
+      "70 KIAS"
+    ],
+    "answer": "65 KIAS"
+  },
+  {
+    "question": "C172S: For emergency landing with engine out, what is the recommended glide speed with flaps retracted?",
+    "choices": [
+      "55 KIAS",
+      "60 KIAS",
+      "65 KIAS",
+      "70 KIAS"
+    ],
+    "answer": "70 KIAS"
   },
   {
     "question": "What should be done with cabin doors before touchdown in an emergency landing with engine out?",
@@ -1430,14 +1490,14 @@
     "answer": "20°"
   },
   {
-    "question": "In a balked landing, what climb speed is specified?",
+    "question": "In a balked landing, what initial climb speed is specified in the OSM C172 VFR profile?",
     "choices": [
-      "55 KIAS",
-      "58 KIAS",
+      "80 KIAS",
+      "70 KIAS",
       "62 KIAS",
       "65 KIAS"
     ],
-    "answer": "58 KIAS"
+    "answer": "70 KIAS"
   },
   {
     "question": "After landing, what should be done with the electric fuel pump?",
@@ -1460,7 +1520,7 @@
     "answer": "LEFT or RIGHT"
   },
   {
-    "question": "What does the supplement say about magneto check for the JT-A installation?",
+    "question": "What does the POH supplement say about magneto check for the JT-A installation?",
     "choices": [
       "Normal magneto check required",
       "Magneto check only above 5500 ft",
@@ -1510,7 +1570,7 @@
     "answer": "10%"
   },
   {
-    "question": "What speed is about best climb according to the amplified climb procedures?",
+    "question": "What speed is best climb according to the amplified climb procedures? (Vy)",
     "choices": [
       "62 KIAS",
       "65 KIAS",
@@ -1518,6 +1578,16 @@
       "75 KIAS"
     ],
     "answer": "70 KIAS"
+  },
+  {
+    "question": "What speed is best climb angle according to the amplified climb procedures? (Vx)",
+    "choices": [
+      "62 KIAS",
+      "65 KIAS",
+      "70 KIAS",
+      "75 KIAS"
+    ],
+    "answer": "62 KIAS"
   },
   {
     "question": "If an obstruction dictates a steep climb angle, what speed is given in amplified procedures?",
@@ -1640,7 +1710,7 @@
     "answer": "The autopilot reverts to ROL mode with no aural alert"
   },
   {
-    "question": "What does the supplement say is the warning flag on the G1000 HSI when no valid navigation signal is supplied?",
+    "question": "What does the POH supplement say is the warning flag on the G1000 HSI when no valid navigation signal is supplied?",
     "choices": [
       "A red X on the compass only",
       "The missing D-bar",
@@ -1870,16 +1940,6 @@
     "answer": "712 fpm"
   },
   {
-    "question": "At 1134 kg, sea level and ISA, what rate of climb is shown in the time/fuel/distance to climb chart?",
-    "choices": [
-      "712 fpm",
-      "739 fpm",
-      "766 fpm",
-      "694 fpm"
-    ],
-    "answer": "739 fpm"
-  },
-  {
     "question": "For the 1157 kg short field takeoff chart, what lift-off speed is used?",
     "choices": [
       "51 KIAS",
@@ -1900,26 +1960,6 @@
     "answer": "56 KIAS"
   },
   {
-    "question": "How should takeoff distances be corrected for each 9 knot headwind according to the takeoff charts?",
-    "choices": [
-      "Increase by 10%",
-      "Decrease by 10%",
-      "Decrease by 5%",
-      "No correction is allowed"
-    ],
-    "answer": "Decrease by 10%"
-  },
-  {
-    "question": "How should takeoff distances be corrected for tailwinds up to 10 knots according to the takeoff charts?",
-    "choices": [
-      "Increase by 10% for each 2 knots",
-      "Increase by 5% for each 2 knots",
-      "Decrease by 10% for each 2 knots",
-      "No tailwind correction is given"
-    ],
-    "answer": "Increase by 10% for each 2 knots"
-  },
-  {
     "question": "For operation on a dry grass runway, by how much should takeoff ground roll be increased?",
     "choices": [
       "10%",
@@ -1938,36 +1978,6 @@
       "30%"
     ],
     "answer": "20%"
-  },
-  {
-    "question": "In the sample problem, what power setting is selected for the cruise calculation example?",
-    "choices": [
-      "65%",
-      "70%",
-      "75%",
-      "85%"
-    ],
-    "answer": "70%"
-  },
-  {
-    "question": "In the sample problem, what true airspeed is associated with the selected cruise power?",
-    "choices": [
-      "105 kt",
-      "110 kt",
-      "115 kt",
-      "120 kt"
-    ],
-    "answer": "115 kt"
-  },
-  {
-    "question": "In the sample problem, what cruise fuel consumption is shown?",
-    "choices": [
-      "18.5 l/h",
-      "20.0 l/h",
-      "22.1 l/h",
-      "25.0 l/h"
-    ],
-    "answer": "22.1 l/h"
   },
   {
     "question": "Scenario: You are on FADEC backup battery only after a major electrical failure. Which action could shut the engine down?",
@@ -2030,7 +2040,7 @@
     "answer": "It is a HIGH category warning and you should land as soon as possible"
   },
   {
-    "question": "Scenario: You are above 5500 ft airfield elevation and moved the thrust lever away from idle before starting the FADEC test. What does the supplement say?",
+    "question": "Scenario: You are above 5500 ft airfield elevation and moved the thrust lever away from idle before starting the FADEC test. What does the POH supplement say?",
     "choices": [
       "The FADEC test is no longer possible unless the engine is stopped and restarted",
       "The test will continue normally",
