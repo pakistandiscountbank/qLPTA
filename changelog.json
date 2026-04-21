@@ -1,6 +1,14 @@
 {
   "entries": [
-        {
+    {
+      "version": "v2.3",
+      "date": "2026-04-21",
+      "title": "SERA update",
+      "changes": [
+        "Added a subject for EASA SERA Rules, this will cointan questions regarding everything contained in SERA"
+      ]
+    },
+    {
       "version": "v2.2",
       "date": "2026-04-05",
       "title": "Technical update",

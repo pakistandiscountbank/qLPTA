@@ -73,5 +73,10 @@
     "name": "C172 Technical Course",
     "file": "c172-technical-course.json",
     "count": 213
+  },
+  {
+    "name": "EASA SERA",
+    "file": "easa-sera.json",
+    "count": 100
   }
 ]
