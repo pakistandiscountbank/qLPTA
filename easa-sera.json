@@ -1,1002 +1,1882 @@
 [
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "To which traffic does the SERA Regulation primarily apply? [Article 1(1), p.21]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "State aircraft only",
+      "General air traffic",
+      "Commercial air transport only",
+      "Military operations only"
     ],
-    "answer": "Never"
+    "answer": "General air traffic"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "Which of the following is specifically excluded from direct application of this Regulation? [Article 1(4), p.21]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "General aviation aircraft",
+      "Model aircraft and toy aircraft",
+      "IFR flights",
+      "Flights over the high seas"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "Model aircraft and toy aircraft"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "Who is responsible for ensuring compliance with the common rules and provisions set out in the Annex? [Article 3, p.36]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "Only aircraft operators",
+      "Only EASA",
+      "Member States",
+      "Only ATS providers"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "Member States"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "Which activity is listed as one for which competent authorities may grant exemptions in the public interest? [Article 4(1), p.37]",
     "choices": [
+      "Private sightseeing",
+      "Fire fighting",
+      "Routine airline training",
+      "Aerial photography for tourism"
+    ],
+    "answer": "Fire fighting"
+  },
+  {
+    "question": "What is the standard VHF emergency frequency referred to in Article 4a? [Article 4a(1), p.38]",
+    "choices": [
+      "118.000 MHz",
+      "121.500 MHz",
+      "123.450 MHz",
+      "243.000 MHz"
+    ],
+    "answer": "121.500 MHz"
+  },
+  {
+    "question": "What does 'altitude' mean in SERA definitions? [Article 2(39), p.24]",
+    "choices": [
+      "Vertical distance measured from QFE",
+      "Vertical distance measured from mean sea level",
+      "A constant pressure surface",
+      "Height above the runway"
+    ],
+    "answer": "Vertical distance measured from mean sea level"
+  },
+  {
+    "question": "What does 'flight level' mean in SERA definitions? [Article 2(78), p.26]",
+    "choices": [
+      "A level referenced to QFE",
+      "A surface of constant atmospheric pressure related to 1013.2 hPa",
+      "Any altitude above transition altitude",
+      "Height above terrain"
+    ],
+    "answer": "A surface of constant atmospheric pressure related to 1013.2 hPa"
+  },
+  {
+    "question": "What does 'height' mean in SERA definitions? [Article 2(84), p.26]",
+    "choices": [
+      "Vertical distance measured from a specified datum",
+      "Pressure altitude only",
+      "A level referenced only to mean sea level",
+      "Flight level above transition altitude"
+    ],
+    "answer": "Vertical distance measured from a specified datum"
+  },
+  {
+    "question": "What is 'minimum fuel' in the SERA definitions? [Article 2(94a), p.27]",
+    "choices": [
+      "Fuel below final reserve",
+      "A distress condition requiring MAYDAY immediately",
+      "A state where the flight is committed to a specific aerodrome and no additional delay can be accepted",
+      "The legal minimum dispatch fuel"
+    ],
+    "answer": "A state where the flight is committed to a specific aerodrome and no additional delay can be accepted"
+  },
+  {
+    "question": "What does 'special VFR flight' mean? [Article 2(122), p.30]",
+    "choices": [
+      "A VFR flight in Class A airspace",
+      "A VFR flight cleared by ATC to operate within a control zone in meteorological conditions below VMC",
+      "A VFR night flight",
+      "A helicopter-only VFR operation"
+    ],
+    "answer": "A VFR flight cleared by ATC to operate within a control zone in meteorological conditions below VMC"
+  },
+  {
+    "question": "What does 'visibility' mean for aeronautical purposes under SERA? [Article 2(141), p.31]",
+    "choices": [
+      "Only the distance a runway can be seen",
+      "Only flight visibility from the cockpit",
+      "The greater of object visibility against a bright background and light visibility against an unlit background",
+      "Only meteorological optical range"
+    ],
+    "answer": "The greater of object visibility against a bright background and light visibility against an unlit background"
+  },
+  {
+    "question": "For flights over the high seas, which rules apply without exception? [SERA.1001(a), p.42]",
+    "choices": [
+      "Only national rules of the State of registry",
+      "Annex 2 to the Chicago Convention",
+      "SERA only, without ICAO reference",
+      "Local FIR rules only"
+    ],
+    "answer": "Annex 2 to the Chicago Convention"
+  },
+  {
+    "question": "Without prejudice to SERA.1001, to which aircraft does the Annex apply? [SERA.2001, p.43]",
+    "choices": [
+      "Only aircraft within the Union",
+      "Aircraft operating into, within or out of the Union and EU-registered aircraft in any airspace where no conflict exists with local rules",
+      "Only EU-registered aircraft inside EU airspace",
+      "Only controlled flights"
+    ],
+    "answer": "Aircraft operating into, within or out of the Union and EU-registered aircraft in any airspace where no conflict exists with local rules"
+  },
+  {
+    "question": "An aircraft on the movement area or in flight must comply with which set of rules? [SERA.2005, p.43]",
+    "choices": [
+      "General rules and local provisions only",
+      "General rules, local provisions, and in flight either VFR or IFR",
+      "Only the rules published by ATC",
+      "Only local aerodrome rules"
+    ],
+    "answer": "General rules, local provisions, and in flight either VFR or IFR"
+  },
+  {
+    "question": "May a pilot elect to fly under IFR in visual meteorological conditions? [GM1 SERA.2005(b), p.43]",
+    "choices": [
+      "No, never",
+      "Yes",
       "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Only in Class A"
     ],
-    "answer": "Day and night"
+    "answer": "Yes"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "Who is responsible for the operation of the aircraft in accordance with SERA? [SERA.2010(a), p.43]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "The aircraft operator",
+      "The commander only when manipulating the controls",
+      "The pilot-in-command whether manipulating the controls or not",
+      "ATC in controlled airspace"
     ],
-    "answer": "Whenever available"
+    "answer": "The pilot-in-command whether manipulating the controls or not"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "When may the pilot-in-command depart from the rules of the air? [SERA.2010(a), p.43]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Whenever weather deteriorates",
+      "Only when ATC approves",
+      "When absolutely necessary in the interests of safety",
+      "Whenever the operator directs"
     ],
-    "answer": "Never"
+    "answer": "When absolutely necessary in the interests of safety"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "For which flights must pre-flight action include a careful study of current weather reports and forecasts? [SERA.2010(b), p.44]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "Only flights in Class A",
+      "Flights away from the vicinity of an aerodrome and all IFR flights",
+      "Only VFR night flights",
+      "Only commercial flights"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "Flights away from the vicinity of an aerodrome and all IFR flights"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "Who has final authority as to the disposition of the aircraft while in command? [SERA.2015, p.44]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "The operator",
+      "The pilot-in-command",
+      "The senior cabin crew member",
+      "ATC"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "The pilot-in-command"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "What does SERA say about psychoactive substances and safety-sensitive personnel? [SERA.2020, p.44]",
     "choices": [
+      "They may perform duties if under legal limits",
+      "They may not undertake the function while impaired and may not engage in problematic use of substances",
+      "Only pilots are affected",
+      "It applies only to alcohol"
+    ],
+    "answer": "They may not undertake the function while impaired and may not engage in problematic use of substances"
+  },
+  {
+    "question": "How may an aircraft be operated with regard to life or property of others? [SERA.3101, p.45]",
+    "choices": [
+      "In any manner if clear of controlled airspace",
+      "Not in a negligent or reckless manner so as to endanger life or property",
+      "At pilot discretion",
+      "Only as approved by the operator"
+    ],
+    "answer": "Not in a negligent or reckless manner so as to endanger life or property"
+  },
+  {
+    "question": "Except when necessary for take-off or landing, flights over congested areas must be at a height that permits what in an emergency? [SERA.3105, p.45]",
+    "choices": [
+      "A turnback to the departure aerodrome",
+      "A landing without undue hazard to persons or property on the surface",
+      "A parachute descent",
+      "ATC radar identification"
+    ],
+    "answer": "A landing without undue hazard to persons or property on the surface"
+  },
+  {
+    "question": "Cruising levels are expressed in terms of flight levels when: [SERA.3110(a), p.46]",
+    "choices": [
+      "Flying under VFR only",
+      "At or above the lowest usable flight level or, where applicable, above transition altitude",
+      "Only inside controlled airspace",
+      "Above 3000 ft AGL"
+    ],
+    "answer": "At or above the lowest usable flight level or, where applicable, above transition altitude"
+  },
+  {
+    "question": "Cruising levels are expressed in terms of altitudes when: [SERA.3110(b), p.46]",
+    "choices": [
+      "Below the lowest usable flight level or, where applicable, at or below transition altitude",
+      "Only in Class G",
       "Only at night",
+      "Only below 5000 ft"
+    ],
+    "answer": "Below the lowest usable flight level or, where applicable, at or below transition altitude"
+  },
+  {
+    "question": "Dropping or spraying from an aircraft in flight may only be conducted in accordance with what? [SERA.3115, p.46]",
+    "choices": [
+      "Pilot judgement only",
+      "Union or national legislation and relevant ATS information/advice/clearance",
+      "Company SOPs only",
+      "Military procedures"
+    ],
+    "answer": "Union or national legislation and relevant ATS information/advice/clearance"
+  },
+  {
+    "question": "Towing by an aircraft may only be conducted in accordance with what? [SERA.3120, p.46]",
+    "choices": [
+      "Union or national legislation and relevant ATS information/advice/clearance",
+      "Visual meteorological conditions only",
+      "ATC clearance only",
+      "Operator approval only"
+    ],
+    "answer": "Union or national legislation and relevant ATS information/advice/clearance"
+  },
+  {
+    "question": "Parachute descents other than emergency descents may only be made in accordance with what? [SERA.3125, p.46]",
+    "choices": [
+      "Pilot discretion",
+      "Union or national legislation and relevant ATS information/advice/clearance",
+      "Only in Class G",
+      "Only with ATIS available"
+    ],
+    "answer": "Union or national legislation and relevant ATS information/advice/clearance"
+  },
+  {
+    "question": "Aerobatic flights shall only be carried out in accordance with what? [SERA.3130, pp.46-47]",
+    "choices": [
+      "Operator training policy only",
+      "Union or national legislation and relevant ATS information/advice/clearance",
+      "IFR only",
+      "ATC vectors only"
+    ],
+    "answer": "Union or national legislation and relevant ATS information/advice/clearance"
+  },
+  {
+    "question": "For formation flight, who must be designated? [SERA.3135(a), p.47]",
+    "choices": [
+      "A safety pilot",
+      "A marshaller",
+      "One pilot-in-command as the flight leader",
+      "An ATC coordinator"
+    ],
+    "answer": "One pilot-in-command as the flight leader"
+  },
+  {
+    "question": "For non-State aircraft in formation, what maximum vertical distance from the flight leader may be maintained? [SERA.3135(d), p.47]",
+    "choices": [
+      "50 ft",
+      "100 ft",
+      "200 ft",
+      "500 ft"
+    ],
+    "answer": "100 ft"
+  },
+  {
+    "question": "What lateral and longitudinal distance limit applies to each non-State aircraft from the flight leader in formation? [SERA.3135(d), p.47]",
+    "choices": [
+      "0.25 NM",
+      "0.5 NM / 1 km",
+      "1 NM",
+      "2 NM"
+    ],
+    "answer": "0.5 NM / 1 km"
+  },
+  {
+    "question": "Aircraft shall not be flown in a prohibited or restricted area except: [SERA.3145, p.47]",
+    "choices": [
+      "Under VFR only",
+      "In accordance with the conditions of the restrictions or by permission of the State concerned",
+      "At night only",
+      "When squawking 7000"
+    ],
+    "answer": "In accordance with the conditions of the restrictions or by permission of the State concerned"
+  },
+  {
+    "question": "Nothing in SERA relieves whom from taking action to avert collision? [SERA.3201, p.47]",
+    "choices": [
+      "The air traffic controller",
+      "The pilot-in-command",
+      "The operator",
+      "The competent authority"
+    ],
+    "answer": "The pilot-in-command"
+  },
+  {
+    "question": "Regardless of the flight type or airspace class, what is important on board for detecting potential collisions? [GM1 SERA.3201, p.48]",
+    "choices": [
+      "Traffic information service",
+      "Vigilance",
+      "Flight following",
+      "Mode C"
+    ],
+    "answer": "Vigilance"
+  },
+  {
+    "question": "How close may an aircraft be operated to another aircraft? [SERA.3205, p.48]",
+    "choices": [
+      "As close as wake turbulence allows",
+      "Not so close as to create a collision hazard",
+      "As directed by ATC only",
+      "Within 500 ft vertically"
+    ],
+    "answer": "Not so close as to create a collision hazard"
+  },
+  {
+    "question": "The aircraft that has the right-of-way shall maintain what? [SERA.3210(a), p.48]",
+    "choices": [
+      "Heading only",
+      "Speed only",
+      "Heading and speed",
+      "Altitude only"
+    ],
+    "answer": "Heading and speed"
+  },
+  {
+    "question": "An aircraft aware that the manoeuvrability of another aircraft is impaired shall: [SERA.3210(b), p.48]",
+    "choices": [
+      "Maintain priority if on the right",
+      "Give way to that aircraft",
+      "Request vectors",
+      "Climb above it"
+    ],
+    "answer": "Give way to that aircraft"
+  },
+  {
+    "question": "When two aircraft are approaching head-on and there is danger of collision, each shall: [SERA.3210(c)(1), p.48]",
+    "choices": [
+      "Turn left",
+      "Turn right",
+      "Climb",
+      "Descend"
+    ],
+    "answer": "Turn right"
+  },
+  {
+    "question": "When two aircraft are converging at approximately the same level, which aircraft shall give way? [SERA.3210(c)(2), p.48]",
+    "choices": [
+      "The aircraft on the right",
+      "The aircraft that has the other on its right",
+      "The faster aircraft",
+      "The lower aircraft"
+    ],
+    "answer": "The aircraft that has the other on its right"
+  },
+  {
+    "question": "Power-driven heavier-than-air aircraft shall give way to which of the following? [SERA.3210(c)(2)(i), p.48]",
+    "choices": [
+      "Only airships",
+      "Airships, sailplanes and balloons",
+      "Only balloons",
+      "Only helicopters"
+    ],
+    "answer": "Airships, sailplanes and balloons"
+  },
+  {
+    "question": "An overtaking aircraft shall normally alter heading in which direction? [SERA.3210(c)(3), p.48]",
+    "choices": [
+      "Left",
+      "Right",
+      "Either direction",
+      "Upwind"
+    ],
+    "answer": "Right"
+  },
+  {
+    "question": "Which aircraft may alter course either to the right or to the left while overtaking? [SERA.3210(c)(3)(i), p.48]",
+    "choices": [
+      "A helicopter",
+      "A sailplane overtaking another sailplane",
+      "A balloon",
+      "An airship"
+    ],
+    "answer": "A sailplane overtaking another sailplane"
+  },
+  {
+    "question": "Which aircraft has priority when another aircraft is compelled to land? [SERA.3210(c)(4)(ii), p.49]",
+    "choices": [
+      "The lower aircraft",
+      "The faster aircraft",
+      "The aircraft compelled to land",
+      "The aircraft on the right"
+    ],
+    "answer": "The aircraft compelled to land"
+  },
+  {
+    "question": "An aircraft taxiing on the manoeuvring area shall give way to which aircraft? [SERA.3210(c)(5), p.49]",
+    "choices": [
+      "Aircraft taxiing faster",
+      "Aircraft taking off or about to take off",
+      "Aircraft on the apron only",
+      "Helicopters only"
+    ],
+    "answer": "Aircraft taking off or about to take off"
+  },
+  {
+    "question": "At a controlled aerodrome, an aircraft taxiing on the manoeuvring area shall stop and hold at runway-holding positions unless: [SERA.3210(d)(2), p.49]",
+    "choices": [
+      "The runway appears clear",
+      "It is daylight",
+      "An explicit clearance to enter or cross the runway has been issued",
+      "The pilot is uncertain of position"
+    ],
+    "answer": "An explicit clearance to enter or cross the runway has been issued"
+  },
+  {
+    "question": "May a lit stop bar be crossed? [SERA.3210(d)(3) and GM1, pp.49-50]",
+    "choices": [
+      "Yes, if the pilot has a crossing clearance",
+      "No",
+      "Yes, in low visibility only",
+      "Yes, if follow-me is present"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "Which surface traffic has priority over all others when proceeding to the assistance of an aircraft in distress? [SERA.3210(d)(4)(iii), p.50]",
+    "choices": [
+      "Marshaller vehicles",
+      "Emergency vehicles",
+      "Fuel trucks",
+      "Follow-me vehicles"
+    ],
+    "answer": "Emergency vehicles"
+  },
+  {
+    "question": "If a pilot is in doubt as to the aircraft’s position with respect to the manoeuvring area, what should be done immediately? [SERA.3212(a), p.50]",
+    "choices": [
+      "Continue taxiing slowly",
+      "Stop the aircraft and notify ATS",
+      "Cross the nearest runway",
+      "Switch to tower frequency only"
+    ],
+    "answer": "Stop the aircraft and notify ATS"
+  },
+  {
+    "question": "If a pilot in doubt recognises the aircraft is on a runway, what should the pilot do if able to locate a nearby suitable taxiway? [SERA.3212(b), p.51]",
+    "choices": [
+      "Remain on the runway until towed",
+      "Vacate the runway as expeditiously as possible unless otherwise instructed, then stop",
+      "Turn around on the runway",
+      "Continue take-off"
+    ],
+    "answer": "Vacate the runway as expeditiously as possible unless otherwise instructed, then stop"
+  },
+  {
+    "question": "At night, all aircraft in flight shall display which lights? [SERA.3215(a), p.51]",
+    "choices": [
+      "Landing lights only",
+      "Anti-collision lights and, except for balloons, navigation lights",
+      "Taxi lights only",
+      "Beacon only"
+    ],
+    "answer": "Anti-collision lights and, except for balloons, navigation lights"
+  },
+  {
+    "question": "All aircraft in flight fitted with anti-collision lights shall display them also during: [SERA.3215(c), p.51]",
+    "choices": [
+      "Only twilight",
       "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Day",
+      "Only above FL100"
     ],
-    "answer": "Day and night"
+    "answer": "Day"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "A pilot may switch off or reduce the intensity of flashing lights if they are likely to do what? [SERA.3215(e), p.52]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "Increase fuel consumption",
+      "Adversely affect duties or cause harmful dazzle",
+      "Conflict with ATIS information",
+      "Create transponder interference"
     ],
-    "answer": "Whenever available"
+    "answer": "Adversely affect duties or cause harmful dazzle"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "Simulated instrument flight may not be conducted unless which equipment is installed? [SERA.3220(a), p.52]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Autopilot",
+      "Fully functioning dual controls",
+      "Weather radar",
+      "Mode S transponder"
     ],
-    "answer": "Never"
+    "answer": "Fully functioning dual controls"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "Under simulated instrument flight conditions, who must occupy a control seat? [SERA.3220(b), p.52]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "An ATCO",
+      "An additional qualified pilot acting as safety pilot",
+      "A flight engineer",
+      "A passenger observer only"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "An additional qualified pilot acting as safety pilot"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "Unless otherwise indicated or instructed by ATC, what turns shall aircraft make when approaching for landing and after take-off in the vicinity of an aerodrome? [SERA.3225(c), p.53]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "Right turns",
+      "Left turns",
+      "No standard turns",
+      "Turns toward the active wind"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "Left turns"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "Unless safety, runway configuration or traffic considerations determine otherwise, aircraft shall land and take off in which direction? [SERA.3225(d), p.53]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Into wind",
+      "Downwind",
+      "As preferred by the operator",
+      "Toward the sun"
     ],
-    "answer": "Day and night"
+    "answer": "Into wind"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "On the water, when two aircraft or an aircraft and a vessel are converging and there is risk of collision, which one gives way? [SERA.3230(a)(1), p.53]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "The one on the right",
+      "The one that has the other on its right",
+      "The faster craft",
+      "The lower craft"
     ],
-    "answer": "Whenever available"
+    "answer": "The one that has the other on its right"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "Upon observing or receiving a signal given in Appendix 1, aircraft shall: [SERA.3301(a), p.54]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Ignore it unless from ATC",
+      "Take the action required by the interpretation of the signal",
+      "Respond only by radio",
+      "Continue as filed"
     ],
-    "answer": "Never"
+    "answer": "Take the action required by the interpretation of the signal"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "Which time standard shall be used in SERA? [SERA.3401(a), p.55]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "Local time",
+      "UTC",
+      "Zoned local time",
+      "Operator time"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "UTC"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "Wherever time is utilised in data link communications, it shall be accurate to within: [SERA.3401(c), p.55]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "10 seconds of UTC",
+      "5 seconds of UTC",
+      "1 second of UTC",
+      "1 minute of UTC"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "1 second of UTC"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "A flight plan shall be submitted prior to any flight or portion thereof to be provided with what service? [SERA.4001(b)(1), p.56]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Flight information service",
+      "Air traffic control service",
+      "ATIS",
+      "Surveillance service only"
     ],
-    "answer": "Day and night"
+    "answer": "Air traffic control service"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "A flight plan shall be submitted prior to any IFR flight within what type of airspace? [SERA.4001(b)(2), p.56]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "Class G",
+      "Advisory airspace",
+      "Class E only",
+      "Restricted areas"
     ],
-    "answer": "Whenever available"
+    "answer": "Advisory airspace"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "Unless otherwise prescribed, any flight across international borders requires what? [SERA.4001(b)(5), p.56]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "ATIS",
+      "A flight plan",
+      "Special VFR clearance",
+      "Mode S only"
     ],
-    "answer": "Never"
+    "answer": "A flight plan"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "Any flight planned to operate at night leaving the vicinity of an aerodrome requires what? [SERA.4001(b)(6), p.56]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "Only a transponder",
+      "A flight plan",
+      "Only ATIS",
+      "Only a radio check"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "A flight plan"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "How long before EOBT may a flight plan be submitted at the earliest? [SERA.4001(d)(1), p.56]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "24 hours",
+      "48 hours",
+      "120 hours",
+      "7 days"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "120 hours"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "Flights that may be subject to ATFM measures shall be filed at least how long before EOBT? [SERA.4001(d)(2), p.56]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "30 minutes",
+      "60 minutes",
+      "2 hours",
+      "3 hours"
     ],
-    "answer": "Day and night"
+    "answer": "3 hours"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "For flights not subject to ATFM measures, the flight plan shall be submitted at least how long before departure? [SERA.4001(d)(3), p.56]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "10 minutes",
+      "30 minutes",
+      "60 minutes",
+      "90 minutes"
     ],
-    "answer": "Whenever available"
+    "answer": "60 minutes"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "If a flight plan is submitted during flight, it must be received at least how long before the aircraft reaches the intended point of entry into a control or advisory area? [SERA.4001(d)(4), p.57]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "5 minutes",
+      "10 minutes",
+      "20 minutes",
+      "30 minutes"
     ],
-    "answer": "Never"
+    "answer": "10 minutes"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "Which of the following is one of the required content items of a flight plan? [SERA.4005(a), pp.57-58]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "Cabin temperature",
+      "Aircraft identification",
+      "Captain's licence number",
+      "Passenger names"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "Aircraft identification"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "Which of the following is one of the required content items of a flight plan? [SERA.4005(a), pp.57-58]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "Wake turbulence category",
+      "Engine oil quantity",
+      "Latest QNH",
+      "Take-off runway condition"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "Wake turbulence category"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "Which of the following is one of the required content items of a flight plan? [SERA.4005(a), pp.57-58]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Fuel/energy endurance",
+      "Mass and balance graph",
+      "Cruise fuel flow only",
+      "Taxi fuel only"
     ],
-    "answer": "Day and night"
+    "answer": "Fuel/energy endurance"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "Which of the following is one of the required content items of a flight plan? [SERA.4005(a), pp.57-58]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "Emergency and survival equipment, including ballistic parachute recovery system",
+      "Passenger passport numbers",
+      "De-icing fluid quantity",
+      "Cabin service remarks"
     ],
-    "answer": "Whenever available"
+    "answer": "Emergency and survival equipment, including ballistic parachute recovery system"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "For a flight plan submitted during flight, what replaces the estimated off-block time? [SERA.4005(b), p.58]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Time over destination",
+      "Time over the first point of the route to which the flight plan relates",
+      "Last ATS contact time",
+      "Actual take-off time"
     ],
-    "answer": "Never"
+    "answer": "Time over the first point of the route to which the flight plan relates"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "An abbreviated flight plan transmitted by radiotelephony normally contains at least what? [GM1 SERA.4005(a), p.58]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "Call sign, type, point of entry, point of exit and level",
+      "Full flight plan including endurance and POB",
+      "Only the call sign and destination",
+      "Only route and estimated time"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "Call sign, type, point of entry, point of exit and level"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "Who must ensure that the content of the flight plan correctly reflects the operational intentions prior to operation of the flight? [SERA.4013(g), p.60]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "ATC",
+      "The aircraft operator",
+      "The aerodrome operator",
+      "EASA"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "The aircraft operator"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "All changes to a flight plan submitted for an IFR flight shall be reported during the pre-flight phase to whom for flights intended to operate IFR for part or all of the route? [SERA.4015(a)(1), p.60]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "The destination aerodrome only",
+      "The Network Manager",
+      "The nearest FIS unit only",
+      "The operator only"
     ],
-    "answer": "Day and night"
+    "answer": "The Network Manager"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "For other VFR flights, what changes to a flight plan shall be reported as soon as practicable? [SERA.4015(a), p.60]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "All changes",
+      "Only destination changes",
+      "Significant changes",
+      "No changes"
     ],
-    "answer": "Whenever available"
+    "answer": "Significant changes"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "If there is a delay of 30 minutes beyond EOBT for a controlled flight, what must be done? [SERA.4015(b), p.60]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Nothing if fuel is sufficient",
+      "The flight plan shall be amended, or a new one submitted and the old one cancelled, as applicable",
+      "Only ATIS must be checked again",
+      "ATC clearance is automatically cancelled"
     ],
-    "answer": "Never"
+    "answer": "The flight plan shall be amended, or a new one submitted and the old one cancelled, as applicable"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "For any IFR flight, delays of more than how many minutes shall be communicated to the Network Manager? [SERA.4015(b), p.60]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "10",
+      "15",
+      "30",
+      "60"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "15"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "Incorrect fuel or energy endurance submitted prior to departure constitutes what? [SERA.4015(d), p.60]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "A minor change",
+      "A significant change to the flight plan",
+      "Only an operator remark",
+      "A reason to cancel the flight automatically"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "A significant change to the flight plan"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "When shall an arrival report be made after landing when required? [SERA.4020(a), p.61]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Within 30 minutes",
+      "At the earliest possible moment",
+      "Only on request",
+      "Before shutdown"
     ],
-    "answer": "Day and night"
+    "answer": "At the earliest possible moment"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "When is submission of an arrival report not required after landing? [SERA.4020(a)(1), p.61]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "At uncontrolled aerodromes only",
+      "When landing has been observed at an aerodrome where ATS are provided and indicated by radio communication or visual signals",
+      "For VFR flights only",
+      "At night only"
     ],
-    "answer": "Whenever available"
+    "answer": "When landing has been observed at an aerodrome where ATS are provided and indicated by radio communication or visual signals"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "If no ATS unit exists at the arrival aerodrome or operating site, the arrival report shall be made how? [SERA.4020(c), p.61]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Not required",
+      "As soon as practicable by the quickest means available to the nearest ATS unit",
+      "Only by telephone to the operator",
+      "By CPDLC only"
     ],
-    "answer": "Never"
+    "answer": "As soon as practicable by the quickest means available to the nearest ATS unit"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "Which of the following is an element of an arrival report? [SERA.4020(e), p.61]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "Aircraft identification",
+      "Cruising speed",
+      "Wake turbulence category",
+      "Last assigned squawk"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "Aircraft identification"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "Which of the following is an element of an arrival report? [SERA.4020(e), p.61]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "Time of arrival",
+      "QNH used on final",
+      "Runway braking action",
+      "Fuel endurance remaining"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "Time of arrival"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "At and above 10 000 ft AMSL, what minimum flight visibility applies in VMC? [SERA.5001 Table S5-1, p.62]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "5 km",
+      "6 km",
+      "8 km",
+      "10 km"
     ],
-    "answer": "Day and night"
+    "answer": "8 km"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "Below 10 000 ft AMSL and above 3 000 ft AMSL or 1 000 ft above terrain, whichever is higher, what VMC visibility applies? [SERA.5001 Table S5-1, p.62]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "3 km",
+      "5 km",
+      "8 km",
+      "10 km"
     ],
-    "answer": "Whenever available"
+    "answer": "5 km"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "At or below 3 000 ft AMSL or 1 000 ft above terrain, whichever is higher, in Classes F and G, VMC may be: [SERA.5001 Table S5-1, p.62]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "1500 m horizontally and 1000 ft vertically from cloud",
+      "Clear of cloud and with the surface in sight",
+      "8 km and clear of cloud",
+      "5 km and 500 ft below cloud"
     ],
-    "answer": "Never"
+    "answer": "Clear of cloud and with the surface in sight"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "At and above 10 000 ft AMSL, what distance from cloud applies in VMC? [SERA.5001 Table S5-1, p.62]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "1000 ft vertically and 1500 m horizontally",
+      "500 ft vertically and 1000 m horizontally",
+      "Clear of cloud",
+      "2000 ft vertically and 5 km horizontally"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "1000 ft vertically and 1500 m horizontally"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "When prescribed by the competent authority, reduced visibility to not less than 1 500 m may be permitted for certain low-speed or low-traffic operations at what maximum speed? [SERA.5001 footnote (***), p.62]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "100 kt IAS",
+      "120 kt IAS",
+      "140 kt IAS",
+      "160 kt IAS"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "140 kt IAS"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "What lower visibility may helicopters be permitted to operate in, when so prescribed? [SERA.5001 footnote (***)(b), p.62]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "500 m",
+      "800 m",
+      "1000 m",
+      "1500 m"
     ],
-    "answer": "Day and night"
+    "answer": "800 m"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "Except as special VFR, VFR flights shall be conducted in conditions equal to or greater than what? [SERA.5005(a), p.63]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "Published aerodrome minima only",
+      "Table S5-1 VMC minima",
+      "Operator SOP minima",
+      "Class E minima only"
     ],
-    "answer": "Whenever available"
+    "answer": "Table S5-1 VMC minima"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "Without a clearance from ATC, VFR flights shall not take off, land, enter the ATZ or traffic circuit within a control zone when the reported ceiling is less than what? [SERA.5005(b)(1), p.63]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "500 ft",
+      "1000 ft",
+      "1500 ft",
+      "2000 ft"
     ],
-    "answer": "Never"
+    "answer": "1500 ft"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "Without a clearance from ATC, VFR flights shall not take off, land, enter the ATZ or traffic circuit within a control zone when ground visibility is less than what? [SERA.5005(b)(2), p.63]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "1500 m",
+      "3 km",
+      "5 km",
+      "8 km"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "5 km"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "When VFR at night is permitted by the competent authority and leaving the vicinity of an aerodrome, what is required? [SERA.5005(c)(1), p.63]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "ATIS receipt",
+      "A flight plan",
+      "Mode S transponder",
+      "Special VFR clearance"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "A flight plan"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "When VFR at night is permitted and radio is available, the flight shall establish and maintain what? [SERA.5005(c)(2), p.63]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Listening watch on 121.5 only",
+      "Two-way radio communication on the appropriate ATS channel",
+      "Company frequency watch",
+      "One-way broadcast only"
     ],
-    "answer": "Day and night"
+    "answer": "Two-way radio communication on the appropriate ATS channel"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "For VFR at night, what minimum ceiling applies? [SERA.5005(c)(3)(i), p.63]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "600 ft",
+      "1000 ft",
+      "1500 ft",
+      "2000 ft"
     ],
-    "answer": "Whenever available"
+    "answer": "1500 ft"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "For VFR at night below 3 000 ft AMSL or 1 000 ft above terrain, whichever is higher, in Classes B to G, the pilot shall maintain what? [SERA.5005(c)(3)(iii), p.63]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Radar contact",
+      "Continuous sight of the surface",
+      "Ground reference every 10 minutes",
+      "Cloud clearance only"
     ],
-    "answer": "Never"
+    "answer": "Continuous sight of the surface"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "Except where specifically authorised, VFR flights shall not be operated above what level? [SERA.5005(d)(2), p.64]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "FL100",
+      "FL195",
+      "FL245",
+      "FL285"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "FL195"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "When VFR flights above FL285 are considered, what condition prevents authorisation? [SERA.5005(e), p.64]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "When Class C exists above FL195",
+      "When 1000 ft vertical separation is applied above FL290",
+      "When not night VFR",
+      "When in mountainous areas"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "When 1000 ft vertical separation is applied above FL290"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "Except when necessary for take-off/landing or with permission, what is the minimum VFR height over congested areas or open-air assemblies? [SERA.5005(f)(1), p.64]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "500 ft above highest obstacle within 150 m radius",
+      "1000 ft above highest obstacle within 600 m radius",
+      "1500 ft above aerodrome elevation",
+      "2000 ft above highest obstacle within 8 km"
     ],
-    "answer": "Day and night"
+    "answer": "1000 ft above highest obstacle within 600 m radius"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "Except when necessary for take-off/landing or with permission, what is the minimum VFR height elsewhere? [SERA.5005(f)(2), p.64]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "300 ft above ground",
+      "500 ft above ground/water or highest obstacle within 500 ft radius",
+      "1000 ft above terrain",
+      "1500 ft above obstacle within 8 km"
     ],
-    "answer": "Whenever available"
+    "answer": "500 ft above ground/water or highest obstacle within 500 ft radius"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "VFR flights in level cruising flight above 3 000 ft from the ground or water, or a higher datum specified by the authority, shall be conducted at what? [SERA.5005(g), p.64]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Any level chosen by the pilot",
+      "A cruising level appropriate to the track as in Appendix 3",
+      "Even flight levels only",
+      "Odd altitudes only"
     ],
-    "answer": "Never"
+    "answer": "A cruising level appropriate to the track as in Appendix 3"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "VFR flights shall comply with Section 8 when operated in which airspace classes? [SERA.5005(h)(1), p.64]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "A, B and C",
+      "B, C and D",
+      "D, E and F",
+      "F and G"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "B, C and D"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "A VFR flight in designated areas/routes shall maintain what on the appropriate channel? [SERA.5005(i), p.64]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "Intermittent watch",
+      "Continuous air-ground voice communication watch",
+      "Guard on 121.5 only",
+      "Listening watch only when crossing a boundary"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "Continuous air-ground voice communication watch"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "What must a VFR aircraft wishing to change to IFR do when controlled airspace is involved? [SERA.5005(j), p.64]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Just switch transponder code",
+      "Submit or amend a flight plan as required and obtain a clearance prior to proceeding IFR in controlled airspace",
+      "Climb above cloud and continue",
+      "Only advise the operator"
     ],
-    "answer": "Day and night"
+    "answer": "Submit or amend a flight plan as required and obtain a clearance prior to proceeding IFR in controlled airspace"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "Special VFR flights may be authorised to operate where? [SERA.5010, p.66]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "Anywhere below VMC",
+      "Within a control zone, subject to ATC clearance",
+      "Only in Class G",
+      "Only above FL100"
     ],
-    "answer": "Whenever available"
+    "answer": "Within a control zone, subject to ATC clearance"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "Except where otherwise permitted for helicopters, special VFR flights may be conducted during: [SERA.5010(a), p.66]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Day only",
+      "Night only",
+      "Day and night without restriction",
+      "Only civil twilight"
     ],
-    "answer": "Never"
+    "answer": "Day only"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "Under special VFR, what minimum flight visibility applies for helicopters? [SERA.5010(b)(2), p.66]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "500 m",
+      "800 m",
+      "1500 m",
+      "5 km"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "800 m"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "Under special VFR, what speed limit applies? [SERA.5010(b)(3), p.66]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "100 kt IAS or less",
+      "120 kt IAS or less",
+      "140 kt IAS or less",
+      "160 kt IAS or less"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "140 kt IAS or less"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "ATC shall not issue a special VFR clearance to take off or land within a control zone when the ceiling is less than what? [SERA.5010(c)(2), p.66]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "300 ft",
+      "500 ft",
+      "600 ft",
+      "1000 ft"
     ],
-    "answer": "Day and night"
+    "answer": "600 ft"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "Under IFR, aircraft shall be equipped with what? [SERA.5015(a), p.67]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "Only a transponder",
+      "Suitable instruments and navigation equipment appropriate to the route",
+      "Only a radio compass",
+      "Only instruments required for VFR night"
     ],
-    "answer": "Whenever available"
+    "answer": "Suitable instruments and navigation equipment appropriate to the route"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "Absent a published minimum flight altitude, what minimum level applies for IFR over high terrain or mountainous areas? [SERA.5015(b)(1), p.67]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "1000 ft above highest obstacle within 8 km",
+      "2000 ft above highest obstacle within 8 km",
+      "2000 ft above highest obstacle within 5 NM",
+      "3000 ft above highest obstacle within 10 NM"
     ],
-    "answer": "Never"
+    "answer": "2000 ft above highest obstacle within 8 km"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "Absent a published minimum flight altitude, what minimum level applies for IFR elsewhere? [SERA.5015(b)(2), p.67]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "500 ft above highest obstacle within 500 ft radius",
+      "1000 ft above highest obstacle within 8 km",
+      "1500 ft above highest obstacle within 8 km",
+      "2000 ft above terrain"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "1000 ft above highest obstacle within 8 km"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "What exact phrase shall the pilot use to cancel IFR? [SERA.5015(c)(3), p.68]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "REQUEST VFR",
+      "CANCEL IFR",
+      "CANCELLING MY IFR FLIGHT",
+      "SWITCHING TO VFR"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "CANCELLING MY IFR FLIGHT"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "Who may initiate a change from IFR flight to VFR flight? [SERA.5015(c)(3), p.68]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "ATC when weather improves",
+      "The pilot-in-command only",
+      "The operator by ACARS",
+      "FIS on request"
     ],
-    "answer": "Day and night"
+    "answer": "The pilot-in-command only"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "When in VMC, an IFR aircraft shall not cancel IFR unless what is anticipated and intended? [SERA.5015(c)(2), p.68]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "That it will descend immediately",
+      "That the flight will continue for a reasonable period in uninterrupted VMC",
+      "That Class G airspace is ahead",
+      "That ATC agrees with no conditions"
     ],
-    "answer": "Whenever available"
+    "answer": "That the flight will continue for a reasonable period in uninterrupted VMC"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "IFR flights in controlled airspace shall comply with which section? [SERA.5020(a), p.68]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Section 4",
+      "Section 5",
+      "Section 8",
+      "Section 14"
     ],
-    "answer": "Never"
+    "answer": "Section 8"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "An IFR flight cruising in controlled airspace shall normally fly at a cruising level selected from what? [SERA.5020(b), p.68]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "Table of cruising levels in Appendix 3",
+      "Pilot preference",
+      "ATIS published altitudes",
+      "Only semicircular VFR rule"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "Table of cruising levels in Appendix 3"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "An IFR flight in level cruising flight outside controlled airspace shall be flown at what cruising level? [SERA.5025(a), p.69]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "Any level chosen by the pilot",
+      "A cruising level appropriate to its track as specified in Appendix 3",
+      "Only odd thousands",
+      "Only even flight levels"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "A cruising level appropriate to its track as specified in Appendix 3"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "When required in designated areas or routes outside controlled airspace, an IFR flight shall maintain what? [SERA.5025(b), p.69]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Guard on company frequency",
+      "Air-ground voice watch and establish two-way communication as necessary with the ATS unit providing FIS",
+      "Only transponder monitoring",
+      "ATIS watch"
     ],
-    "answer": "Day and night"
+    "answer": "Air-ground voice watch and establish two-way communication as necessary with the ATS unit providing FIS"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "Outside controlled airspace, IFR position reports shall be made as specified for what, when required by the competent authority? [SERA.5025(c), p.69]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "Uncontrolled VFR flights",
+      "Controlled flights under SERA.8025",
+      "ATIS reports",
+      "AIREP special only"
     ],
-    "answer": "Whenever available"
+    "answer": "Controlled flights under SERA.8025"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "What type of flights are permitted in Class A airspace? [SERA.6001(a)(1), p.70]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "IFR and VFR",
+      "IFR only",
+      "VFR only",
+      "Special VFR only"
     ],
-    "answer": "Never"
+    "answer": "IFR only"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "In which airspace class are all flights separated from each other and all flights subject to ATC clearance while both IFR and VFR are permitted? [SERA.6001(a)(2), p.70]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "Class B",
+      "Class C",
+      "Class D",
+      "Class E"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "Class B"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "In Class C airspace, VFR flights are separated from which traffic? [SERA.6001(a)(3), p.70]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "Other VFR flights",
+      "Only helicopters",
+      "IFR flights",
+      "No traffic at all"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "IFR flights"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "In Class C airspace, what do VFR flights receive in respect of other VFR flights? [SERA.6001(a)(3), p.70]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Separation",
+      "Traffic information and traffic avoidance advice on request",
+      "No service",
+      "Wake turbulence separation"
     ],
-    "answer": "Day and night"
+    "answer": "Traffic information and traffic avoidance advice on request"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "In Class D airspace, IFR flights are separated from which flights? [SERA.6001(a)(4), p.70]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "All flights",
+      "Only VFR flights",
+      "Other IFR flights",
+      "No flights"
     ],
-    "answer": "Whenever available"
+    "answer": "Other IFR flights"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "In Class D airspace, VFR flights receive what? [SERA.6001(a)(4), p.70]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Separation from all flights",
+      "Traffic information in respect of all other flights and traffic avoidance advice on request",
+      "Only ATIS",
+      "No service"
     ],
-    "answer": "Never"
+    "answer": "Traffic information in respect of all other flights and traffic avoidance advice on request"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "In Class E airspace, which flights are subject to ATC clearance? [SERA.6001(a)(5), p.70]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "All flights",
+      "Only VFR flights",
+      "Only IFR flights",
+      "No flights"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "Only IFR flights"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "Which class shall not be used for control zones? [SERA.6001(a)(5), p.70]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "Class C",
+      "Class D",
+      "Class E",
+      "Class G"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "Class E"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "What service do participating IFR flights receive in Class F airspace? [SERA.6001(a)(6), p.70]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Full ATC separation",
+      "Air traffic advisory service",
+      "No service",
+      "Only meteorological service"
     ],
-    "answer": "Day and night"
+    "answer": "Air traffic advisory service"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "Is ATC clearance required in Class F airspace? [SERA.6001(a)(6), p.70]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "Yes, for all flights",
+      "Yes, for IFR only",
+      "No",
+      "Only above FL100"
     ],
-    "answer": "Whenever available"
+    "answer": "No"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "In Class G airspace, IFR and VFR flights receive what if requested? [SERA.6001(a)(7), pp.70-71]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "Air traffic control service",
+      "Flight information service",
+      "Approach control",
+      "Alerting service only"
     ],
-    "answer": "Never"
+    "answer": "Flight information service"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "Above which level shall all airspace be classified as Class C? [SERA.6001(b), p.71]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "FL100",
+      "FL145",
+      "FL195",
+      "FL285"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "FL195"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "What general speed limitation applies below 10 000 ft AMSL in Classes C to G, except where specifically approved? [SERA.6001(a)(3)-(7), pp.70-71]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "140 kt IAS",
+      "200 kt IAS",
+      "250 kt IAS",
+      "300 kt IAS"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "250 kt IAS"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "Where vertically adjoining ATS airspaces of different classes meet, flights at a common level should comply with which class? [AMC1 SERA.6001, p.71]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "The more restrictive class",
+      "The less restrictive class",
+      "The upper class only",
+      "The lower class only"
     ],
-    "answer": "Day and night"
+    "answer": "The less restrictive class"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "Implementation of Class F should be considered as what? [SERA.6001(a)(8), p.71]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "A permanent preferred solution",
+      "A temporary measure",
+      "A military-only classification",
+      "A control zone classification"
     ],
-    "answer": "Whenever available"
+    "answer": "A temporary measure"
   },
   {
-    "question": "When may an ATS unit invite a pilot to change from IFR to VFR? [SERA.5015(c)(3), p.68]",
+    "question": "Before entering an RMZ, what must a pilot make on the appropriate frequency? [SERA.6005(a)(2), p.74]",
     "choices": [
-      "When weather improves above VMC",
-      "When traffic permits",
-      "Never",
-      "When requested by another aircraft"
+      "A blind transmission with squawk only",
+      "An initial call with station, call sign, type, position, level, intentions and other prescribed information",
+      "No call is required if monitoring",
+      "Only a SELCAL check"
     ],
-    "answer": "Never"
+    "answer": "An initial call with station, call sign, type, position, level, intentions and other prescribed information"
   },
   {
-    "question": "What phrase must be used to cancel IFR? [SERA.5015(c)(3), p.68]",
+    "question": "All flights operating in a TMZ shall carry and operate what? [SERA.6005(b), p.74]",
     "choices": [
-      "Switching to VFR",
-      "Request VFR",
-      "Cancelling my IFR flight",
-      "Changing to visual flight"
+      "ELT only",
+      "SSR transponders capable of Modes A and C or Mode S",
+      "ADS-B only",
+      "VHF radio only"
     ],
-    "answer": "Cancelling my IFR flight"
+    "answer": "SSR transponders capable of Modes A and C or Mode S"
   },
   {
-    "question": "Minimum IFR clearance in mountainous areas is: [SERA.5015(b), p.68]",
+    "question": "Which of the following is one of the objectives of air traffic services? [SERA.7001, p.82]",
     "choices": [
-      "1000 ft within 5 km",
-      "2000 ft within 8 km",
-      "1500 ft within 10 km",
-      "2000 ft within 5 km"
+      "Collecting airport charges",
+      "Preventing collisions between aircraft",
+      "Allocating airline slots only",
+      "Managing customs clearance"
     ],
-    "answer": "2000 ft within 8 km"
+    "answer": "Preventing collisions between aircraft"
   },
   {
-    "question": "Anti-collision lights must be displayed: [SERA.3215(c), p.52]",
+    "question": "Which of the following is one of the objectives of air traffic services? [SERA.7001, p.82]",
     "choices": [
-      "Only at night",
-      "Only in IMC",
-      "Day and night",
-      "Only in controlled airspace"
+      "Preventing collisions between aircraft on the manoeuvring area and obstructions on that area",
+      "Approving maintenance schedules",
+      "Issuing NOTAMs only",
+      "Providing fuel planning"
     ],
-    "answer": "Day and night"
+    "answer": "Preventing collisions between aircraft on the manoeuvring area and obstructions on that area"
   },
   {
-    "question": "Standard phraseology must be used: [SERA.14001, p.136]",
+    "question": "What should ATC do when a pilot reports a state of minimum fuel/energy? [SERA.11012(a), p.113]",
     "choices": [
-      "Only IFR",
-      "Only controlled airspace",
-      "Whenever available",
-      "Optional"
+      "Issue MAYDAY on behalf of the aircraft",
+      "Inform the pilot as soon as practicable of any anticipated delays or that no delays are expected",
+      "Immediately clear the aircraft direct to the nearest aerodrome",
+      "Terminate radar service"
     ],
-    "answer": "Whenever available"
+    "answer": "Inform the pilot as soon as practicable of any anticipated delays or that no delays are expected"
+  },
+  {
+    "question": "When fuel/energy renders declaring a distress situation necessary, which radiotelephony distress signal shall the pilot use? [SERA.11012(b), p.113]",
+    "choices": [
+      "PAN PAN",
+      "MAYDAY",
+      "MINIMUM FUEL",
+      "SOS"
+    ],
+    "answer": "MAYDAY"
+  },
+  {
+    "question": "What does the phrase 'MINIMUM FUEL' tell ATC? [GM1 SERA.11012, p.113]",
+    "choices": [
+      "An emergency already exists",
+      "All aerodrome options have been reduced to a specific aerodrome and additional delay may lead to an emergency",
+      "The aircraft is diverting immediately",
+      "Fuel jettison is required"
+    ],
+    "answer": "All aerodrome options have been reduced to a specific aerodrome and additional delay may lead to an emergency"
+  },
+  {
+    "question": "If aircraft performance is degraded below the level required for the airspace, what shall the flight crew do? [SERA.11013(a), p.113]",
+    "choices": [
+      "Continue and report after landing",
+      "Advise the ATC unit concerned without delay",
+      "Squawk standby",
+      "Descend below controlled airspace"
+    ],
+    "answer": "Advise the ATC unit concerned without delay"
+  },
+  {
+    "question": "What special significance may a strayed aircraft and an unidentified aircraft have at the same time? [GM1 SERA.11010, p.113]",
+    "choices": [
+      "They are always the same aircraft legally",
+      "An aircraft may be considered strayed by one unit and unidentified by another",
+      "Both terms apply only in military airspace",
+      "Neither requires ATS assistance"
+    ],
+    "answer": "An aircraft may be considered strayed by one unit and unidentified by another"
+  },
+  {
+    "question": "Why is navigational assistance particularly important for a strayed aircraft? [GM1 SERA.11010(b), p.113]",
+    "choices": [
+      "To improve fuel economy",
+      "Because it may be nearing an area where there is a risk of interception or other hazard",
+      "To expedite arrival sequencing",
+      "To obtain customs clearance"
+    ],
+    "answer": "Because it may be nearing an area where there is a risk of interception or other hazard"
+  },
+  {
+    "question": "What should ATS avoid doing in relation to an explosive device on board an unlawfully interfered aircraft? [GM1 SERA.11005(g), p.111]",
+    "choices": [
+      "Providing vectors",
+      "Providing any advice or suggestions on action to be taken by the flight crew concerning the device",
+      "Providing isolated parking",
+      "Requesting intentions"
+    ],
+    "answer": "Providing any advice or suggestions on action to be taken by the flight crew concerning the device"
+  },
+  {
+    "question": "What should a controller avoid saying unless the pilot has first said it on the radio during unlawful interference? [GM1 to AMC1 SERA.11005(a)(1), p.111]",
+    "choices": [
+      "The destination aerodrome",
+      "The term 'unlawful interference'",
+      "The transponder code",
+      "The word 'MAYDAY'"
+    ],
+    "answer": "The term 'unlawful interference'"
+  },
+  {
+    "question": "An aircraft known or believed to be subject to unlawful interference should normally be cleared where? [GM1 SERA.11005(h), p.111]",
+    "choices": [
+      "To the nearest gate",
+      "To the designated isolated parking position",
+      "To the active runway",
+      "To the fuel bay"
+    ],
+    "answer": "To the designated isolated parking position"
+  },
+  {
+    "question": "Which of the following requires a special aircraft observation? [SERA.12005(a), p.128]",
+    "choices": [
+      "Light turbulence",
+      "Moderate or severe turbulence",
+      "Scattered clouds",
+      "Calm wind"
+    ],
+    "answer": "Moderate or severe turbulence"
+  },
+  {
+    "question": "Which of the following requires a special aircraft observation? [SERA.12005(a), p.128]",
+    "choices": [
+      "Moderate or severe icing",
+      "Light icing only",
+      "Rain showers",
+      "Temperature inversion"
+    ],
+    "answer": "Moderate or severe icing"
+  },
+  {
+    "question": "Which thunderstorm situations require special aircraft observations? [SERA.12005(a)(4)-(5), p.128]",
+    "choices": [
+      "Any isolated thunderstorm",
+      "Only thunderstorms with lightning",
+      "Obscured, embedded, widespread or squall-line thunderstorms, with or without hail as specified",
+      "Only thunderstorms directly over destination"
+    ],
+    "answer": "Obscured, embedded, widespread or squall-line thunderstorms, with or without hail as specified"
+  },
+  {
+    "question": "Which runway-related condition requires a special aircraft observation? [SERA.12005(a)(9), p.128]",
+    "choices": [
+      "Runway surface dry",
+      "Runway braking action not as good as reported",
+      "Crosswind above 15 kt",
+      "Any standing water"
+    ],
+    "answer": "Runway braking action not as good as reported"
+  },
+  {
+    "question": "When other meteorological conditions not listed, such as wind shear, are encountered and may affect safety, what shall the pilot-in-command do? [SERA.12010, p.128]",
+    "choices": [
+      "Log it after landing only",
+      "Advise the appropriate ATS unit as soon as practicable",
+      "Broadcast on guard only",
+      "Nothing unless requested"
+    ],
+    "answer": "Advise the appropriate ATS unit as soon as practicable"
+  },
+  {
+    "question": "When shall aircraft observations be reported? [SERA.12015(a), p.128]",
+    "choices": [
+      "At the end of the flight",
+      "At the time observed or as soon thereafter as practicable",
+      "Only when entering controlled airspace",
+      "Every 30 minutes"
+    ],
+    "answer": "At the time observed or as soon thereafter as practicable"
+  },
+  {
+    "question": "Air traffic services units shall transmit special and non-routine air-reports as soon as practicable to whom? [SERA.12020(a), p.128]",
+    "choices": [
+      "Only the operator",
+      "Other aircraft concerned, the associated MWO, and other ATS units concerned",
+      "Only ATIS",
+      "Only the competent authority"
+    ],
+    "answer": "Other aircraft concerned, the associated MWO, and other ATS units concerned"
+  },
+  {
+    "question": "Aircraft equipped with a Mode S or ADS-B transmitter having an aircraft identification feature shall transmit what identification? [SERA.13015(a), pp.132-133]",
+    "choices": [
+      "Always the registration only",
+      "The aircraft identification as specified in the flight plan, or if none filed, the registration unless approved otherwise",
+      "Any operator code",
+      "The SSR Mode A code"
+    ],
+    "answer": "The aircraft identification as specified in the flight plan, or if none filed, the registration unless approved otherwise"
+  },
+  {
+    "question": "If transmitted aircraft identification differs from that expected, what shall the pilot be requested to do? [SERA.13015(b), pp.132-133]",
+    "choices": [
+      "Switch off the transponder",
+      "Confirm and, if necessary, re-enter the correct aircraft identification",
+      "Change destination",
+      "Squawk 7700"
+    ],
+    "answer": "Confirm and, if necessary, re-enter the correct aircraft identification"
+  },
+  {
+    "question": "If the aircraft identification discrepancy persists after pilot confirmation, what shall ATS do where possible? [SERA.13015(c)(2), p.133]",
+    "choices": [
+      "Terminate surveillance",
+      "Correct the label showing the aircraft identification on the situation display",
+      "Cancel the flight plan",
+      "Switch the aircraft to another frequency"
+    ],
+    "answer": "Correct the label showing the aircraft identification on the situation display"
+  },
+  {
+    "question": "An aircraft equipped with ADS-B may use emergency or urgency mode to indicate which of the following? [GM1 SERA.13015, p.134]",
+    "choices": [
+      "Only general emergency",
+      "Communication failure",
+      "Weather deviation",
+      "Low oil pressure only"
+    ],
+    "answer": "Communication failure"
+  },
+  {
+    "question": "An aircraft equipped with ADS-B may use emergency or urgency mode to indicate which of the following? [GM1 SERA.13015, p.134]",
+    "choices": [
+      "Minimum fuel/energy",
+      "Cabin ready",
+      "Pushback approved",
+      "Boarding complete"
+    ],
+    "answer": "Minimum fuel/energy"
+  },
+  {
+    "question": "If displayed level information from pressure-altitude-derived data is not within approved tolerance, what should the pilot first be asked to check? [GM1 SERA.13010(b), p.132]",
+    "choices": [
+      "Fuel quantity",
+      "Pressure setting and confirm the aircraft's level",
+      "Destination weather",
+      "Call sign spelling"
+    ],
+    "answer": "Pressure setting and confirm the aircraft's level"
+  },
+  {
+    "question": "If after correct pressure setting confirmation the displayed level discrepancy continues, ATC may request the pilot to do what, if available? [GM1 SERA.13010(b)(b)(1), p.132]",
+    "choices": [
+      "Select an alternative transponder and re-verify",
+      "Shut down all avionics",
+      "Change destination",
+      "Climb 1000 ft"
+    ],
+    "answer": "Select an alternative transponder and re-verify"
+  },
+  {
+    "question": "Why must controllers consider ACAS if erroneous Mode C information cannot be corrected? [GM1 SERA.13010(b)(c), p.132]",
+    "choices": [
+      "Because ACAS ignores Mode C",
+      "Because ACAS may generate an RA based on erroneous inputs",
+      "Because ACAS cannot be used in controlled airspace",
+      "Because ACAS requires QFE"
+    ],
+    "answer": "Because ACAS may generate an RA based on erroneous inputs"
+  },
+  {
+    "question": "Standardised phraseology shall be used in all situations for which it has been specified. What is used only when that phraseology cannot serve an intended transmission? [SERA.14001, p.136]",
+    "choices": [
+      "Silence",
+      "Plain language",
+      "Operator jargon",
+      "Abbreviated Morse"
+    ],
+    "answer": "Plain language"
+  },
+  {
+    "question": "During flight, aircraft shall maintain watch as required by the competent authority and shall not cease watch except for what reason, without informing ATS? [SERA.14080(a), p.198]",
+    "choices": [
+      "Passenger convenience",
+      "Reasons of safety",
+      "Fuel saving",
+      "Weather avoidance"
+    ],
+    "answer": "Reasons of safety"
+  },
+  {
+    "question": "Aircraft on long over-water flights or flights over designated areas where carriage of an ELT is required shall continuously guard which frequency? [SERA.14080(a)(1), p.198]",
+    "choices": [
+      "118.000 MHz",
+      "121.500 MHz",
+      "123.450 MHz",
+      "243.000 MHz"
+    ],
+    "answer": "121.500 MHz"
+  },
+  {
+    "question": "When an aircraft is unable to comply with SERA.8035(a), what shall the flight crew first attempt? [SERA.14083(a), p.198]",
+    "choices": [
+      "Immediate descent",
+      "To establish contact on the previous channel used and, if not successful, on another appropriate channel",
+      "To squawk standby",
+      "To return to departure"
+    ],
+    "answer": "To establish contact on the previous channel used and, if not successful, on another appropriate channel"
+  },
+  {
+    "question": "If attempts on the assigned or appropriate channels fail after radio communication failure, the flight crew shall attempt to establish communication with whom using all available means? [SERA.14083(a), p.198]",
+    "choices": [
+      "Only the operator",
+      "The appropriate ATS unit, other ATS units, or other aircraft",
+      "Only the destination aerodrome",
+      "Only SAR"
+    ],
+    "answer": "The appropriate ATS unit, other ATS units, or other aircraft"
+  },
+  {
+    "question": "On radio communication failure, what transponder code shall be set? [SERA.14083(c)(2), p.199]",
+    "choices": [
+      "7500",
+      "7600",
+      "7700",
+      "7000"
+    ],
+    "answer": "7600"
+  },
+  {
+    "question": "After radio communication failure, a VFR flight shall do what? [SERA.14083(c)(3), p.199]",
+    "choices": [
+      "Continue to destination regardless of weather",
+      "Continue in VMC, land at the nearest suitable aerodrome, and report arrival by the most expeditious means",
+      "Climb to the MSA and hold",
+      "Squawk 7700 and continue IFR"
+    ],
+    "answer": "Continue in VMC, land at the nearest suitable aerodrome, and report arrival by the most expeditious means"
+  },
+  {
+    "question": "Following radio communication failure, how long shall an IFR flight maintain the last assigned speed and level, or minimum flight altitude if higher, after a required report is missed or code 7600 is set while surveillance service is provided? [SERA.14083(c)(4)(i), p.199]",
+    "choices": [
+      "10 minutes",
+      "15 minutes",
+      "20 minutes",
+      "30 minutes"
+    ],
+    "answer": "20 minutes"
+  },
+  {
+    "question": "If being vectored or directed offset by RNAV when radio communication fails, and no specified limit was given, by when shall the aircraft rejoin the last received and acknowledged route? [SERA.14083(c)(4)(ii)(B), p.199]",
+    "choices": [
+      "Immediately",
+      "No later than the next significant point",
+      "At destination only",
+      "After 20 minutes only"
+    ],
+    "answer": "No later than the next significant point"
+  },
+  {
+    "question": "Following radio communication failure, an IFR flight shall commence descent from the designated navigation aid or fix at, or as close as possible to, which time if no expected approach time has been received? [SERA.14083(c)(4)(iv), p.199]",
+    "choices": [
+      "The filed off-block time",
+      "The estimated time of arrival",
+      "Sunset",
+      "The flight planned cruising time"
+    ],
+    "answer": "The estimated time of arrival"
+  },
+  {
+    "question": "After radio communication failure, if an IFR flight encounters VMC and the pilot decides to continue in VMC, what Mode A code shall be set? [SERA.14083(c)(6), p.199]",
+    "choices": [
+      "7500",
+      "7600",
+      "7601",
+      "7700"
+    ],
+    "answer": "7601"
+  },
+  {
+    "question": "What distinguishes a distress condition from an urgency condition? [SERA.14095(a)(1), p.207]",
+    "choices": [
+      "Distress requires immediate assistance; urgency does not",
+      "Urgency requires immediate assistance; distress does not",
+      "Distress is only for medical flights",
+      "Urgency is only for fuel"
+    ],
+    "answer": "Distress requires immediate assistance; urgency does not"
+  },
+  {
+    "question": "Which signal shall be used at the commencement of the first distress communication? [SERA.14095(a)(2), p.207]",
+    "choices": [
+      "PAN PAN",
+      "MAYDAY",
+      "ALERT",
+      "EMERGENCY"
+    ],
+    "answer": "MAYDAY"
+  },
+  {
+    "question": "Which signal shall be used at the commencement of the first urgency communication? [SERA.14095(a)(2), p.207]",
+    "choices": [
+      "MAYDAY",
+      "PAN PAN",
+      "SOS",
+      "SECURITE"
+    ],
+    "answer": "PAN PAN"
+  },
+  {
+    "question": "Urgency communications have priority over all other communications except what? [SERA.14095(c)(3), p.210]",
+    "choices": [
+      "ATIS",
+      "Company traffic",
+      "Distress communications",
+      "Ground vehicle traffic"
+    ],
+    "answer": "Distress communications"
+  },
+  {
+    "question": "What additional signal follows 'PAN PAN' for protected medical transport communications? [SERA.14095(c)(4)(ii), p.210]",
+    "choices": [
+      "MEDICAL",
+      "MAY-DEE-CAL",
+      "LIFEGUARD",
+      "HOSPITAL"
+    ],
+    "answer": "MAY-DEE-CAL"
+  },
+  {
+    "question": "Which of the following is one of the permitted genuine emergency uses of 121.500 MHz? [SERA.14095(d), pp.211-212]",
+    "choices": [
+      "Routine position reports",
+      "A common VHF channel in the event of interception of a civil aircraft",
+      "Company coordination",
+      "ATIS broadcast"
+    ],
+    "answer": "A common VHF channel in the event of interception of a civil aircraft"
+  },
+  {
+    "question": "Which of the following is one of the permitted genuine emergency uses of 121.500 MHz? [SERA.14095(d), pp.211-212]",
+    "choices": [
+      "A clear channel between aircraft in distress or emergency and a ground station when normal channels are busy",
+      "Routine weather requests",
+      "Flight plan filing",
+      "Passenger announcements"
+    ],
+    "answer": "A clear channel between aircraft in distress or emergency and a ground station when normal channels are busy"
+  },
+  {
+    "question": "What should be avoided when using 121.500 MHz for common search and rescue operations? [GM1 SERA.14095(d)(3), p.213]",
+    "choices": [
+      "Changing frequency",
+      "Interfering in any way with the efficient handling of distress traffic",
+      "Speaking plain language",
+      "Using a military aircraft"
+    ],
+    "answer": "Interfering in any way with the efficient handling of distress traffic"
+  },
+  {
+    "question": "Upon identifying a suspected communicable disease or other public health risk on board, whom shall the flight crew promptly notify? [SERA.14100(a), p.213]",
+    "choices": [
+      "Only the operator",
+      "The ATS unit with which the pilot is communicating",
+      "Only destination handling",
+      "Only the public health authority"
+    ],
+    "answer": "The ATS unit with which the pilot is communicating"
+  },
+  {
+    "question": "Which of the following must be included in the notification of a suspected communicable disease? [SERA.14100(a), p.213]",
+    "choices": [
+      "Aircraft identification",
+      "Runway in use",
+      "Fuel remaining",
+      "Captain's medical certificate number"
+    ],
+    "answer": "Aircraft identification"
+  },
+  {
+    "question": "Which of the following must be included in the notification of a suspected communicable disease? [SERA.14100(a), p.213]",
+    "choices": [
+      "Number of suspected cases on board",
+      "Passenger nationalities",
+      "Cabin baggage count",
+      "Fuel uplift"
+    ],
+    "answer": "Number of suspected cases on board"
+  },
+  {
+    "question": "Which symptom combination may indicate a suspected communicable disease requiring further evaluation? [GM1 SERA.14100, p.213]",
+    "choices": [
+      "Mild ear discomfort only",
+      "Fever of 38 °C/100 °F or greater with other concerning symptoms",
+      "Slight dehydration after flight",
+      "Motion sickness only"
+    ],
+    "answer": "Fever of 38 °C/100 °F or greater with other concerning symptoms"
   }
 ]
